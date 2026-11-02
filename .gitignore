@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local/generated model data (large and/or reconstructed)
+module3_hdb/hdb_data/*
+!module3_hdb/hdb_data/README.md
+
+# Generated model/report artifacts
+module3_hdb/hdb_pairs.js
+module3_hdb/hdb_drivers.js
+module3_hdb/hdb_location.js
+module3_hdb/hdb_trees.js
+module3_hdb/hdb_replay.js
+module3_hdb/*.bak
+
+# Temporary exports
+~$*.pptx
+*.tmp

@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+requests
+lightgbm
+xgboost
+openpyxl

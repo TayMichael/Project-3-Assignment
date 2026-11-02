@@ -1,0 +1,20 @@
+event_id,start_date,end_date,name,category,region,sg_property_relevance,description
+G01,1997-07-02,1998-12-31,Asian Financial Crisis,financial_crisis,asia,high,Thai baht floated 2 Jul 1997; regional currency and property collapse
+G02,2000-03-10,2002-10-09,Dot-com bust,financial_crisis,global,medium,NASDAQ peak 10 Mar 2000 to market trough Oct 2002
+G03,2001-09-11,2001-12-31,September 11 attacks,geopolitical,global,medium,Terror attacks in US; global risk-off
+G04,2003-03-01,2003-05-31,SARS outbreak in Singapore,pandemic,singapore,high,Local outbreak Mar 2003; Singapore declared SARS-free 31 May 2003
+G05,2007-08-09,2008-09-14,Subprime crisis onset,financial_crisis,global,medium,Credit markets freeze from 9 Aug 2007
+G06,2008-09-15,2009-06-30,Global Financial Crisis,financial_crisis,global,high,Lehman Brothers collapse 15 Sep 2008; recession to mid-2009
+G07,2010-05-02,2012-07-26,European sovereign debt crisis,financial_crisis,europe,low,First Greek bailout May 2010 to ECB whatever-it-takes Jul 2012
+G08,2011-08-05,2011-08-31,US credit rating downgrade,financial_crisis,global,low,S&P downgrades US; equity sell-off
+G09,2013-05-22,2013-09-30,Taper tantrum,monetary,global,medium,Fed signals QE tapering; Asian rates and currencies hit
+G10,2015-08-11,2016-02-29,China devaluation and market rout,financial_crisis,asia,medium,Yuan devaluation 11 Aug 2015; oil collapse; global sell-off
+G11,2016-06-23,2016-07-31,Brexit referendum,geopolitical,europe,low,UK votes to leave EU
+G12,2018-07-06,2019-12-31,US-China trade war,trade,global,medium,First US tariffs on Chinese goods 6 Jul 2018
+G13,2020-01-23,2020-12-31,COVID-19 pandemic,pandemic,global,high,First Singapore case 23 Jan 2020; WHO pandemic 11 Mar 2020
+G14,2020-04-07,2020-06-01,Singapore Circuit Breaker,pandemic,singapore,high,Lockdown; property viewings and HDB transactions disrupted
+G15,2022-02-24,2022-12-31,Russia-Ukraine war and energy shock,geopolitical,global,medium,Invasion 24 Feb 2022; commodity and inflation spike
+G16,2022-03-16,2023-07-26,Fed tightening cycle,monetary,global,high,Fed hikes from 16 Mar 2022 to last hike 26 Jul 2023; SORA and mortgage rates surge
+G17,2023-03-10,2023-05-01,US regional banking stress,financial_crisis,global,low,SVB collapse 10 Mar 2023
+G18,2024-09-18,2025-12-31,Fed easing cycle,monetary,global,medium,First Fed cut 18 Sep 2024; mortgage rates fall
+G19,2025-04-02,2025-05-31,US reciprocal tariff shock,trade,global,medium,US tariffs announced 2 Apr 2025; global equity sell-off
