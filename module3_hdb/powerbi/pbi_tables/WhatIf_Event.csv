@@ -1,0 +1,28 @@
+event_choice,choice_sort,kind,group,extra_pct_year_1,extra_pct_year_2,extra_pct_year_3
+(none),0,None,,0,0,0
+Average: Crisis without QE (4),1,Group average,Crisis without QE,-10.575,-17.95,-21.775
+Average: Other financial shock (2),2,Group average,Other financial shock,5.55,2.2,2.7
+Average: Crisis followed by QE (2),3,Group average,Crisis followed by QE,-0.75,6.75,12.0
+Average: Fed tightening / taper (2),4,Group average,Fed tightening / taper,-4.05,-9.75,-11.2
+Average: Trade / geopolitical shock (3),5,Group average,Trade / geopolitical shock,-2.1667,-1.6,2.5
+Average: Local lockdown (Circuit Breaker) (1),6,Group average,Local lockdown (Circuit Breaker),1.8,6.2,10.6
+Average: Fed easing (1),7,Group average,Fed easing,-0.8,-6.8,-6.8
+Like Jul 1997 (G01): Asian Financial Crisis: Thai baht floated 2 Jul 1997; region,8,One past event,Crisis without QE,-23.5,-34.9,-31.4
+Like Mar 2000 (G02): Dot-com bust: NASDAQ peak 10 Mar 2000 to market trough Oct 2,9,One past event,Crisis without QE,-10.8,-21.2,-26.5
+Like Sep 2001 (G03): September 11 attacks: Terror attacks in US; global risk-off,10,One past event,Crisis without QE,-7.9,-12.2,-13.9
+Like Mar 2003 (G04): SARS outbreak in Singapore: Local outbreak Mar 2003; Singapo,11,One past event,Crisis without QE,-0.1,-3.5,-15.3
+Like Aug 2007 (G05): Subprime crisis onset: Credit markets freeze from 9 Aug 2007,12,One past event,Other financial shock,16.3,15.9,24.1
+Like Sep 2008 (G06): Global Financial Crisis: Lehman Brothers collapse 15 Sep 200,13,One past event,Crisis followed by QE,-0.7,7.5,14.0
+Like May 2010 (G07): European sovereign debt crisis: First Greek bailout May 2010,14,One past event [low relevance],Low relevance (not averaged),7.4,9.5,12.2
+Like Aug 2011 (G08): US credit rating downgrade: S&P downgrades US; equity sell-o,15,One past event [low relevance],Low relevance (not averaged),0.2,-0.5,-12.7
+Like May 2013 (G09): Taper tantrum: Fed signals QE tapering; Asian rates and curr,16,One past event,Fed tightening / taper,-11.6,-23.1,-28.7
+Like Aug 2015 (G10): China devaluation and market rout: Yuan devaluation 11 Aug 2,17,One past event,Other financial shock,-5.2,-11.5,-18.7
+Like Jun 2016 (G11): Brexit referendum: UK votes to leave EU,18,One past event [low relevance],Low relevance (not averaged),-5.4,-13.1,-17.2
+Like Jul 2018 (G12): US-China trade war: First US tariffs on Chinese goods 6 Jul ,19,One past event,Trade / geopolitical shock,-5.2,-7.2,-1.0
+Like Jan 2020 (G13): COVID-19 pandemic: First Singapore case 23 Jan 2020; WHO pan,20,One past event,Crisis followed by QE,-0.8,6.0,10.0
+Like Apr 2020 (G14): Singapore Circuit Breaker: Lockdown; property viewings and H,21,One past event,Local lockdown (Circuit Breaker),1.8,6.2,10.6
+Like Feb 2022 (G15): Russia-Ukraine war and energy shock: Invasion 24 Feb 2022; c,22,One past event,Trade / geopolitical shock,3.8,4.0,6.0
+Like Mar 2022 (G16): Fed tightening cycle: Fed hikes from 16 Mar 2022 to last hik,23,One past event,Fed tightening / taper,3.5,3.6,6.3
+Like Mar 2023 (G17): US regional banking stress: SVB collapse 10 Mar 2023,24,One past event [low relevance],Low relevance (not averaged),0.1,2.8,-2.5
+Like Sep 2024 (G18): Fed easing cycle: First Fed cut 18 Sep 2024; mortgage rates ,25,One past event,Fed easing,-0.8,-6.8,-6.8
+Like Apr 2025 (G19): US reciprocal tariff shock: US tariffs announced 2 Apr 2025;,26,One past event,Trade / geopolitical shock,-5.1,-5.1,-5.1

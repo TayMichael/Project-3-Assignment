@@ -17,7 +17,6 @@ This repository intentionally excludes:
 - temporary logs, assembly notes and working files;
 - Power BI files while the refreshed package is still pending;
 - presentation slides while the final deck is still being consolidated;
-- large binary source/audit PDFs in this initial code-first commit (the detailed technical record remains in `module3_hdb/README.md`);
 - large/local runtime data under `module3_hdb/hdb_data/` except its README placeholder.
 
 The latest supplied code bundle is the 2 Nov 2026 `team6_scripts.zip`; older duplicate code is not retained here.

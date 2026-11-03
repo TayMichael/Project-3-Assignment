@@ -1,0 +1,15 @@
+model,model_label,model_sort,test_kind,test_description,train_mae_k,train_r2,test_mae_k,test_rmse_k,test_mape_pct,test_bias_k,test_r2,trees,train_rows_note
+Plane S,Linear plane S (page model),0,Forecast,"trained 2001-2019, tested on 2020-2026 (the future)",33.5,0.897,75.3,107.4,12.1,-50.6,0.695,,all training sales
+Random forest,Random forest (bagging),1,Forecast,"trained 2001-2019, tested on 2020-2026 (the future)",15.7,0.975,133.2,164.8,21.7,-130.0,0.281,150,"random 150,000 sales"
+Gradient boosting,Gradient boosting,2,Forecast,"trained 2001-2019, tested on 2020-2026 (the future)",12.2,0.986,135.6,165.0,22.4,-133.5,0.28,1500,all training sales
+XGBoost,XGBoost,3,Forecast,"trained 2001-2019, tested on 2020-2026 (the future)",11.2,0.989,133.3,162.6,22.0,-131.1,0.301,2196,all training sales
+LightGBM,LightGBM,4,Forecast,"trained 2001-2019, tested on 2020-2026 (the future)",12.2,0.986,133.8,162.4,22.2,-131.7,0.302,3000,all training sales
+Hybrid $,Hybrid $: plane + LightGBM dollars (flat and location only),5,Forecast,"trained 2001-2019, tested on 2020-2026 (the future)",15.5,0.979,64.7,86.0,10.9,-52.6,0.804,3000,all training sales
+Hybrid %,Hybrid %: plane x LightGBM percent (flat and location only),6,Forecast,"trained 2001-2019, tested on 2020-2026 (the future)",15.9,0.977,67.8,89.2,11.4,-56.7,0.789,3000,all training sales
+Plane S,Linear plane S (page model),0,Valuation,random 80% / 20% of 2001-2026 sales (years already seen),44.0,0.9,44.3,60.2,13.0,0.2,0.899,,all training sales
+Random forest,Random forest (bagging),1,Valuation,random 80% / 20% of 2001-2026 sales (years already seen),18.8,0.978,19.9,29.4,5.2,-0.3,0.976,150,"random 150,000 sales"
+Gradient boosting,Gradient boosting,2,Valuation,random 80% / 20% of 2001-2026 sales (years already seen),13.9,0.99,15.4,21.7,4.2,0.0,0.987,1500,all training sales
+XGBoost,XGBoost,3,Valuation,random 80% / 20% of 2001-2026 sales (years already seen),12.4,0.992,14.9,21.3,4.0,0.0,0.987,2531,all training sales
+LightGBM,LightGBM,4,Valuation,random 80% / 20% of 2001-2026 sales (years already seen),13.8,0.99,15.2,21.5,4.1,0.0,0.987,3000,all training sales
+Hybrid $,Hybrid $: plane + LightGBM dollars (flat and location only),5,Valuation,random 80% / 20% of 2001-2026 sales (years already seen),19.7,0.981,21.2,28.7,5.9,-0.0,0.977,3000,all training sales
+Hybrid %,Hybrid %: plane x LightGBM percent (flat and location only),6,Valuation,random 80% / 20% of 2001-2026 sales (years already seen),20.8,0.977,22.1,30.7,6.3,-1.4,0.974,3000,all training sales

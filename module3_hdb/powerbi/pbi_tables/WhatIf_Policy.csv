@@ -1,0 +1,36 @@
+policy_choice,choice_sort,kind,points,months_in_year_0,months_in_year_1,months_in_year_2,months_in_year_3
+(none),0,None,0,0,0,0,0
+Average: SSD (5 rounds),1,Group average,2.4,5,12,12,7
+Average: Loan limits & HDB rules (9 rounds),2,Group average,1.888889,5,12,12,7
+Average: Easing (incl. grants) (7 rounds),3,Group average,-1.571429,5,12,12,7
+Average: ABSD (6 rounds),4,Group average,2.666667,5,12,12,7
+Average: BSD / tax (2 rounds),5,Group average,1.0,5,12,12,7
+Like May 1996 (P01): First anti-speculation package: bank LTV cap 80%; SSD on sales within ,6,One past round,3.0,7,12,12,5
+Like Sep 1997 (P02): HDB owners subject to 5-year minimum occupation before buying private ,7,One past round,1.0,4,12,12,8
+Like Nov 1997 (P03): SSD suspended to improve market liquidity during Asian Financial Crisi,8,One past round,-2.0,1,12,12,11
+Like Jun 1998 (P04): BSD payment deferred to TOP/completion for uncompleted properties,9,One past round,-1.0,7,12,12,5
+Like Oct 2001 (P05): Deemed income tax on 3-year gains removed; non-PR foreigners and forei,10,One past round,-2.0,2,12,12,10
+Like Jul 2005 (P06): Bank LTV raised 80% to 90%; minimum cash down payment cut 10% to 5% (H,11,One past round,-2.0,5,12,12,7
+Like Oct 2007 (P07): Deferred Payment Scheme for uncompleted private homes abolished,12,One past round,2.0,2,12,12,10
+Like Sep 2009 (P08): Interest Absorption Scheme and interest-only housing loans disallowed,13,One past round,2.0,3,12,12,9
+Like Feb 2010 (P09): SSD re-introduced for sales within 1 year; bank LTV cut 90% to 80%,14,One past round,2.0,10,12,12,2
+Like Aug 2010 (P10): SSD holding period 1 to 3 years; LTV for buyers with existing loan 80%,15,One past round,2.0,4,12,12,8
+Like Jan 2011 (P11): SSD 4 years at 16/12/8/4%; LTV 60% for individuals with existing loan;,16,One past round,3.0,11,12,12,1
+Like Dec 2011 (P12): ABSD introduced: foreigners and entities 10%; PR 2nd+ 3%; SC 3rd+ 3%,17,One past round,3.0,0,12,12,12
+Like Oct 2012 (P13): Loan tenure capped at 35 years; tighter LTV for tenure >30 years or be,18,One past round,1.0,2,12,12,10
+Like Jan 2013 (P14): ABSD raised (SC 2nd 7% / 3rd 10%; PR 1st 5% / 2nd+ 10%; foreigners and,19,One past round,3.0,11,12,12,1
+Like Jun 2013 (P15): Total Debt Servicing Ratio framework introduced at 60%,20,One past round,3.0,6,12,12,6
+Like Aug 2013 (P16): HDB loan tenure 30 to 25 years; HDB MSR 35% to 30%; PR households must,21,One past round,2.0,4,12,12,8
+Like Dec 2013 (P17): 30% MSR for EC bought from developers; resale levy for second-timer EC,22,One past round,1.0,0,12,12,12
+Like Mar 2017 (P18): SSD cut to 3 years at 12/8/4%; TDSR disapplied to mortgage equity with,23,One past round,-2.0,9,12,12,3
+Like Feb 2018 (P19): Top marginal BSD rate 4% on portion above $1m (Budget 2018),24,One past round,1.0,10,12,12,2
+Like Jul 2018 (P20): ABSD +5pp individuals / +10pp entities (SC 2nd 12% / 3rd 15%; foreigne,25,One past round,3.0,5,12,12,7
+Like Sep 2019 (P21): Enhanced CPF Housing Grant (EHG) introduced for first-timer buyers (up,26,One past round,-1.0,3,12,12,9
+Like Dec 2021 (P22): ABSD raised (SC 2nd 17% / 3rd 25%; PR 2nd 25% / 3rd 30%; foreigners 30,27,One past round,3.0,0,12,12,12
+Like May 2022 (P30): Residential property transferred into a living trust charged ABSD at t,28,One past round,1.0,7,12,12,5
+Like Sep 2022 (P23): TDSR/MSR interest floor +0.5pp; 3% floor for HDB loans; HDB LTV 85% to,29,One past round,3.0,3,12,12,9
+Like Feb 2023 (P24): BSD 5% on portion $1.5m-$3m and 6% above $3m (Budget 2023),30,One past round,1.0,10,12,12,2
+Like Feb 2023 (P25): CPF Housing Grant for first-timer resale buyers increased (Budget 2023,31,One past round,-1.0,10,12,12,2
+Like Apr 2023 (P26): ABSD raised (SC 2nd 20% / 3rd 30%; PR 2nd 30% / 3rd 35%; foreigners 60,32,One past round,3.0,8,12,12,4
+Like Aug 2024 (P27): HDB loan LTV 80% to 75%; Enhanced CPF Housing Grant raised to up to $1,33,One past round,2.0,4,12,12,8
+Like Jul 2025 (P28): SSD holding period 3 to 4 years; rates +4pp (16/12/8/4%) for purchases,34,One past round,2.0,5,12,12,7

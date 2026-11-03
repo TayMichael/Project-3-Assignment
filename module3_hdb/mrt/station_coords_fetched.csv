@@ -1,0 +1,27 @@
+station_name,latitude,longitude,source_url,note
+West Coast MRT,1.310790,103.757828,https://en.wikipedia.org/wiki/West_Coast_MRT_station,CRL; Wikipedia infobox
+Serangoon North MRT,1.37056,103.87361,https://en.wikipedia.org/wiki/Serangoon_North_MRT_station,CRL; Wikipedia infobox
+Bahar Junction MRT,1.3454222,103.7025417,https://en.wikipedia.org/wiki/Bahar_Junction_MRT_station,JRL; Wikipedia infobox
+Jurong Lake District MRT,1.32722,103.73917,https://en.wikipedia.org/wiki/Jurong_Lake_District_MRT_station,CRL; Wikipedia infobox
+Aviation Park MRT,1.37000,104.00306,https://en.wikipedia.org/wiki/Aviation_Park_MRT_station,CRL; Wikipedia infobox
+Loyang MRT,1.37194,103.97194,https://en.wikipedia.org/wiki/Loyang_MRT_station,CRL; Wikipedia infobox
+Tampines North MRT,1.36919,103.93786,https://en.wikipedia.org/wiki/Tampines_North_MRT_station,CRL; Wikipedia infobox
+Tavistock MRT,1.37000,103.86333,https://en.wikipedia.org/wiki/Tavistock_MRT_station,CRL; Wikipedia infobox
+Teck Ghee MRT,1.36556,103.84361,https://en.wikipedia.org/wiki/Teck_Ghee_MRT_station,CRL; Wikipedia infobox
+Cantonment MRT,1.27278,103.83667,https://en.wikipedia.org/wiki/Cantonment_MRT_station,CCL; Wikipedia infobox
+Keppel MRT,1.27000,103.83111,https://en.wikipedia.org/wiki/Keppel_MRT_station,CCL; Wikipedia infobox
+Prince Edward Road MRT,1.27333,103.84722,https://en.wikipedia.org/wiki/Prince_Edward_Road_MRT_station,CCL; Wikipedia infobox (page also has a OneMap link at 1.2731304/103.8467860)
+Elias MRT,1.384,103.938,https://en.wikipedia.org/wiki/Elias_MRT_station,CRL Punggol extension; Wikipedia infobox (only 3 decimal places)
+Riviera MRT,1.39444,103.91611,https://en.wikipedia.org/wiki/Riviera_MRT/LRT_station,CRL Punggol extension; Wikipedia infobox of combined MRT/LRT page - likely the existing Punggol LRT station position; CRL platforms under construction
+Hume MRT,1.35444,103.76917,https://en.wikipedia.org/wiki/Hume_MRT_station,DTL; Wikipedia infobox
+Jurong Town Hall MRT,1.326,103.746,https://en.wikipedia.org/wiki/Jurong_Town_Hall_MRT_station,JRL; Wikipedia infobox (only 3 decimal places)
+Maju MRT,1.328462,103.776993,https://en.wikipedia.org/wiki/Maju_MRT_station,CRL; Wikipedia infobox
+Nanyang Crescent MRT,1.34836,103.68085,https://en.wikipedia.org/wiki/Nanyang_Crescent_MRT_station,JRL; Wikipedia infobox
+Nanyang Gateway MRT,1.35369,103.68661,https://en.wikipedia.org/wiki/Nanyang_Gateway_MRT_station,JRL; Wikipedia infobox
+Turf City MRT,1.340775,103.794332,https://en.wikipedia.org/wiki/Turf_City_MRT_station,CRL; Wikipedia infobox
+Punggol Coast MRT,1.41528,103.91111,https://en.wikipedia.org/wiki/Punggol_Coast_MRT_station,NEL; Wikipedia infobox
+Tampines East MRT,1.35639,103.95472,https://en.wikipedia.org/wiki/Tampines_East_MRT_station,DTL; Wikipedia infobox
+Orchard Boulevard MRT,1.3024223,103.8238686,https://en.wikipedia.org/wiki/Orchard_Boulevard_MRT_station,TEL; Wikipedia infobox
+Orchard MRT,1.30306,103.83139,https://en.wikipedia.org/wiki/Orchard_MRT_station,NSL/TEL; Wikipedia infobox
+Tampines MRT,1.35500,103.94389,https://en.wikipedia.org/wiki/Tampines_MRT_station,EWL/DTL; Wikipedia infobox
+Punggol MRT,1.40528,103.90250,https://en.wikipedia.org/wiki/Punggol_MRT/LRT_station,NEL; Wikipedia infobox

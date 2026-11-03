@@ -1,0 +1,50 @@
+id,type,month,label,group,detail,extra_pct_year_1,extra_pct_year_2,extra_pct_year_3
+P01,policy,1996-05-01,May 1996,SSD,First anti-speculation package: bank LTV cap 80%; SSD on sales within 3 years; deemed income tax on gains within 3 years; no SGD housing loans for non-PR foreigners and foreign companies; BSD payable at option exercise,-10.6,-29.1,-42.2
+P02,policy,1997-09-01,Sep 1997,Loan limits & HDB rules,HDB owners subject to 5-year minimum occupation before buying private property,-21.7,-30.1,-29.6
+P03,policy,1997-11-01,Nov 1997,Easing (incl. grants),SSD suspended to improve market liquidity during Asian Financial Crisis,-14.9,-18.6,-22.9
+P04,policy,1998-06-01,Jun 1998,Easing (incl. grants),BSD payment deferred to TOP/completion for uncompleted properties,7.6,14.1,0.0
+P05,policy,2001-10-01,Oct 2001,Easing (incl. grants),Deemed income tax on 3-year gains removed; non-PR foreigners and foreign companies allowed SGD housing loans (post dot-com and 9/11 support),5.1,0.5,-1.6
+P06,policy,2005-07-01,Jul 2005,Easing (incl. grants),Bank LTV raised 80% to 90%; minimum cash down payment cut 10% to 5% (HDB bank-loan buyers aligned at 5%),0.4,-2.2,13.2
+P07,policy,2007-10-01,Oct 2007,Loan limits & HDB rules,Deferred Payment Scheme for uncompleted private homes abolished,14.6,13.0,23.1
+P08,policy,2009-09-01,Sep 2009,Loan limits & HDB rules,Interest Absorption Scheme and interest-only housing loans disallowed,9.1,15.7,15.2
+P09,policy,2010-02-01,Feb 2010,SSD,SSD re-introduced for sales within 1 year; bank LTV cut 90% to 80%,8.0,11.0,11.5
+P10,policy,2010-08-01,Aug 2010,SSD,SSD holding period 1 to 3 years; LTV for buyers with existing loan 80% to 70%; minimum cash 5% to 10% for them,-0.6,-0.3,-1.0
+P11,policy,2011-01-01,Jan 2011,SSD,SSD 4 years at 16/12/8/4%; LTV 60% for individuals with existing loan; 50% for non-individuals,-5.5,-4.9,-11.5
+P12,policy,2011-12-01,Dec 2011,ABSD,ABSD introduced: foreigners and entities 10%; PR 2nd+ 3%; SC 3rd+ 3%,-3.2,-9.2,-21.3
+P13,policy,2012-10-01,Oct 2012,Loan limits & HDB rules,Loan tenure capped at 35 years; tighter LTV for tenure >30 years or beyond age 65,-2.4,-15.6,-24.7
+P14,policy,2013-01-01,Jan 2013,ABSD,ABSD raised (SC 2nd 7% / 3rd 10%; PR 1st 5% / 2nd+ 10%; foreigners and entities 15%); tighter LTV for 2nd+ loans; min cash 25% for 2nd+ loans; MSR 30% for FI loans on HDB/EC,-7.4,-19.9,-26.8
+P15,policy,2013-06-01,Jun 2013,Loan limits & HDB rules,Total Debt Servicing Ratio framework introduced at 60%,-12.7,-24.2,-29.4
+P16,policy,2013-08-01,Aug 2013,Loan limits & HDB rules,HDB loan tenure 30 to 25 years; HDB MSR 35% to 30%; PR households must wait 3 years before buying resale HDB,-11.7,-22.8,-26.8
+P17,policy,2013-12-01,Dec 2013,Loan limits & HDB rules,30% MSR for EC bought from developers; resale levy for second-timer EC buyers,-7.5,-16.0,-20.7
+P18,policy,2017-03-01,Mar 2017,Easing (incl. grants),SSD cut to 3 years at 12/8/4%; TDSR disapplied to mortgage equity withdrawal loans at LTV <=50%,-1.7,-7.2,-8.1
+P19,policy,2018-02-01,Feb 2018,BSD / tax,Top marginal BSD rate 4% on portion above $1m (Budget 2018),0.7,-0.4,-1.2
+P20,policy,2018-07-01,Jul 2018,ABSD,ABSD +5pp individuals / +10pp entities (SC 2nd 12% / 3rd 15%; foreigners 20%; entities 25%); bank LTV cut 5pp (1st loan 75%),3.5,1.3,8.1
+P21,policy,2019-09-01,Sep 2019,Easing (incl. grants),"Enhanced CPF Housing Grant (EHG) introduced for first-timer buyers (up to $80,000); HDB income ceilings raised to $14,000 for families and $7,000 for singles",1.9,8.0,13.3
+P22,policy,2021-12-01,Dec 2021,ABSD,ABSD raised (SC 2nd 17% / 3rd 25%; PR 2nd 25% / 3rd 30%; foreigners 30%; entities 35%); TDSR 60% to 55%; HDB loan LTV 90% to 85%,-1.5,-1.4,-0.1
+P30,policy,2022-05-01,May 2022,ABSD,Residential property transferred into a living trust charged ABSD at the entity rate (ABSD Trust),-0.2,-0.1,3.3
+P23,policy,2022-09-01,Sep 2022,Loan limits & HDB rules,TDSR/MSR interest floor +0.5pp; 3% floor for HDB loans; HDB LTV 85% to 80%; 15-month wait-out for private owners buying non-subsidised HDB resale,-4.1,-1.4,-2.1
+P24,policy,2023-02-01,Feb 2023,BSD / tax,BSD 5% on portion $1.5m-$3m and 6% above $3m (Budget 2023),-3.5,-1.7,-5.6
+P25,policy,2023-02-01,Feb 2023,Easing (incl. grants),CPF Housing Grant for first-timer resale buyers increased (Budget 2023),-3.5,-1.7,-5.6
+P26,policy,2023-04-01,Apr 2023,ABSD,ABSD raised (SC 2nd 20% / 3rd 30%; PR 2nd 30% / 3rd 35%; foreigners 60%; entities 65%),-4.3,-1.4,-6.4
+P27,policy,2024-08-01,Aug 2024,Loan limits & HDB rules,"HDB loan LTV 80% to 75%; Enhanced CPF Housing Grant raised to up to $120,000 for first-timer families and $60,000 for singles",-2.3,-8.4,
+P28,policy,2025-07-01,Jul 2025,SSD,SSD holding period 3 to 4 years; rates +4pp (16/12/8/4%) for purchases from 4 Jul 2025,-8.4,,
+P29,policy,2026-07-01,Jul 2026,Easing (incl. grants),15-month wait-out for private owners buying non-subsidised HDB resale removed (after RPI fell in 1Q and 2Q 2026),,,
+G01,event,1997-07-01,Jul 1997,Crisis without QE,Asian Financial Crisis: Thai baht floated 2 Jul 1997; regional currency and property collapse,-23.5,-34.9,-31.4
+G02,event,2000-03-01,Mar 2000,Crisis without QE,Dot-com bust: NASDAQ peak 10 Mar 2000 to market trough Oct 2002,-10.8,-21.2,-26.5
+G03,event,2001-09-01,Sep 2001,Crisis without QE,September 11 attacks: Terror attacks in US; global risk-off,-7.9,-12.2,-13.9
+G04,event,2003-03-01,Mar 2003,Crisis without QE,SARS outbreak in Singapore: Local outbreak Mar 2003; Singapore declared SARS-free 31 May 2003,-0.1,-3.5,-15.3
+G05,event,2007-08-01,Aug 2007,Other financial shock,Subprime crisis onset: Credit markets freeze from 9 Aug 2007,16.3,15.9,24.1
+G06,event,2008-09-01,Sep 2008,Crisis followed by QE,Global Financial Crisis: Lehman Brothers collapse 15 Sep 2008; recession to mid-2009,-0.7,7.5,14.0
+G07,event,2010-05-01,May 2010,Low relevance (not averaged),European sovereign debt crisis: First Greek bailout May 2010 to ECB whatever-it-takes Jul 2012,7.4,9.5,12.2
+G08,event,2011-08-01,Aug 2011,Low relevance (not averaged),US credit rating downgrade: S&P downgrades US; equity sell-off,0.2,-0.5,-12.7
+G09,event,2013-05-01,May 2013,Fed tightening / taper,Taper tantrum: Fed signals QE tapering; Asian rates and currencies hit,-11.6,-23.1,-28.7
+G10,event,2015-08-01,Aug 2015,Other financial shock,China devaluation and market rout: Yuan devaluation 11 Aug 2015; oil collapse; global sell-off,-5.2,-11.5,-18.7
+G11,event,2016-06-01,Jun 2016,Low relevance (not averaged),Brexit referendum: UK votes to leave EU,-5.4,-13.1,-17.2
+G12,event,2018-07-01,Jul 2018,Trade / geopolitical shock,US-China trade war: First US tariffs on Chinese goods 6 Jul 2018,-5.2,-7.2,-1.0
+G13,event,2020-01-01,Jan 2020,Crisis followed by QE,COVID-19 pandemic: First Singapore case 23 Jan 2020; WHO pandemic 11 Mar 2020,-0.8,6.0,10.0
+G14,event,2020-04-01,Apr 2020,Local lockdown (Circuit Breaker),Singapore Circuit Breaker: Lockdown; property viewings and HDB transactions disrupted,1.8,6.2,10.6
+G15,event,2022-02-01,Feb 2022,Trade / geopolitical shock,Russia-Ukraine war and energy shock: Invasion 24 Feb 2022; commodity and inflation spike,3.8,4.0,6.0
+G16,event,2022-03-01,Mar 2022,Fed tightening / taper,Fed tightening cycle: Fed hikes from 16 Mar 2022 to last hike 26 Jul 2023; SORA and mortgage rates surge,3.5,3.6,6.3
+G17,event,2023-03-01,Mar 2023,Low relevance (not averaged),US regional banking stress: SVB collapse 10 Mar 2023,0.1,2.8,-2.5
+G18,event,2024-09-01,Sep 2024,Fed easing,Fed easing cycle: First Fed cut 18 Sep 2024; mortgage rates fall,-0.8,-6.8,
+G19,event,2025-04-01,Apr 2025,Trade / geopolitical shock,US reciprocal tariff shock: US tariffs announced 2 Apr 2025; global equity sell-off,-5.1,,

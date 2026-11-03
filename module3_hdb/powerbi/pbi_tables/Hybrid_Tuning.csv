@@ -1,0 +1,8 @@
+setting,cv_2015,cv_2016,cv_2017,cv_2018,cv_2019,cv_mean_k,sort,is_chosen
+127 leaves per tree (chosen),32.3,52.1,37.6,29.3,41.6,38.6,0,1
+"Slow: learning rate 0.02, up to 8,000 trees",31.4,52.4,38.8,30.0,41.4,38.8,1,0
+"Default: 63 leaves, rate 0.05, 40 sales per leaf",31.5,52.6,39.0,30.3,41.6,39.0,2,0
+31 leaves per tree,30.3,52.6,40.6,31.4,41.9,39.4,3,0
+At least 400 sales per leaf,30.8,54.1,40.7,30.9,41.6,39.6,4,0
+Hybrid % (default settings),31.1,52.8,40.9,32.1,40.7,39.5,5,0
+Plane S,42.9,55.2,51.4,49.9,62.8,52.4,6,0

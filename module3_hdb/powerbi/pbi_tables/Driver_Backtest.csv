@@ -1,0 +1,16 @@
+driver_key,drivers,trained_on,tested_on,train_mae_k,test_mae_k,test_rmse_k,test_mape_pct,test_r2,test_bias_k,rank
+income_bto4,Income + BTO supply (lag 4),2005-2019,2020-2026,52.6,74.7,102.0,13.9,0.725,0.4,1
+ppi,Private PPI,2001-2019,2020-2026,44.2,76.0,104.9,13.7,0.709,-4.1,2
+income_avl4,Income + RFS lag 4 + BTO lag 4,2001-2019,2020-2026,47.2,76.4,109.3,13.2,0.684,-24.9,3
+income_avl5,Income + RFS lag 5 + BTO lag 5,2001-2019,2020-2026,45.7,77.3,110.4,13.3,0.677,-27.4,4
+income_pvt4,Income + private pipeline (lag 4),2001-2019,2020-2026,49.8,77.4,108.6,13.9,0.688,-13.3,5
+income,Income,2001-2019,2020-2026,50.3,77.5,110.5,13.4,0.677,-23.4,6
+income_cmp1,Income + HDB flats completed (lag 1),2001-2019,2020-2026,48.0,78.3,107.8,14.4,0.693,-5.3,7
+income_pvt5,Income + private pipeline (lag 5),2001-2019,2020-2026,47.8,79.1,105.7,15.1,0.704,7.8,8
+income_cmp4,Income + HDB flats completed (lag 4),2001-2019,2020-2026,43.7,80.2,115.8,12.9,0.645,-50.2,9
+gdp,Real GDP per person,2001-2019,2020-2026,51.9,83.3,117.7,14.1,0.633,-32.7,10
+income_sold4,"Income + HDB flats sold (lag 4, official)",2001-2019,2020-2026,42.3,83.8,119.6,13.4,0.622,-57.3,11
+income_cmp5,Income + HDB flats completed (lag 5),2001-2019,2020-2026,42.5,92.2,128.4,14.7,0.564,-70.7,12
+income_sold5,"Income + HDB flats sold (lag 5, official)",2001-2019,2020-2026,43.0,97.4,134.1,15.2,0.524,-81.9,13
+income_bto5,Income + BTO supply (lag 5),2006-2019,2020-2026,45.0,106.2,128.1,22.0,0.566,73.2,14
+income_rate,Income + interest rate,2006-2019,2020-2026,45.3,155.0,199.6,24.8,-0.054,-147.4,15

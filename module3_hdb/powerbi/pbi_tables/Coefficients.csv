@@ -1,0 +1,1471 @@
+model_version,version_sort,term,term_group,hinge_age,coefficient_k,meaning,category
+Page model (all sales to 2026),0,intercept,Intercept,,-39.891,starting value,
+Page model (all sales to 2026),0,floor_area_sqm,Floor area,,2.4639,per m2 of floor area,
+Page model (all sales to 2026),0,flat_age,Flat age (straight line),,-4.9173,per year of flat age,
+Page model (all sales to 2026),0,storey,Storey,,4.152,per floor (middle of the 3-floor range),
+Page model (all sales to 2026),0,age_bend_10,Lease-decay bend,10,-0.2682,extra per year of age beyond 10,
+Page model (all sales to 2026),0,age_bend_15,Lease-decay bend,15,1.7756,extra per year of age beyond 15,
+Page model (all sales to 2026),0,age_bend_20,Lease-decay bend,20,2.056,extra per year of age beyond 20,
+Page model (all sales to 2026),0,age_bend_25,Lease-decay bend,25,-1.8305,extra per year of age beyond 25,
+Page model (all sales to 2026),0,age_bend_30,Lease-decay bend,30,-1.2763,extra per year of age beyond 30,
+Page model (all sales to 2026),0,age_bend_35,Lease-decay bend,35,-3.9576,extra per year of age beyond 35,
+Page model (all sales to 2026),0,age_bend_40,Lease-decay bend,40,-3.0954,extra per year of age beyond 40,
+Page model (all sales to 2026),0,age_bend_45,Lease-decay bend,45,0.3075,extra per year of age beyond 45,
+Page model (all sales to 2026),0,age_bend_50,Lease-decay bend,50,-3.6731,extra per year of age beyond 50,
+Page model (all sales to 2026),0,age_bend_55,Lease-decay bend,55,-1.3019,extra per year of age beyond 55,
+Page model (all sales to 2026),0,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Page model (all sales to 2026),0,BEDOK,Town,,-1.8284,vs the same flat in Ang Mo Kio,BEDOK
+Page model (all sales to 2026),0,BISHAN,Town,,31.7185,vs the same flat in Ang Mo Kio,BISHAN
+Page model (all sales to 2026),0,BUKIT BATOK,Town,,-27.737,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Page model (all sales to 2026),0,BUKIT MERAH,Town,,10.8958,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Page model (all sales to 2026),0,BUKIT PANJANG,Town,,-33.3954,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Page model (all sales to 2026),0,BUKIT TIMAH,Town,,138.6236,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Page model (all sales to 2026),0,CENTRAL AREA,Town,,2.287,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Page model (all sales to 2026),0,CHOA CHU KANG,Town,,-66.7592,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Page model (all sales to 2026),0,CLEMENTI,Town,,38.6076,vs the same flat in Ang Mo Kio,CLEMENTI
+Page model (all sales to 2026),0,GEYLANG,Town,,-8.5927,vs the same flat in Ang Mo Kio,GEYLANG
+Page model (all sales to 2026),0,HOUGANG,Town,,-48.5342,vs the same flat in Ang Mo Kio,HOUGANG
+Page model (all sales to 2026),0,JURONG EAST,Town,,-21.4412,vs the same flat in Ang Mo Kio,JURONG EAST
+Page model (all sales to 2026),0,JURONG WEST,Town,,-27.4691,vs the same flat in Ang Mo Kio,JURONG WEST
+Page model (all sales to 2026),0,KALLANG/WHAMPOA,Town,,-14.1753,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Page model (all sales to 2026),0,MARINE PARADE,Town,,113.8492,vs the same flat in Ang Mo Kio,MARINE PARADE
+Page model (all sales to 2026),0,PASIR RIS,Town,,-13.1145,vs the same flat in Ang Mo Kio,PASIR RIS
+Page model (all sales to 2026),0,PUNGGOL,Town,,-47.9798,vs the same flat in Ang Mo Kio,PUNGGOL
+Page model (all sales to 2026),0,QUEENSTOWN,Town,,45.8814,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Page model (all sales to 2026),0,SEMBAWANG,Town,,-44.6124,vs the same flat in Ang Mo Kio,SEMBAWANG
+Page model (all sales to 2026),0,SENGKANG,Town,,-76.2157,vs the same flat in Ang Mo Kio,SENGKANG
+Page model (all sales to 2026),0,SERANGOON,Town,,-9.7717,vs the same flat in Ang Mo Kio,SERANGOON
+Page model (all sales to 2026),0,TAMPINES,Town,,-5.5963,vs the same flat in Ang Mo Kio,TAMPINES
+Page model (all sales to 2026),0,TOA PAYOH,Town,,15.9808,vs the same flat in Ang Mo Kio,TOA PAYOH
+Page model (all sales to 2026),0,WOODLANDS,Town,,-47.5484,vs the same flat in Ang Mo Kio,WOODLANDS
+Page model (all sales to 2026),0,YISHUN,Town,,-28.5285,vs the same flat in Ang Mo Kio,YISHUN
+Page model (all sales to 2026),0,1 ROOM,Flat type,,-80.3263,vs a 4-room flat,1 ROOM
+Page model (all sales to 2026),0,2 ROOM,Flat type,,-107.0166,vs a 4-room flat,2 ROOM
+Page model (all sales to 2026),0,3 ROOM,Flat type,,-27.9597,vs a 4-room flat,3 ROOM
+Page model (all sales to 2026),0,5 ROOM,Flat type,,32.2725,vs a 4-room flat,5 ROOM
+Page model (all sales to 2026),0,EXECUTIVE,Flat type,,47.8255,vs a 4-room flat,EXECUTIVE
+Page model (all sales to 2026),0,MULTI-GENERATION,Flat type,,22.0966,vs a 4-room flat,MULTI-GENERATION
+Page model (all sales to 2026),0,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Page model (all sales to 2026),0,APARTMENT,Flat model,,29.9549,vs Model A,APARTMENT
+Page model (all sales to 2026),0,DBSS,Flat model,,147.7994,vs Model A,DBSS
+Page model (all sales to 2026),0,IMPROVED,Flat model,,-3.2141,vs Model A,IMPROVED
+Page model (all sales to 2026),0,MAISONETTE,Flat model,,54.5799,vs Model A,MAISONETTE
+Page model (all sales to 2026),0,MODEL A2,Flat model,,4.8059,vs Model A,MODEL A2
+Page model (all sales to 2026),0,NEW GENERATION,Flat model,,4.6919,vs Model A,NEW GENERATION
+Page model (all sales to 2026),0,OTHER,Flat model,,113.1736,vs Model A,OTHER
+Page model (all sales to 2026),0,PREMIUM APARTMENT,Flat model,,12.5041,vs Model A,PREMIUM APARTMENT
+Page model (all sales to 2026),0,SIMPLIFIED,Flat model,,-4.7995,vs Model A,SIMPLIFIED
+Page model (all sales to 2026),0,STANDARD,Flat model,,22.6333,vs Model A,STANDARD
+Page model (all sales to 2026),0,MODEL A,Flat model,,0.0,base model,MODEL A
+Page model (all sales to 2026),0,dist_to_cbd_km,Location,,-9.7042,per km from the CBD,
+Page model (all sales to 2026),0,dist_to_mall_km,Location,,-9.8245,per km to the nearest mall,
+Page model (all sales to 2026),0,dist_to_nearest_high_demand_primary_school_km,Location,,9.0588,per km to the nearest popular primary school,
+Page model (all sales to 2026),0,within_1km_high_demand_primary_school_flag,Location,,7.6606,if a popular primary school is within 1 km,
+Page model (all sales to 2026),0,mrt_open_km,MRT,,-41.2652,per km to the nearest open MRT station (capped at 3 km),
+Page model (all sales to 2026),0,mrt_new_gain,MRT,,37.8374,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Page model (all sales to 2026),0,stage_early,MRT,,-27.1515,if an announced station is closer and in the first half of its build,
+Page model (all sales to 2026),0,stage_late,MRT,,-19.6124,if an announced station is closer and in the second half of its build,
+Page model (all sales to 2026),0,income_k,Driver,,64.224,"per $1,000 of monthly household income, the year before the sale",income
+Page model (all sales to 2026),0,avl4_k,Driver,,-2.7344,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Page model (all sales to 2026),0,sold4_k,Driver,,-1.5135,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Page model (all sales to 2026),0,tight36,Policy stance,,4.9707,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2006,2006,intercept,Intercept,,122.024,starting value,
+Trained to 2006,2006,floor_area_sqm,Floor area,,1.719,per m2 of floor area,
+Trained to 2006,2006,flat_age,Flat age (straight line),,-4.8635,per year of flat age,
+Trained to 2006,2006,storey,Storey,,1.7249,per floor (middle of the 3-floor range),
+Trained to 2006,2006,age_bend_10,Lease-decay bend,10,1.1171,extra per year of age beyond 10,
+Trained to 2006,2006,age_bend_15,Lease-decay bend,15,3.0243,extra per year of age beyond 15,
+Trained to 2006,2006,age_bend_20,Lease-decay bend,20,0.6843,extra per year of age beyond 20,
+Trained to 2006,2006,age_bend_25,Lease-decay bend,25,0.0769,extra per year of age beyond 25,
+Trained to 2006,2006,age_bend_30,Lease-decay bend,30,-1.6371,extra per year of age beyond 30,
+Trained to 2006,2006,age_bend_35,Lease-decay bend,35,4.2133,extra per year of age beyond 35,
+Trained to 2006,2006,age_bend_40,Lease-decay bend,40,-0.0,extra per year of age beyond 40,
+Trained to 2006,2006,age_bend_45,Lease-decay bend,45,0.0,extra per year of age beyond 45,
+Trained to 2006,2006,age_bend_50,Lease-decay bend,50,0.0,extra per year of age beyond 50,
+Trained to 2006,2006,age_bend_55,Lease-decay bend,55,-0.0,extra per year of age beyond 55,
+Trained to 2006,2006,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2006,2006,BEDOK,Town,,4.9685,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2006,2006,BISHAN,Town,,34.105,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2006,2006,BUKIT BATOK,Town,,-16.8768,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2006,2006,BUKIT MERAH,Town,,12.2595,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2006,2006,BUKIT PANJANG,Town,,-28.8527,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2006,2006,BUKIT TIMAH,Town,,62.6261,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2006,2006,CENTRAL AREA,Town,,13.7471,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2006,2006,CHOA CHU KANG,Town,,-41.6885,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2006,2006,CLEMENTI,Town,,10.6531,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2006,2006,GEYLANG,Town,,0.6297,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2006,2006,HOUGANG,Town,,-21.3297,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2006,2006,JURONG EAST,Town,,-20.6189,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2006,2006,JURONG WEST,Town,,-33.1629,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2006,2006,KALLANG/WHAMPOA,Town,,2.0771,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2006,2006,MARINE PARADE,Town,,82.5445,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2006,2006,PASIR RIS,Town,,-4.8838,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2006,2006,PUNGGOL,Town,,-38.1173,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2006,2006,QUEENSTOWN,Town,,17.9586,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2006,2006,SEMBAWANG,Town,,-48.7378,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2006,2006,SENGKANG,Town,,-51.6204,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2006,2006,SERANGOON,Town,,-2.3058,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2006,2006,TAMPINES,Town,,6.9497,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2006,2006,TOA PAYOH,Town,,16.3209,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2006,2006,WOODLANDS,Town,,-49.9055,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2006,2006,YISHUN,Town,,-23.1344,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2006,2006,1 ROOM,Flat type,,-78.2286,vs a 4-room flat,1 ROOM
+Trained to 2006,2006,2 ROOM,Flat type,,-46.6512,vs a 4-room flat,2 ROOM
+Trained to 2006,2006,3 ROOM,Flat type,,-16.9968,vs a 4-room flat,3 ROOM
+Trained to 2006,2006,5 ROOM,Flat type,,50.6339,vs a 4-room flat,5 ROOM
+Trained to 2006,2006,EXECUTIVE,Flat type,,67.543,vs a 4-room flat,EXECUTIVE
+Trained to 2006,2006,MULTI-GENERATION,Flat type,,88.7354,vs a 4-room flat,MULTI-GENERATION
+Trained to 2006,2006,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2006,2006,APARTMENT,Flat model,,15.4854,vs Model A,APARTMENT
+Trained to 2006,2006,DBSS,Flat model,,0.0,vs Model A,DBSS
+Trained to 2006,2006,IMPROVED,Flat model,,-17.7326,vs Model A,IMPROVED
+Trained to 2006,2006,MAISONETTE,Flat model,,13.7246,vs Model A,MAISONETTE
+Trained to 2006,2006,MODEL A2,Flat model,,1.1349,vs Model A,MODEL A2
+Trained to 2006,2006,NEW GENERATION,Flat model,,-3.8767,vs Model A,NEW GENERATION
+Trained to 2006,2006,OTHER,Flat model,,1.4817,vs Model A,OTHER
+Trained to 2006,2006,PREMIUM APARTMENT,Flat model,,0.0478,vs Model A,PREMIUM APARTMENT
+Trained to 2006,2006,SIMPLIFIED,Flat model,,-9.6756,vs Model A,SIMPLIFIED
+Trained to 2006,2006,STANDARD,Flat model,,-24.2247,vs Model A,STANDARD
+Trained to 2006,2006,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2006,2006,dist_to_cbd_km,Location,,-2.6251,per km from the CBD,
+Trained to 2006,2006,dist_to_mall_km,Location,,-3.107,per km to the nearest mall,
+Trained to 2006,2006,dist_to_nearest_high_demand_primary_school_km,Location,,3.6579,per km to the nearest popular primary school,
+Trained to 2006,2006,within_1km_high_demand_primary_school_flag,Location,,3.0661,if a popular primary school is within 1 km,
+Trained to 2006,2006,mrt_open_km,MRT,,-18.6287,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2006,2006,mrt_new_gain,MRT,,17.1765,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2006,2006,stage_early,MRT,,-14.8526,if an announced station is closer and in the first half of its build,
+Trained to 2006,2006,stage_late,MRT,,-2.394,if an announced station is closer and in the second half of its build,
+Trained to 2006,2006,income_k,Driver,,18.2075,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2006,2006,avl4_k,Driver,,0.3278,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2006,2006,sold4_k,Driver,,-1.5047,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2006,2006,tight36,Policy stance,,2.6142,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2007,2007,intercept,Intercept,,49.613,starting value,
+Trained to 2007,2007,floor_area_sqm,Floor area,,1.7236,per m2 of floor area,
+Trained to 2007,2007,flat_age,Flat age (straight line),,-4.9749,per year of flat age,
+Trained to 2007,2007,storey,Storey,,1.9181,per floor (middle of the 3-floor range),
+Trained to 2007,2007,age_bend_10,Lease-decay bend,10,1.0226,extra per year of age beyond 10,
+Trained to 2007,2007,age_bend_15,Lease-decay bend,15,2.6373,extra per year of age beyond 15,
+Trained to 2007,2007,age_bend_20,Lease-decay bend,20,0.9376,extra per year of age beyond 20,
+Trained to 2007,2007,age_bend_25,Lease-decay bend,25,0.7724,extra per year of age beyond 25,
+Trained to 2007,2007,age_bend_30,Lease-decay bend,30,-1.835,extra per year of age beyond 30,
+Trained to 2007,2007,age_bend_35,Lease-decay bend,35,1.7924,extra per year of age beyond 35,
+Trained to 2007,2007,age_bend_40,Lease-decay bend,40,13.3249,extra per year of age beyond 40,
+Trained to 2007,2007,age_bend_45,Lease-decay bend,45,-0.0,extra per year of age beyond 45,
+Trained to 2007,2007,age_bend_50,Lease-decay bend,50,-0.0,extra per year of age beyond 50,
+Trained to 2007,2007,age_bend_55,Lease-decay bend,55,0.0,extra per year of age beyond 55,
+Trained to 2007,2007,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2007,2007,BEDOK,Town,,4.6681,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2007,2007,BISHAN,Town,,32.4372,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2007,2007,BUKIT BATOK,Town,,-17.214,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2007,2007,BUKIT MERAH,Town,,12.5654,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2007,2007,BUKIT PANJANG,Town,,-29.1443,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2007,2007,BUKIT TIMAH,Town,,65.3281,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2007,2007,CENTRAL AREA,Town,,12.5489,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2007,2007,CHOA CHU KANG,Town,,-43.1791,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2007,2007,CLEMENTI,Town,,12.4754,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2007,2007,GEYLANG,Town,,-1.1524,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2007,2007,HOUGANG,Town,,-24.3506,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2007,2007,JURONG EAST,Town,,-20.3405,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2007,2007,JURONG WEST,Town,,-32.6376,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2007,2007,KALLANG/WHAMPOA,Town,,-0.0124,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2007,2007,MARINE PARADE,Town,,86.6387,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2007,2007,PASIR RIS,Town,,-6.2279,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2007,2007,PUNGGOL,Town,,-37.9269,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2007,2007,QUEENSTOWN,Town,,18.3882,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2007,2007,SEMBAWANG,Town,,-49.2191,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2007,2007,SENGKANG,Town,,-54.9872,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2007,2007,SERANGOON,Town,,-4.7116,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2007,2007,TAMPINES,Town,,6.5224,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2007,2007,TOA PAYOH,Town,,13.9904,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2007,2007,WOODLANDS,Town,,-49.8666,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2007,2007,YISHUN,Town,,-23.5333,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2007,2007,1 ROOM,Flat type,,-80.264,vs a 4-room flat,1 ROOM
+Trained to 2007,2007,2 ROOM,Flat type,,-47.4395,vs a 4-room flat,2 ROOM
+Trained to 2007,2007,3 ROOM,Flat type,,-17.1165,vs a 4-room flat,3 ROOM
+Trained to 2007,2007,5 ROOM,Flat type,,48.0723,vs a 4-room flat,5 ROOM
+Trained to 2007,2007,EXECUTIVE,Flat type,,62.0406,vs a 4-room flat,EXECUTIVE
+Trained to 2007,2007,MULTI-GENERATION,Flat type,,74.421,vs a 4-room flat,MULTI-GENERATION
+Trained to 2007,2007,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2007,2007,APARTMENT,Flat model,,15.5957,vs Model A,APARTMENT
+Trained to 2007,2007,DBSS,Flat model,,0.0,vs Model A,DBSS
+Trained to 2007,2007,IMPROVED,Flat model,,-16.8572,vs Model A,IMPROVED
+Trained to 2007,2007,MAISONETTE,Flat model,,14.9938,vs Model A,MAISONETTE
+Trained to 2007,2007,MODEL A2,Flat model,,0.1438,vs Model A,MODEL A2
+Trained to 2007,2007,NEW GENERATION,Flat model,,-2.9758,vs Model A,NEW GENERATION
+Trained to 2007,2007,OTHER,Flat model,,8.5203,vs Model A,OTHER
+Trained to 2007,2007,PREMIUM APARTMENT,Flat model,,-1.9016,vs Model A,PREMIUM APARTMENT
+Trained to 2007,2007,SIMPLIFIED,Flat model,,-9.4792,vs Model A,SIMPLIFIED
+Trained to 2007,2007,STANDARD,Flat model,,-22.8548,vs Model A,STANDARD
+Trained to 2007,2007,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2007,2007,dist_to_cbd_km,Location,,-3.0805,per km from the CBD,
+Trained to 2007,2007,dist_to_mall_km,Location,,-3.2274,per km to the nearest mall,
+Trained to 2007,2007,dist_to_nearest_high_demand_primary_school_km,Location,,3.7789,per km to the nearest popular primary school,
+Trained to 2007,2007,within_1km_high_demand_primary_school_flag,Location,,3.1766,if a popular primary school is within 1 km,
+Trained to 2007,2007,mrt_open_km,MRT,,-20.0468,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2007,2007,mrt_new_gain,MRT,,18.716,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2007,2007,stage_early,MRT,,-17.0025,if an announced station is closer and in the first half of its build,
+Trained to 2007,2007,stage_late,MRT,,-2.4081,if an announced station is closer and in the second half of its build,
+Trained to 2007,2007,income_k,Driver,,38.3481,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2007,2007,avl4_k,Driver,,0.4953,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2007,2007,sold4_k,Driver,,-1.9022,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2007,2007,tight36,Policy stance,,5.2799,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2008,2008,intercept,Intercept,,-2.182,starting value,
+Trained to 2008,2008,floor_area_sqm,Floor area,,1.7345,per m2 of floor area,
+Trained to 2008,2008,flat_age,Flat age (straight line),,-4.9268,per year of flat age,
+Trained to 2008,2008,storey,Storey,,2.1874,per floor (middle of the 3-floor range),
+Trained to 2008,2008,age_bend_10,Lease-decay bend,10,0.8632,extra per year of age beyond 10,
+Trained to 2008,2008,age_bend_15,Lease-decay bend,15,2.2222,extra per year of age beyond 15,
+Trained to 2008,2008,age_bend_20,Lease-decay bend,20,0.968,extra per year of age beyond 20,
+Trained to 2008,2008,age_bend_25,Lease-decay bend,25,1.5106,extra per year of age beyond 25,
+Trained to 2008,2008,age_bend_30,Lease-decay bend,30,-1.956,extra per year of age beyond 30,
+Trained to 2008,2008,age_bend_35,Lease-decay bend,35,-0.312,extra per year of age beyond 35,
+Trained to 2008,2008,age_bend_40,Lease-decay bend,40,-14.6887,extra per year of age beyond 40,
+Trained to 2008,2008,age_bend_45,Lease-decay bend,45,0.0,extra per year of age beyond 45,
+Trained to 2008,2008,age_bend_50,Lease-decay bend,50,0.0,extra per year of age beyond 50,
+Trained to 2008,2008,age_bend_55,Lease-decay bend,55,-0.0,extra per year of age beyond 55,
+Trained to 2008,2008,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2008,2008,BEDOK,Town,,4.3475,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2008,2008,BISHAN,Town,,31.9068,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2008,2008,BUKIT BATOK,Town,,-17.1758,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2008,2008,BUKIT MERAH,Town,,12.9089,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2008,2008,BUKIT PANJANG,Town,,-28.6895,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2008,2008,BUKIT TIMAH,Town,,73.7578,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2008,2008,CENTRAL AREA,Town,,10.1743,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2008,2008,CHOA CHU KANG,Town,,-45.2249,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2008,2008,CLEMENTI,Town,,14.3686,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2008,2008,GEYLANG,Town,,-2.8737,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2008,2008,HOUGANG,Town,,-27.0105,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2008,2008,JURONG EAST,Town,,-19.4674,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2008,2008,JURONG WEST,Town,,-32.5735,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2008,2008,KALLANG/WHAMPOA,Town,,-2.1714,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2008,2008,MARINE PARADE,Town,,93.3796,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2008,2008,PASIR RIS,Town,,-6.7725,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2008,2008,PUNGGOL,Town,,-36.747,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2008,2008,QUEENSTOWN,Town,,20.3075,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2008,2008,SEMBAWANG,Town,,-49.2824,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2008,2008,SENGKANG,Town,,-56.6194,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2008,2008,SERANGOON,Town,,-5.8573,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2008,2008,TAMPINES,Town,,6.1201,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2008,2008,TOA PAYOH,Town,,12.2622,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2008,2008,WOODLANDS,Town,,-50.6708,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2008,2008,YISHUN,Town,,-24.658,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2008,2008,1 ROOM,Flat type,,-82.9408,vs a 4-room flat,1 ROOM
+Trained to 2008,2008,2 ROOM,Flat type,,-50.343,vs a 4-room flat,2 ROOM
+Trained to 2008,2008,3 ROOM,Flat type,,-18.0309,vs a 4-room flat,3 ROOM
+Trained to 2008,2008,5 ROOM,Flat type,,47.2143,vs a 4-room flat,5 ROOM
+Trained to 2008,2008,EXECUTIVE,Flat type,,63.2099,vs a 4-room flat,EXECUTIVE
+Trained to 2008,2008,MULTI-GENERATION,Flat type,,68.0035,vs a 4-room flat,MULTI-GENERATION
+Trained to 2008,2008,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2008,2008,APARTMENT,Flat model,,12.6158,vs Model A,APARTMENT
+Trained to 2008,2008,DBSS,Flat model,,0.0,vs Model A,DBSS
+Trained to 2008,2008,IMPROVED,Flat model,,-16.7927,vs Model A,IMPROVED
+Trained to 2008,2008,MAISONETTE,Flat model,,12.3566,vs Model A,MAISONETTE
+Trained to 2008,2008,MODEL A2,Flat model,,-0.506,vs Model A,MODEL A2
+Trained to 2008,2008,NEW GENERATION,Flat model,,-2.5539,vs Model A,NEW GENERATION
+Trained to 2008,2008,OTHER,Flat model,,14.0524,vs Model A,OTHER
+Trained to 2008,2008,PREMIUM APARTMENT,Flat model,,-2.1737,vs Model A,PREMIUM APARTMENT
+Trained to 2008,2008,SIMPLIFIED,Flat model,,-10.0751,vs Model A,SIMPLIFIED
+Trained to 2008,2008,STANDARD,Flat model,,-20.9014,vs Model A,STANDARD
+Trained to 2008,2008,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2008,2008,dist_to_cbd_km,Location,,-3.6116,per km from the CBD,
+Trained to 2008,2008,dist_to_mall_km,Location,,-3.3457,per km to the nearest mall,
+Trained to 2008,2008,dist_to_nearest_high_demand_primary_school_km,Location,,4.087,per km to the nearest popular primary school,
+Trained to 2008,2008,within_1km_high_demand_primary_school_flag,Location,,3.4398,if a popular primary school is within 1 km,
+Trained to 2008,2008,mrt_open_km,MRT,,-22.3005,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2008,2008,mrt_new_gain,MRT,,20.4665,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2008,2008,stage_early,MRT,,-18.9548,if an announced station is closer and in the first half of its build,
+Trained to 2008,2008,stage_late,MRT,,-2.5505,if an announced station is closer and in the second half of its build,
+Trained to 2008,2008,income_k,Driver,,52.4267,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2008,2008,avl4_k,Driver,,0.6364,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2008,2008,sold4_k,Driver,,-2.0752,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2008,2008,tight36,Policy stance,,7.8965,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2009,2009,intercept,Intercept,,81.951,starting value,
+Trained to 2009,2009,floor_area_sqm,Floor area,,1.7769,per m2 of floor area,
+Trained to 2009,2009,flat_age,Flat age (straight line),,-4.9294,per year of flat age,
+Trained to 2009,2009,storey,Storey,,2.2927,per floor (middle of the 3-floor range),
+Trained to 2009,2009,age_bend_10,Lease-decay bend,10,0.7014,extra per year of age beyond 10,
+Trained to 2009,2009,age_bend_15,Lease-decay bend,15,2.142,extra per year of age beyond 15,
+Trained to 2009,2009,age_bend_20,Lease-decay bend,20,0.9623,extra per year of age beyond 20,
+Trained to 2009,2009,age_bend_25,Lease-decay bend,25,1.6572,extra per year of age beyond 25,
+Trained to 2009,2009,age_bend_30,Lease-decay bend,30,-1.4572,extra per year of age beyond 30,
+Trained to 2009,2009,age_bend_35,Lease-decay bend,35,-1.5197,extra per year of age beyond 35,
+Trained to 2009,2009,age_bend_40,Lease-decay bend,40,-4.8349,extra per year of age beyond 40,
+Trained to 2009,2009,age_bend_45,Lease-decay bend,45,0.0,extra per year of age beyond 45,
+Trained to 2009,2009,age_bend_50,Lease-decay bend,50,0.0,extra per year of age beyond 50,
+Trained to 2009,2009,age_bend_55,Lease-decay bend,55,-0.0,extra per year of age beyond 55,
+Trained to 2009,2009,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2009,2009,BEDOK,Town,,3.4814,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2009,2009,BISHAN,Town,,31.5675,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2009,2009,BUKIT BATOK,Town,,-16.996,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2009,2009,BUKIT MERAH,Town,,13.1772,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2009,2009,BUKIT PANJANG,Town,,-31.809,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2009,2009,BUKIT TIMAH,Town,,75.0834,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2009,2009,CENTRAL AREA,Town,,9.2618,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2009,2009,CHOA CHU KANG,Town,,-46.7615,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2009,2009,CLEMENTI,Town,,15.868,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2009,2009,GEYLANG,Town,,-3.904,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2009,2009,HOUGANG,Town,,-29.1123,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2009,2009,JURONG EAST,Town,,-18.3611,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2009,2009,JURONG WEST,Town,,-32.2297,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2009,2009,KALLANG/WHAMPOA,Town,,-2.8672,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2009,2009,MARINE PARADE,Town,,95.5008,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2009,2009,PASIR RIS,Town,,-7.3817,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2009,2009,PUNGGOL,Town,,-37.4529,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2009,2009,QUEENSTOWN,Town,,21.896,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2009,2009,SEMBAWANG,Town,,-49.2115,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2009,2009,SENGKANG,Town,,-57.6308,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2009,2009,SERANGOON,Town,,-6.2406,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2009,2009,TAMPINES,Town,,5.1549,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2009,2009,TOA PAYOH,Town,,10.523,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2009,2009,WOODLANDS,Town,,-51.1938,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2009,2009,YISHUN,Town,,-24.864,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2009,2009,1 ROOM,Flat type,,-83.2482,vs a 4-room flat,1 ROOM
+Trained to 2009,2009,2 ROOM,Flat type,,-51.9951,vs a 4-room flat,2 ROOM
+Trained to 2009,2009,3 ROOM,Flat type,,-18.2745,vs a 4-room flat,3 ROOM
+Trained to 2009,2009,5 ROOM,Flat type,,44.4674,vs a 4-room flat,5 ROOM
+Trained to 2009,2009,EXECUTIVE,Flat type,,59.6768,vs a 4-room flat,EXECUTIVE
+Trained to 2009,2009,MULTI-GENERATION,Flat type,,57.923,vs a 4-room flat,MULTI-GENERATION
+Trained to 2009,2009,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2009,2009,APARTMENT,Flat model,,12.1255,vs Model A,APARTMENT
+Trained to 2009,2009,DBSS,Flat model,,0.0,vs Model A,DBSS
+Trained to 2009,2009,IMPROVED,Flat model,,-15.9395,vs Model A,IMPROVED
+Trained to 2009,2009,MAISONETTE,Flat model,,12.8886,vs Model A,MAISONETTE
+Trained to 2009,2009,MODEL A2,Flat model,,-0.5527,vs Model A,MODEL A2
+Trained to 2009,2009,NEW GENERATION,Flat model,,-2.297,vs Model A,NEW GENERATION
+Trained to 2009,2009,OTHER,Flat model,,20.9858,vs Model A,OTHER
+Trained to 2009,2009,PREMIUM APARTMENT,Flat model,,-2.3025,vs Model A,PREMIUM APARTMENT
+Trained to 2009,2009,SIMPLIFIED,Flat model,,-9.9517,vs Model A,SIMPLIFIED
+Trained to 2009,2009,STANDARD,Flat model,,-19.4386,vs Model A,STANDARD
+Trained to 2009,2009,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2009,2009,dist_to_cbd_km,Location,,-3.9457,per km from the CBD,
+Trained to 2009,2009,dist_to_mall_km,Location,,-3.4746,per km to the nearest mall,
+Trained to 2009,2009,dist_to_nearest_high_demand_primary_school_km,Location,,4.4075,per km to the nearest popular primary school,
+Trained to 2009,2009,within_1km_high_demand_primary_school_flag,Location,,4.0747,if a popular primary school is within 1 km,
+Trained to 2009,2009,mrt_open_km,MRT,,-23.4308,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2009,2009,mrt_new_gain,MRT,,22.335,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2009,2009,stage_early,MRT,,-20.0732,if an announced station is closer and in the first half of its build,
+Trained to 2009,2009,stage_late,MRT,,-4.9992,if an announced station is closer and in the second half of its build,
+Trained to 2009,2009,income_k,Driver,,36.2755,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2009,2009,avl4_k,Driver,,1.3067,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2009,2009,sold4_k,Driver,,-2.4399,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2009,2009,tight36,Policy stance,,6.9551,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2010,2010,intercept,Intercept,,96.931,starting value,
+Trained to 2010,2010,floor_area_sqm,Floor area,,1.8017,per m2 of floor area,
+Trained to 2010,2010,flat_age,Flat age (straight line),,-4.7568,per year of flat age,
+Trained to 2010,2010,storey,Storey,,2.4727,per floor (middle of the 3-floor range),
+Trained to 2010,2010,age_bend_10,Lease-decay bend,10,0.2855,extra per year of age beyond 10,
+Trained to 2010,2010,age_bend_15,Lease-decay bend,15,2.245,extra per year of age beyond 15,
+Trained to 2010,2010,age_bend_20,Lease-decay bend,20,0.7403,extra per year of age beyond 20,
+Trained to 2010,2010,age_bend_25,Lease-decay bend,25,1.5681,extra per year of age beyond 25,
+Trained to 2010,2010,age_bend_30,Lease-decay bend,30,-0.1878,extra per year of age beyond 30,
+Trained to 2010,2010,age_bend_35,Lease-decay bend,35,-3.9238,extra per year of age beyond 35,
+Trained to 2010,2010,age_bend_40,Lease-decay bend,40,-1.6619,extra per year of age beyond 40,
+Trained to 2010,2010,age_bend_45,Lease-decay bend,45,0.0,extra per year of age beyond 45,
+Trained to 2010,2010,age_bend_50,Lease-decay bend,50,-0.0,extra per year of age beyond 50,
+Trained to 2010,2010,age_bend_55,Lease-decay bend,55,-0.0,extra per year of age beyond 55,
+Trained to 2010,2010,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2010,2010,BEDOK,Town,,1.9707,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2010,2010,BISHAN,Town,,30.9052,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2010,2010,BUKIT BATOK,Town,,-17.3594,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2010,2010,BUKIT MERAH,Town,,14.2344,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2010,2010,BUKIT PANJANG,Town,,-33.1764,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2010,2010,BUKIT TIMAH,Town,,76.3726,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2010,2010,CENTRAL AREA,Town,,6.4803,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2010,2010,CHOA CHU KANG,Town,,-48.3168,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2010,2010,CLEMENTI,Town,,18.1357,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2010,2010,GEYLANG,Town,,-4.9979,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2010,2010,HOUGANG,Town,,-30.3459,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2010,2010,JURONG EAST,Town,,-18.0147,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2010,2010,JURONG WEST,Town,,-31.1053,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2010,2010,KALLANG/WHAMPOA,Town,,-4.0749,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2010,2010,MARINE PARADE,Town,,99.1523,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2010,2010,PASIR RIS,Town,,-8.7916,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2010,2010,PUNGGOL,Town,,-36.6271,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2010,2010,QUEENSTOWN,Town,,23.5442,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2010,2010,SEMBAWANG,Town,,-48.5518,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2010,2010,SENGKANG,Town,,-57.1157,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2010,2010,SERANGOON,Town,,-5.6869,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2010,2010,TAMPINES,Town,,3.0119,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2010,2010,TOA PAYOH,Town,,8.7261,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2010,2010,WOODLANDS,Town,,-51.7098,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2010,2010,YISHUN,Town,,-25.2485,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2010,2010,1 ROOM,Flat type,,-85.8414,vs a 4-room flat,1 ROOM
+Trained to 2010,2010,2 ROOM,Flat type,,-55.2614,vs a 4-room flat,2 ROOM
+Trained to 2010,2010,3 ROOM,Flat type,,-19.2848,vs a 4-room flat,3 ROOM
+Trained to 2010,2010,5 ROOM,Flat type,,43.0885,vs a 4-room flat,5 ROOM
+Trained to 2010,2010,EXECUTIVE,Flat type,,58.8065,vs a 4-room flat,EXECUTIVE
+Trained to 2010,2010,MULTI-GENERATION,Flat type,,52.2935,vs a 4-room flat,MULTI-GENERATION
+Trained to 2010,2010,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2010,2010,APARTMENT,Flat model,,10.8488,vs Model A,APARTMENT
+Trained to 2010,2010,DBSS,Flat model,,-0.0,vs Model A,DBSS
+Trained to 2010,2010,IMPROVED,Flat model,,-15.4271,vs Model A,IMPROVED
+Trained to 2010,2010,MAISONETTE,Flat model,,12.7102,vs Model A,MAISONETTE
+Trained to 2010,2010,MODEL A2,Flat model,,-0.634,vs Model A,MODEL A2
+Trained to 2010,2010,NEW GENERATION,Flat model,,-2.332,vs Model A,NEW GENERATION
+Trained to 2010,2010,OTHER,Flat model,,29.539,vs Model A,OTHER
+Trained to 2010,2010,PREMIUM APARTMENT,Flat model,,-1.833,vs Model A,PREMIUM APARTMENT
+Trained to 2010,2010,SIMPLIFIED,Flat model,,-10.3994,vs Model A,SIMPLIFIED
+Trained to 2010,2010,STANDARD,Flat model,,-17.4461,vs Model A,STANDARD
+Trained to 2010,2010,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2010,2010,dist_to_cbd_km,Location,,-4.3677,per km from the CBD,
+Trained to 2010,2010,dist_to_mall_km,Location,,-3.7437,per km to the nearest mall,
+Trained to 2010,2010,dist_to_nearest_high_demand_primary_school_km,Location,,4.5269,per km to the nearest popular primary school,
+Trained to 2010,2010,within_1km_high_demand_primary_school_flag,Location,,4.2636,if a popular primary school is within 1 km,
+Trained to 2010,2010,mrt_open_km,MRT,,-25.1769,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2010,2010,mrt_new_gain,MRT,,24.9508,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2010,2010,stage_early,MRT,,-20.7772,if an announced station is closer and in the first half of its build,
+Trained to 2010,2010,stage_late,MRT,,-10.7533,if an announced station is closer and in the second half of its build,
+Trained to 2010,2010,income_k,Driver,,34.1782,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2010,2010,avl4_k,Driver,,1.4935,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2010,2010,sold4_k,Driver,,-2.3709,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2010,2010,tight36,Policy stance,,8.8151,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2011,2011,intercept,Intercept,,98.101,starting value,
+Trained to 2011,2011,floor_area_sqm,Floor area,,1.81,per m2 of floor area,
+Trained to 2011,2011,flat_age,Flat age (straight line),,-4.6936,per year of flat age,
+Trained to 2011,2011,storey,Storey,,2.5787,per floor (middle of the 3-floor range),
+Trained to 2011,2011,age_bend_10,Lease-decay bend,10,0.1859,extra per year of age beyond 10,
+Trained to 2011,2011,age_bend_15,Lease-decay bend,15,2.2569,extra per year of age beyond 15,
+Trained to 2011,2011,age_bend_20,Lease-decay bend,20,0.4435,extra per year of age beyond 20,
+Trained to 2011,2011,age_bend_25,Lease-decay bend,25,1.5754,extra per year of age beyond 25,
+Trained to 2011,2011,age_bend_30,Lease-decay bend,30,0.1583,extra per year of age beyond 30,
+Trained to 2011,2011,age_bend_35,Lease-decay bend,35,-4.5013,extra per year of age beyond 35,
+Trained to 2011,2011,age_bend_40,Lease-decay bend,40,-2.4367,extra per year of age beyond 40,
+Trained to 2011,2011,age_bend_45,Lease-decay bend,45,0.0,extra per year of age beyond 45,
+Trained to 2011,2011,age_bend_50,Lease-decay bend,50,0.0,extra per year of age beyond 50,
+Trained to 2011,2011,age_bend_55,Lease-decay bend,55,0.0,extra per year of age beyond 55,
+Trained to 2011,2011,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2011,2011,BEDOK,Town,,1.6427,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2011,2011,BISHAN,Town,,30.6048,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2011,2011,BUKIT BATOK,Town,,-17.8772,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2011,2011,BUKIT MERAH,Town,,15.5057,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2011,2011,BUKIT PANJANG,Town,,-32.7576,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2011,2011,BUKIT TIMAH,Town,,77.6787,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2011,2011,CENTRAL AREA,Town,,5.1063,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2011,2011,CHOA CHU KANG,Town,,-49.2763,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2011,2011,CLEMENTI,Town,,19.5791,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2011,2011,GEYLANG,Town,,-5.1191,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2011,2011,HOUGANG,Town,,-31.0215,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2011,2011,JURONG EAST,Town,,-18.1586,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2011,2011,JURONG WEST,Town,,-30.7786,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2011,2011,KALLANG/WHAMPOA,Town,,-4.7372,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2011,2011,MARINE PARADE,Town,,101.5191,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2011,2011,PASIR RIS,Town,,-9.1783,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2011,2011,PUNGGOL,Town,,-33.9197,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2011,2011,QUEENSTOWN,Town,,24.8341,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2011,2011,SEMBAWANG,Town,,-48.5835,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2011,2011,SENGKANG,Town,,-55.8204,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2011,2011,SERANGOON,Town,,-5.339,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2011,2011,TAMPINES,Town,,2.3037,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2011,2011,TOA PAYOH,Town,,8.4833,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2011,2011,WOODLANDS,Town,,-52.0506,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2011,2011,YISHUN,Town,,-25.5461,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2011,2011,1 ROOM,Flat type,,-88.828,vs a 4-room flat,1 ROOM
+Trained to 2011,2011,2 ROOM,Flat type,,-58.1617,vs a 4-room flat,2 ROOM
+Trained to 2011,2011,3 ROOM,Flat type,,-20.3848,vs a 4-room flat,3 ROOM
+Trained to 2011,2011,5 ROOM,Flat type,,42.2729,vs a 4-room flat,5 ROOM
+Trained to 2011,2011,EXECUTIVE,Flat type,,58.9132,vs a 4-room flat,EXECUTIVE
+Trained to 2011,2011,MULTI-GENERATION,Flat type,,51.5591,vs a 4-room flat,MULTI-GENERATION
+Trained to 2011,2011,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2011,2011,APARTMENT,Flat model,,10.6799,vs Model A,APARTMENT
+Trained to 2011,2011,DBSS,Flat model,,-0.0,vs Model A,DBSS
+Trained to 2011,2011,IMPROVED,Flat model,,-14.9324,vs Model A,IMPROVED
+Trained to 2011,2011,MAISONETTE,Flat model,,13.3681,vs Model A,MAISONETTE
+Trained to 2011,2011,MODEL A2,Flat model,,-1.1404,vs Model A,MODEL A2
+Trained to 2011,2011,NEW GENERATION,Flat model,,-2.469,vs Model A,NEW GENERATION
+Trained to 2011,2011,OTHER,Flat model,,34.8681,vs Model A,OTHER
+Trained to 2011,2011,PREMIUM APARTMENT,Flat model,,-1.0183,vs Model A,PREMIUM APARTMENT
+Trained to 2011,2011,SIMPLIFIED,Flat model,,-11.0569,vs Model A,SIMPLIFIED
+Trained to 2011,2011,STANDARD,Flat model,,-15.3005,vs Model A,STANDARD
+Trained to 2011,2011,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2011,2011,dist_to_cbd_km,Location,,-4.6048,per km from the CBD,
+Trained to 2011,2011,dist_to_mall_km,Location,,-3.9104,per km to the nearest mall,
+Trained to 2011,2011,dist_to_nearest_high_demand_primary_school_km,Location,,4.6942,per km to the nearest popular primary school,
+Trained to 2011,2011,within_1km_high_demand_primary_school_flag,Location,,4.2888,if a popular primary school is within 1 km,
+Trained to 2011,2011,mrt_open_km,MRT,,-26.2847,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2011,2011,mrt_new_gain,MRT,,26.1068,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2011,2011,stage_early,MRT,,-21.243,if an announced station is closer and in the first half of its build,
+Trained to 2011,2011,stage_late,MRT,,-13.0889,if an announced station is closer and in the second half of its build,
+Trained to 2011,2011,income_k,Driver,,33.7158,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2011,2011,avl4_k,Driver,,1.8248,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2011,2011,sold4_k,Driver,,-2.1189,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2011,2011,tight36,Policy stance,,10.0595,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2012,2012,intercept,Intercept,,108.045,starting value,
+Trained to 2012,2012,floor_area_sqm,Floor area,,1.8313,per m2 of floor area,
+Trained to 2012,2012,flat_age,Flat age (straight line),,-4.6387,per year of flat age,
+Trained to 2012,2012,storey,Storey,,2.6626,per floor (middle of the 3-floor range),
+Trained to 2012,2012,age_bend_10,Lease-decay bend,10,0.213,extra per year of age beyond 10,
+Trained to 2012,2012,age_bend_15,Lease-decay bend,15,2.1478,extra per year of age beyond 15,
+Trained to 2012,2012,age_bend_20,Lease-decay bend,20,0.2844,extra per year of age beyond 20,
+Trained to 2012,2012,age_bend_25,Lease-decay bend,25,1.2528,extra per year of age beyond 25,
+Trained to 2012,2012,age_bend_30,Lease-decay bend,30,0.4791,extra per year of age beyond 30,
+Trained to 2012,2012,age_bend_35,Lease-decay bend,35,-4.4742,extra per year of age beyond 35,
+Trained to 2012,2012,age_bend_40,Lease-decay bend,40,-4.6488,extra per year of age beyond 40,
+Trained to 2012,2012,age_bend_45,Lease-decay bend,45,0.0,extra per year of age beyond 45,
+Trained to 2012,2012,age_bend_50,Lease-decay bend,50,-0.0,extra per year of age beyond 50,
+Trained to 2012,2012,age_bend_55,Lease-decay bend,55,-0.0,extra per year of age beyond 55,
+Trained to 2012,2012,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2012,2012,BEDOK,Town,,1.8602,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2012,2012,BISHAN,Town,,29.7968,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2012,2012,BUKIT BATOK,Town,,-18.3657,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2012,2012,BUKIT MERAH,Town,,15.854,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2012,2012,BUKIT PANJANG,Town,,-31.7472,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2012,2012,BUKIT TIMAH,Town,,79.7473,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2012,2012,CENTRAL AREA,Town,,3.0315,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2012,2012,CHOA CHU KANG,Town,,-49.5298,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2012,2012,CLEMENTI,Town,,20.8468,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2012,2012,GEYLANG,Town,,-5.4663,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2012,2012,HOUGANG,Town,,-31.6752,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2012,2012,JURONG EAST,Town,,-18.2497,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2012,2012,JURONG WEST,Town,,-29.681,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2012,2012,KALLANG/WHAMPOA,Town,,-5.9044,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2012,2012,MARINE PARADE,Town,,104.7298,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2012,2012,PASIR RIS,Town,,-8.8718,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2012,2012,PUNGGOL,Town,,-30.0974,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2012,2012,QUEENSTOWN,Town,,26.6132,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2012,2012,SEMBAWANG,Town,,-47.6494,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2012,2012,SENGKANG,Town,,-54.7169,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2012,2012,SERANGOON,Town,,-4.8605,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2012,2012,TAMPINES,Town,,2.0101,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2012,2012,TOA PAYOH,Town,,8.7523,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2012,2012,WOODLANDS,Town,,-51.3968,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2012,2012,YISHUN,Town,,-25.2918,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2012,2012,1 ROOM,Flat type,,-90.4629,vs a 4-room flat,1 ROOM
+Trained to 2012,2012,2 ROOM,Flat type,,-61.3143,vs a 4-room flat,2 ROOM
+Trained to 2012,2012,3 ROOM,Flat type,,-21.5495,vs a 4-room flat,3 ROOM
+Trained to 2012,2012,5 ROOM,Flat type,,41.4974,vs a 4-room flat,5 ROOM
+Trained to 2012,2012,EXECUTIVE,Flat type,,59.973,vs a 4-room flat,EXECUTIVE
+Trained to 2012,2012,MULTI-GENERATION,Flat type,,53.9333,vs a 4-room flat,MULTI-GENERATION
+Trained to 2012,2012,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2012,2012,APARTMENT,Flat model,,10.3726,vs Model A,APARTMENT
+Trained to 2012,2012,DBSS,Flat model,,0.0,vs Model A,DBSS
+Trained to 2012,2012,IMPROVED,Flat model,,-14.2382,vs Model A,IMPROVED
+Trained to 2012,2012,MAISONETTE,Flat model,,13.9651,vs Model A,MAISONETTE
+Trained to 2012,2012,MODEL A2,Flat model,,-1.1845,vs Model A,MODEL A2
+Trained to 2012,2012,NEW GENERATION,Flat model,,-2.7167,vs Model A,NEW GENERATION
+Trained to 2012,2012,OTHER,Flat model,,40.4224,vs Model A,OTHER
+Trained to 2012,2012,PREMIUM APARTMENT,Flat model,,-0.0529,vs Model A,PREMIUM APARTMENT
+Trained to 2012,2012,SIMPLIFIED,Flat model,,-11.7628,vs Model A,SIMPLIFIED
+Trained to 2012,2012,STANDARD,Flat model,,-12.453,vs Model A,STANDARD
+Trained to 2012,2012,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2012,2012,dist_to_cbd_km,Location,,-4.9399,per km from the CBD,
+Trained to 2012,2012,dist_to_mall_km,Location,,-4.164,per km to the nearest mall,
+Trained to 2012,2012,dist_to_nearest_high_demand_primary_school_km,Location,,4.8357,per km to the nearest popular primary school,
+Trained to 2012,2012,within_1km_high_demand_primary_school_flag,Location,,4.1022,if a popular primary school is within 1 km,
+Trained to 2012,2012,mrt_open_km,MRT,,-27.5189,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2012,2012,mrt_new_gain,MRT,,27.8152,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2012,2012,stage_early,MRT,,-22.3906,if an announced station is closer and in the first half of its build,
+Trained to 2012,2012,stage_late,MRT,,-15.099,if an announced station is closer and in the second half of its build,
+Trained to 2012,2012,income_k,Driver,,33.2272,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2012,2012,avl4_k,Driver,,1.694,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2012,2012,sold4_k,Driver,,-2.3685,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2012,2012,tight36,Policy stance,,9.423,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2013,2013,intercept,Intercept,,120.292,starting value,
+Trained to 2013,2013,floor_area_sqm,Floor area,,1.8439,per m2 of floor area,
+Trained to 2013,2013,flat_age,Flat age (straight line),,-4.4284,per year of flat age,
+Trained to 2013,2013,storey,Storey,,2.7222,per floor (middle of the 3-floor range),
+Trained to 2013,2013,age_bend_10,Lease-decay bend,10,0.0197,extra per year of age beyond 10,
+Trained to 2013,2013,age_bend_15,Lease-decay bend,15,2.0344,extra per year of age beyond 15,
+Trained to 2013,2013,age_bend_20,Lease-decay bend,20,0.4943,extra per year of age beyond 20,
+Trained to 2013,2013,age_bend_25,Lease-decay bend,25,0.5,extra per year of age beyond 25,
+Trained to 2013,2013,age_bend_30,Lease-decay bend,30,1.0638,extra per year of age beyond 30,
+Trained to 2013,2013,age_bend_35,Lease-decay bend,35,-4.5357,extra per year of age beyond 35,
+Trained to 2013,2013,age_bend_40,Lease-decay bend,40,-5.4429,extra per year of age beyond 40,
+Trained to 2013,2013,age_bend_45,Lease-decay bend,45,-19.0148,extra per year of age beyond 45,
+Trained to 2013,2013,age_bend_50,Lease-decay bend,50,0.0,extra per year of age beyond 50,
+Trained to 2013,2013,age_bend_55,Lease-decay bend,55,-0.0,extra per year of age beyond 55,
+Trained to 2013,2013,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2013,2013,BEDOK,Town,,2.5843,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2013,2013,BISHAN,Town,,29.5526,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2013,2013,BUKIT BATOK,Town,,-18.4591,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2013,2013,BUKIT MERAH,Town,,16.7398,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2013,2013,BUKIT PANJANG,Town,,-30.0377,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2013,2013,BUKIT TIMAH,Town,,83.2933,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2013,2013,CENTRAL AREA,Town,,1.7668,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2013,2013,CHOA CHU KANG,Town,,-49.4504,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2013,2013,CLEMENTI,Town,,22.1993,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2013,2013,GEYLANG,Town,,-4.8762,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2013,2013,HOUGANG,Town,,-32.3933,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2013,2013,JURONG EAST,Town,,-18.0271,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2013,2013,JURONG WEST,Town,,-28.9358,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2013,2013,KALLANG/WHAMPOA,Town,,-6.1607,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2013,2013,MARINE PARADE,Town,,106.4384,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2013,2013,PASIR RIS,Town,,-9.2741,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2013,2013,PUNGGOL,Town,,-28.0842,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2013,2013,QUEENSTOWN,Town,,28.2047,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2013,2013,SEMBAWANG,Town,,-46.3425,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2013,2013,SENGKANG,Town,,-53.756,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2013,2013,SERANGOON,Town,,-5.0447,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2013,2013,TAMPINES,Town,,2.3226,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2013,2013,TOA PAYOH,Town,,9.2674,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2013,2013,WOODLANDS,Town,,-50.8423,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2013,2013,YISHUN,Town,,-25.3783,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2013,2013,1 ROOM,Flat type,,-91.9837,vs a 4-room flat,1 ROOM
+Trained to 2013,2013,2 ROOM,Flat type,,-64.3575,vs a 4-room flat,2 ROOM
+Trained to 2013,2013,3 ROOM,Flat type,,-22.824,vs a 4-room flat,3 ROOM
+Trained to 2013,2013,5 ROOM,Flat type,,41.2392,vs a 4-room flat,5 ROOM
+Trained to 2013,2013,EXECUTIVE,Flat type,,60.7032,vs a 4-room flat,EXECUTIVE
+Trained to 2013,2013,MULTI-GENERATION,Flat type,,54.6507,vs a 4-room flat,MULTI-GENERATION
+Trained to 2013,2013,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2013,2013,APARTMENT,Flat model,,10.9381,vs Model A,APARTMENT
+Trained to 2013,2013,DBSS,Flat model,,0.0,vs Model A,DBSS
+Trained to 2013,2013,IMPROVED,Flat model,,-13.7328,vs Model A,IMPROVED
+Trained to 2013,2013,MAISONETTE,Flat model,,14.853,vs Model A,MAISONETTE
+Trained to 2013,2013,MODEL A2,Flat model,,-1.3046,vs Model A,MODEL A2
+Trained to 2013,2013,NEW GENERATION,Flat model,,-3.0483,vs Model A,NEW GENERATION
+Trained to 2013,2013,OTHER,Flat model,,43.7243,vs Model A,OTHER
+Trained to 2013,2013,PREMIUM APARTMENT,Flat model,,0.9948,vs Model A,PREMIUM APARTMENT
+Trained to 2013,2013,SIMPLIFIED,Flat model,,-12.4323,vs Model A,SIMPLIFIED
+Trained to 2013,2013,STANDARD,Flat model,,-10.3732,vs Model A,STANDARD
+Trained to 2013,2013,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2013,2013,dist_to_cbd_km,Location,,-5.1909,per km from the CBD,
+Trained to 2013,2013,dist_to_mall_km,Location,,-4.4495,per km to the nearest mall,
+Trained to 2013,2013,dist_to_nearest_high_demand_primary_school_km,Location,,5.1156,per km to the nearest popular primary school,
+Trained to 2013,2013,within_1km_high_demand_primary_school_flag,Location,,3.9148,if a popular primary school is within 1 km,
+Trained to 2013,2013,mrt_open_km,MRT,,-27.8488,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2013,2013,mrt_new_gain,MRT,,28.6764,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2013,2013,stage_early,MRT,,-25.3661,if an announced station is closer and in the first half of its build,
+Trained to 2013,2013,stage_late,MRT,,-16.7619,if an announced station is closer and in the second half of its build,
+Trained to 2013,2013,income_k,Driver,,31.5713,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2013,2013,avl4_k,Driver,,1.4779,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2013,2013,sold4_k,Driver,,-2.4582,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2013,2013,tight36,Policy stance,,8.8532,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2014,2014,intercept,Intercept,,157.437,starting value,
+Trained to 2014,2014,floor_area_sqm,Floor area,,1.8515,per m2 of floor area,
+Trained to 2014,2014,flat_age,Flat age (straight line),,-4.2119,per year of flat age,
+Trained to 2014,2014,storey,Storey,,2.7573,per floor (middle of the 3-floor range),
+Trained to 2014,2014,age_bend_10,Lease-decay bend,10,-0.3276,extra per year of age beyond 10,
+Trained to 2014,2014,age_bend_15,Lease-decay bend,15,2.2023,extra per year of age beyond 15,
+Trained to 2014,2014,age_bend_20,Lease-decay bend,20,0.7595,extra per year of age beyond 20,
+Trained to 2014,2014,age_bend_25,Lease-decay bend,25,-0.4927,extra per year of age beyond 25,
+Trained to 2014,2014,age_bend_30,Lease-decay bend,30,1.8084,extra per year of age beyond 30,
+Trained to 2014,2014,age_bend_35,Lease-decay bend,35,-4.4865,extra per year of age beyond 35,
+Trained to 2014,2014,age_bend_40,Lease-decay bend,40,-5.8174,extra per year of age beyond 40,
+Trained to 2014,2014,age_bend_45,Lease-decay bend,45,-6.9403,extra per year of age beyond 45,
+Trained to 2014,2014,age_bend_50,Lease-decay bend,50,-0.0,extra per year of age beyond 50,
+Trained to 2014,2014,age_bend_55,Lease-decay bend,55,0.0,extra per year of age beyond 55,
+Trained to 2014,2014,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2014,2014,BEDOK,Town,,1.525,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2014,2014,BISHAN,Town,,30.3866,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2014,2014,BUKIT BATOK,Town,,-19.1202,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2014,2014,BUKIT MERAH,Town,,18.6105,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2014,2014,BUKIT PANJANG,Town,,-29.6593,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2014,2014,BUKIT TIMAH,Town,,85.0063,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2014,2014,CENTRAL AREA,Town,,1.4889,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2014,2014,CHOA CHU KANG,Town,,-49.645,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2014,2014,CLEMENTI,Town,,22.2245,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2014,2014,GEYLANG,Town,,-5.4314,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2014,2014,HOUGANG,Town,,-32.35,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2014,2014,JURONG EAST,Town,,-17.2998,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2014,2014,JURONG WEST,Town,,-28.8276,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2014,2014,KALLANG/WHAMPOA,Town,,-6.0499,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2014,2014,MARINE PARADE,Town,,108.6081,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2014,2014,PASIR RIS,Town,,-9.9127,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2014,2014,PUNGGOL,Town,,-28.2285,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2014,2014,QUEENSTOWN,Town,,29.9896,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2014,2014,SEMBAWANG,Town,,-47.3527,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2014,2014,SENGKANG,Town,,-53.6134,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2014,2014,SERANGOON,Town,,-4.9309,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2014,2014,TAMPINES,Town,,1.7765,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2014,2014,TOA PAYOH,Town,,9.872,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2014,2014,WOODLANDS,Town,,-50.7541,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2014,2014,YISHUN,Town,,-25.867,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2014,2014,1 ROOM,Flat type,,-96.2049,vs a 4-room flat,1 ROOM
+Trained to 2014,2014,2 ROOM,Flat type,,-66.4922,vs a 4-room flat,2 ROOM
+Trained to 2014,2014,3 ROOM,Flat type,,-24.0495,vs a 4-room flat,3 ROOM
+Trained to 2014,2014,5 ROOM,Flat type,,41.4079,vs a 4-room flat,5 ROOM
+Trained to 2014,2014,EXECUTIVE,Flat type,,62.4583,vs a 4-room flat,EXECUTIVE
+Trained to 2014,2014,MULTI-GENERATION,Flat type,,53.1738,vs a 4-room flat,MULTI-GENERATION
+Trained to 2014,2014,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2014,2014,APARTMENT,Flat model,,10.4412,vs Model A,APARTMENT
+Trained to 2014,2014,DBSS,Flat model,,41.9695,vs Model A,DBSS
+Trained to 2014,2014,IMPROVED,Flat model,,-13.4791,vs Model A,IMPROVED
+Trained to 2014,2014,MAISONETTE,Flat model,,15.4581,vs Model A,MAISONETTE
+Trained to 2014,2014,MODEL A2,Flat model,,-0.7436,vs Model A,MODEL A2
+Trained to 2014,2014,NEW GENERATION,Flat model,,-3.55,vs Model A,NEW GENERATION
+Trained to 2014,2014,OTHER,Flat model,,46.8527,vs Model A,OTHER
+Trained to 2014,2014,PREMIUM APARTMENT,Flat model,,1.3362,vs Model A,PREMIUM APARTMENT
+Trained to 2014,2014,SIMPLIFIED,Flat model,,-12.8759,vs Model A,SIMPLIFIED
+Trained to 2014,2014,STANDARD,Flat model,,-9.0264,vs Model A,STANDARD
+Trained to 2014,2014,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2014,2014,dist_to_cbd_km,Location,,-5.312,per km from the CBD,
+Trained to 2014,2014,dist_to_mall_km,Location,,-4.0636,per km to the nearest mall,
+Trained to 2014,2014,dist_to_nearest_high_demand_primary_school_km,Location,,5.4151,per km to the nearest popular primary school,
+Trained to 2014,2014,within_1km_high_demand_primary_school_flag,Location,,3.9209,if a popular primary school is within 1 km,
+Trained to 2014,2014,mrt_open_km,MRT,,-28.8286,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2014,2014,mrt_new_gain,MRT,,29.6633,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2014,2014,stage_early,MRT,,-26.1042,if an announced station is closer and in the first half of its build,
+Trained to 2014,2014,stage_late,MRT,,-17.9377,if an announced station is closer and in the second half of its build,
+Trained to 2014,2014,income_k,Driver,,25.1886,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2014,2014,avl4_k,Driver,,-0.2288,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2014,2014,sold4_k,Driver,,-2.458,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2014,2014,tight36,Policy stance,,9.6705,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2015,2015,intercept,Intercept,,161.423,starting value,
+Trained to 2015,2015,floor_area_sqm,Floor area,,1.8761,per m2 of floor area,
+Trained to 2015,2015,flat_age,Flat age (straight line),,-4.5118,per year of flat age,
+Trained to 2015,2015,storey,Storey,,2.8613,per floor (middle of the 3-floor range),
+Trained to 2015,2015,age_bend_10,Lease-decay bend,10,-0.1398,extra per year of age beyond 10,
+Trained to 2015,2015,age_bend_15,Lease-decay bend,15,2.3897,extra per year of age beyond 15,
+Trained to 2015,2015,age_bend_20,Lease-decay bend,20,0.5205,extra per year of age beyond 20,
+Trained to 2015,2015,age_bend_25,Lease-decay bend,25,-0.534,extra per year of age beyond 25,
+Trained to 2015,2015,age_bend_30,Lease-decay bend,30,1.5699,extra per year of age beyond 30,
+Trained to 2015,2015,age_bend_35,Lease-decay bend,35,-3.5446,extra per year of age beyond 35,
+Trained to 2015,2015,age_bend_40,Lease-decay bend,40,-6.2553,extra per year of age beyond 40,
+Trained to 2015,2015,age_bend_45,Lease-decay bend,45,3.2421,extra per year of age beyond 45,
+Trained to 2015,2015,age_bend_50,Lease-decay bend,50,-0.0,extra per year of age beyond 50,
+Trained to 2015,2015,age_bend_55,Lease-decay bend,55,0.0,extra per year of age beyond 55,
+Trained to 2015,2015,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2015,2015,BEDOK,Town,,1.5558,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2015,2015,BISHAN,Town,,30.9479,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2015,2015,BUKIT BATOK,Town,,-19.4194,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2015,2015,BUKIT MERAH,Town,,18.683,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2015,2015,BUKIT PANJANG,Town,,-29.6875,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2015,2015,BUKIT TIMAH,Town,,89.6993,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2015,2015,CENTRAL AREA,Town,,7.8686,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2015,2015,CHOA CHU KANG,Town,,-50.8688,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2015,2015,CLEMENTI,Town,,23.7478,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2015,2015,GEYLANG,Town,,-5.8656,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2015,2015,HOUGANG,Town,,-33.3348,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2015,2015,JURONG EAST,Town,,-16.3146,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2015,2015,JURONG WEST,Town,,-28.06,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2015,2015,KALLANG/WHAMPOA,Town,,-6.5148,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2015,2015,MARINE PARADE,Town,,110.4989,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2015,2015,PASIR RIS,Town,,-10.4024,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2015,2015,PUNGGOL,Town,,-31.9434,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2015,2015,QUEENSTOWN,Town,,31.5234,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2015,2015,SEMBAWANG,Town,,-48.2655,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2015,2015,SENGKANG,Town,,-55.9187,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2015,2015,SERANGOON,Town,,-4.6994,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2015,2015,TAMPINES,Town,,1.6238,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2015,2015,TOA PAYOH,Town,,9.6234,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2015,2015,WOODLANDS,Town,,-50.3903,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2015,2015,YISHUN,Town,,-25.2927,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2015,2015,1 ROOM,Flat type,,-96.094,vs a 4-room flat,1 ROOM
+Trained to 2015,2015,2 ROOM,Flat type,,-67.8283,vs a 4-room flat,2 ROOM
+Trained to 2015,2015,3 ROOM,Flat type,,-24.5837,vs a 4-room flat,3 ROOM
+Trained to 2015,2015,5 ROOM,Flat type,,40.4639,vs a 4-room flat,5 ROOM
+Trained to 2015,2015,EXECUTIVE,Flat type,,61.4108,vs a 4-room flat,EXECUTIVE
+Trained to 2015,2015,MULTI-GENERATION,Flat type,,36.5902,vs a 4-room flat,MULTI-GENERATION
+Trained to 2015,2015,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2015,2015,APARTMENT,Flat model,,12.0781,vs Model A,APARTMENT
+Trained to 2015,2015,DBSS,Flat model,,56.0438,vs Model A,DBSS
+Trained to 2015,2015,IMPROVED,Flat model,,-12.7412,vs Model A,IMPROVED
+Trained to 2015,2015,MAISONETTE,Flat model,,18.9315,vs Model A,MAISONETTE
+Trained to 2015,2015,MODEL A2,Flat model,,-1.0447,vs Model A,MODEL A2
+Trained to 2015,2015,NEW GENERATION,Flat model,,-2.9914,vs Model A,NEW GENERATION
+Trained to 2015,2015,OTHER,Flat model,,62.5843,vs Model A,OTHER
+Trained to 2015,2015,PREMIUM APARTMENT,Flat model,,1.0146,vs Model A,PREMIUM APARTMENT
+Trained to 2015,2015,SIMPLIFIED,Flat model,,-12.4824,vs Model A,SIMPLIFIED
+Trained to 2015,2015,STANDARD,Flat model,,-6.8616,vs Model A,STANDARD
+Trained to 2015,2015,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2015,2015,dist_to_cbd_km,Location,,-5.6158,per km from the CBD,
+Trained to 2015,2015,dist_to_mall_km,Location,,-4.3411,per km to the nearest mall,
+Trained to 2015,2015,dist_to_nearest_high_demand_primary_school_km,Location,,5.8662,per km to the nearest popular primary school,
+Trained to 2015,2015,within_1km_high_demand_primary_school_flag,Location,,4.3194,if a popular primary school is within 1 km,
+Trained to 2015,2015,mrt_open_km,MRT,,-29.525,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2015,2015,mrt_new_gain,MRT,,30.5293,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2015,2015,stage_early,MRT,,-26.4537,if an announced station is closer and in the first half of its build,
+Trained to 2015,2015,stage_late,MRT,,-19.5297,if an announced station is closer and in the second half of its build,
+Trained to 2015,2015,income_k,Driver,,25.3575,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2015,2015,avl4_k,Driver,,-0.2457,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2015,2015,sold4_k,Driver,,-2.4857,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2015,2015,tight36,Policy stance,,9.6904,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2016,2016,intercept,Intercept,,108.524,starting value,
+Trained to 2016,2016,floor_area_sqm,Floor area,,1.9304,per m2 of floor area,
+Trained to 2016,2016,flat_age,Flat age (straight line),,-4.7671,per year of flat age,
+Trained to 2016,2016,storey,Storey,,2.9735,per floor (middle of the 3-floor range),
+Trained to 2016,2016,age_bend_10,Lease-decay bend,10,0.1115,extra per year of age beyond 10,
+Trained to 2016,2016,age_bend_15,Lease-decay bend,15,2.2912,extra per year of age beyond 15,
+Trained to 2016,2016,age_bend_20,Lease-decay bend,20,0.5848,extra per year of age beyond 20,
+Trained to 2016,2016,age_bend_25,Lease-decay bend,25,-0.7816,extra per year of age beyond 25,
+Trained to 2016,2016,age_bend_30,Lease-decay bend,30,1.655,extra per year of age beyond 30,
+Trained to 2016,2016,age_bend_35,Lease-decay bend,35,-3.1307,extra per year of age beyond 35,
+Trained to 2016,2016,age_bend_40,Lease-decay bend,40,-6.1906,extra per year of age beyond 40,
+Trained to 2016,2016,age_bend_45,Lease-decay bend,45,5.8339,extra per year of age beyond 45,
+Trained to 2016,2016,age_bend_50,Lease-decay bend,50,-0.0,extra per year of age beyond 50,
+Trained to 2016,2016,age_bend_55,Lease-decay bend,55,0.0,extra per year of age beyond 55,
+Trained to 2016,2016,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2016,2016,BEDOK,Town,,1.6281,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2016,2016,BISHAN,Town,,31.3361,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2016,2016,BUKIT BATOK,Town,,-20.146,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2016,2016,BUKIT MERAH,Town,,17.9719,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2016,2016,BUKIT PANJANG,Town,,-30.9435,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2016,2016,BUKIT TIMAH,Town,,95.295,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2016,2016,CENTRAL AREA,Town,,9.7644,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2016,2016,CHOA CHU KANG,Town,,-53.4031,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2016,2016,CLEMENTI,Town,,25.1884,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2016,2016,GEYLANG,Town,,-6.3352,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2016,2016,HOUGANG,Town,,-35.6194,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2016,2016,JURONG EAST,Town,,-15.9998,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2016,2016,JURONG WEST,Town,,-27.6473,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2016,2016,KALLANG/WHAMPOA,Town,,-7.1021,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2016,2016,MARINE PARADE,Town,,110.7423,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2016,2016,PASIR RIS,Town,,-11.6229,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2016,2016,PUNGGOL,Town,,-36.5465,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2016,2016,QUEENSTOWN,Town,,32.4964,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2016,2016,SEMBAWANG,Town,,-49.2343,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2016,2016,SENGKANG,Town,,-59.3573,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2016,2016,SERANGOON,Town,,-4.8949,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2016,2016,TAMPINES,Town,,0.4645,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2016,2016,TOA PAYOH,Town,,8.6848,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2016,2016,WOODLANDS,Town,,-50.6183,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2016,2016,YISHUN,Town,,-25.5525,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2016,2016,1 ROOM,Flat type,,-94.3118,vs a 4-room flat,1 ROOM
+Trained to 2016,2016,2 ROOM,Flat type,,-68.0246,vs a 4-room flat,2 ROOM
+Trained to 2016,2016,3 ROOM,Flat type,,-24.4711,vs a 4-room flat,3 ROOM
+Trained to 2016,2016,5 ROOM,Flat type,,39.2257,vs a 4-room flat,5 ROOM
+Trained to 2016,2016,EXECUTIVE,Flat type,,60.5846,vs a 4-room flat,EXECUTIVE
+Trained to 2016,2016,MULTI-GENERATION,Flat type,,27.405,vs a 4-room flat,MULTI-GENERATION
+Trained to 2016,2016,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2016,2016,APARTMENT,Flat model,,12.2669,vs Model A,APARTMENT
+Trained to 2016,2016,DBSS,Flat model,,133.2747,vs Model A,DBSS
+Trained to 2016,2016,IMPROVED,Flat model,,-12.1193,vs Model A,IMPROVED
+Trained to 2016,2016,MAISONETTE,Flat model,,21.0699,vs Model A,MAISONETTE
+Trained to 2016,2016,MODEL A2,Flat model,,-1.0696,vs Model A,MODEL A2
+Trained to 2016,2016,NEW GENERATION,Flat model,,-2.4667,vs Model A,NEW GENERATION
+Trained to 2016,2016,OTHER,Flat model,,70.8654,vs Model A,OTHER
+Trained to 2016,2016,PREMIUM APARTMENT,Flat model,,0.4239,vs Model A,PREMIUM APARTMENT
+Trained to 2016,2016,SIMPLIFIED,Flat model,,-11.7594,vs Model A,SIMPLIFIED
+Trained to 2016,2016,STANDARD,Flat model,,-5.0109,vs Model A,STANDARD
+Trained to 2016,2016,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2016,2016,dist_to_cbd_km,Location,,-5.9472,per km from the CBD,
+Trained to 2016,2016,dist_to_mall_km,Location,,-4.9307,per km to the nearest mall,
+Trained to 2016,2016,dist_to_nearest_high_demand_primary_school_km,Location,,6.237,per km to the nearest popular primary school,
+Trained to 2016,2016,within_1km_high_demand_primary_school_flag,Location,,4.7478,if a popular primary school is within 1 km,
+Trained to 2016,2016,mrt_open_km,MRT,,-30.2013,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2016,2016,mrt_new_gain,MRT,,31.2376,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2016,2016,stage_early,MRT,,-27.308,if an announced station is closer and in the first half of its build,
+Trained to 2016,2016,stage_late,MRT,,-20.2128,if an announced station is closer and in the second half of its build,
+Trained to 2016,2016,income_k,Driver,,37.2263,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2016,2016,avl4_k,Driver,,-0.2903,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2016,2016,sold4_k,Driver,,-2.7957,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2016,2016,tight36,Policy stance,,7.2293,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2017,2017,intercept,Intercept,,67.574,starting value,
+Trained to 2017,2017,floor_area_sqm,Floor area,,1.9887,per m2 of floor area,
+Trained to 2017,2017,flat_age,Flat age (straight line),,-4.8985,per year of flat age,
+Trained to 2017,2017,storey,Storey,,3.09,per floor (middle of the 3-floor range),
+Trained to 2017,2017,age_bend_10,Lease-decay bend,10,0.0918,extra per year of age beyond 10,
+Trained to 2017,2017,age_bend_15,Lease-decay bend,15,2.4691,extra per year of age beyond 15,
+Trained to 2017,2017,age_bend_20,Lease-decay bend,20,0.6141,extra per year of age beyond 20,
+Trained to 2017,2017,age_bend_25,Lease-decay bend,25,-1.1511,extra per year of age beyond 25,
+Trained to 2017,2017,age_bend_30,Lease-decay bend,30,1.7245,extra per year of age beyond 30,
+Trained to 2017,2017,age_bend_35,Lease-decay bend,35,-2.9838,extra per year of age beyond 35,
+Trained to 2017,2017,age_bend_40,Lease-decay bend,40,-5.2598,extra per year of age beyond 40,
+Trained to 2017,2017,age_bend_45,Lease-decay bend,45,3.3964,extra per year of age beyond 45,
+Trained to 2017,2017,age_bend_50,Lease-decay bend,50,50.1483,extra per year of age beyond 50,
+Trained to 2017,2017,age_bend_55,Lease-decay bend,55,-0.0,extra per year of age beyond 55,
+Trained to 2017,2017,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2017,2017,BEDOK,Town,,2.473,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2017,2017,BISHAN,Town,,33.3063,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2017,2017,BUKIT BATOK,Town,,-20.6829,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2017,2017,BUKIT MERAH,Town,,18.6824,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2017,2017,BUKIT PANJANG,Town,,-31.0919,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2017,2017,BUKIT TIMAH,Town,,100.8327,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2017,2017,CENTRAL AREA,Town,,10.7569,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2017,2017,CHOA CHU KANG,Town,,-55.6101,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2017,2017,CLEMENTI,Town,,27.4993,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2017,2017,GEYLANG,Town,,-5.5232,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2017,2017,HOUGANG,Town,,-37.1891,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2017,2017,JURONG EAST,Town,,-15.8853,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2017,2017,JURONG WEST,Town,,-27.2136,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2017,2017,KALLANG/WHAMPOA,Town,,-7.4735,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2017,2017,MARINE PARADE,Town,,112.5057,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2017,2017,PASIR RIS,Town,,-12.277,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2017,2017,PUNGGOL,Town,,-40.7447,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2017,2017,QUEENSTOWN,Town,,34.7968,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2017,2017,SEMBAWANG,Town,,-50.0141,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2017,2017,SENGKANG,Town,,-62.6358,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2017,2017,SERANGOON,Town,,-4.383,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2017,2017,TAMPINES,Town,,-0.0616,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2017,2017,TOA PAYOH,Town,,9.5129,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2017,2017,WOODLANDS,Town,,-50.8733,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2017,2017,YISHUN,Town,,-25.9293,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2017,2017,1 ROOM,Flat type,,-92.3023,vs a 4-room flat,1 ROOM
+Trained to 2017,2017,2 ROOM,Flat type,,-68.387,vs a 4-room flat,2 ROOM
+Trained to 2017,2017,3 ROOM,Flat type,,-24.2841,vs a 4-room flat,3 ROOM
+Trained to 2017,2017,5 ROOM,Flat type,,38.2411,vs a 4-room flat,5 ROOM
+Trained to 2017,2017,EXECUTIVE,Flat type,,59.2788,vs a 4-room flat,EXECUTIVE
+Trained to 2017,2017,MULTI-GENERATION,Flat type,,20.9292,vs a 4-room flat,MULTI-GENERATION
+Trained to 2017,2017,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2017,2017,APARTMENT,Flat model,,13.3155,vs Model A,APARTMENT
+Trained to 2017,2017,DBSS,Flat model,,161.8478,vs Model A,DBSS
+Trained to 2017,2017,IMPROVED,Flat model,,-11.7187,vs Model A,IMPROVED
+Trained to 2017,2017,MAISONETTE,Flat model,,23.3174,vs Model A,MAISONETTE
+Trained to 2017,2017,MODEL A2,Flat model,,-0.7381,vs Model A,MODEL A2
+Trained to 2017,2017,NEW GENERATION,Flat model,,-2.1444,vs Model A,NEW GENERATION
+Trained to 2017,2017,OTHER,Flat model,,76.8002,vs Model A,OTHER
+Trained to 2017,2017,PREMIUM APARTMENT,Flat model,,0.5953,vs Model A,PREMIUM APARTMENT
+Trained to 2017,2017,SIMPLIFIED,Flat model,,-11.1508,vs Model A,SIMPLIFIED
+Trained to 2017,2017,STANDARD,Flat model,,-3.9531,vs Model A,STANDARD
+Trained to 2017,2017,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2017,2017,dist_to_cbd_km,Location,,-6.2516,per km from the CBD,
+Trained to 2017,2017,dist_to_mall_km,Location,,-5.5638,per km to the nearest mall,
+Trained to 2017,2017,dist_to_nearest_high_demand_primary_school_km,Location,,6.4977,per km to the nearest popular primary school,
+Trained to 2017,2017,within_1km_high_demand_primary_school_flag,Location,,4.9059,if a popular primary school is within 1 km,
+Trained to 2017,2017,mrt_open_km,MRT,,-31.2433,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2017,2017,mrt_new_gain,MRT,,32.5149,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2017,2017,stage_early,MRT,,-28.3841,if an announced station is closer and in the first half of its build,
+Trained to 2017,2017,stage_late,MRT,,-21.3884,if an announced station is closer and in the second half of its build,
+Trained to 2017,2017,income_k,Driver,,46.1332,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2017,2017,avl4_k,Driver,,-0.6829,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2017,2017,sold4_k,Driver,,-2.9568,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2017,2017,tight36,Policy stance,,5.5958,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2018,2018,intercept,Intercept,,23.767,starting value,
+Trained to 2018,2018,floor_area_sqm,Floor area,,2.0335,per m2 of floor area,
+Trained to 2018,2018,flat_age,Flat age (straight line),,-4.7409,per year of flat age,
+Trained to 2018,2018,storey,Storey,,3.2297,per floor (middle of the 3-floor range),
+Trained to 2018,2018,age_bend_10,Lease-decay bend,10,-0.3822,extra per year of age beyond 10,
+Trained to 2018,2018,age_bend_15,Lease-decay bend,15,2.9457,extra per year of age beyond 15,
+Trained to 2018,2018,age_bend_20,Lease-decay bend,20,0.4668,extra per year of age beyond 20,
+Trained to 2018,2018,age_bend_25,Lease-decay bend,25,-1.3933,extra per year of age beyond 25,
+Trained to 2018,2018,age_bend_30,Lease-decay bend,30,1.6348,extra per year of age beyond 30,
+Trained to 2018,2018,age_bend_35,Lease-decay bend,35,-3.1892,extra per year of age beyond 35,
+Trained to 2018,2018,age_bend_40,Lease-decay bend,40,-3.6444,extra per year of age beyond 40,
+Trained to 2018,2018,age_bend_45,Lease-decay bend,45,-0.3387,extra per year of age beyond 45,
+Trained to 2018,2018,age_bend_50,Lease-decay bend,50,9.0811,extra per year of age beyond 50,
+Trained to 2018,2018,age_bend_55,Lease-decay bend,55,0.0,extra per year of age beyond 55,
+Trained to 2018,2018,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2018,2018,BEDOK,Town,,3.121,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2018,2018,BISHAN,Town,,33.9926,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2018,2018,BUKIT BATOK,Town,,-21.0505,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2018,2018,BUKIT MERAH,Town,,18.9822,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2018,2018,BUKIT PANJANG,Town,,-29.4913,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2018,2018,BUKIT TIMAH,Town,,108.7284,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2018,2018,CENTRAL AREA,Town,,10.1751,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2018,2018,CHOA CHU KANG,Town,,-57.315,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2018,2018,CLEMENTI,Town,,30.0343,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2018,2018,GEYLANG,Town,,-5.0844,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2018,2018,HOUGANG,Town,,-38.0765,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2018,2018,JURONG EAST,Town,,-15.1399,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2018,2018,JURONG WEST,Town,,-26.4967,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2018,2018,KALLANG/WHAMPOA,Town,,-8.7209,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2018,2018,MARINE PARADE,Town,,114.9955,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2018,2018,PASIR RIS,Town,,-12.1087,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2018,2018,PUNGGOL,Town,,-41.9239,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2018,2018,QUEENSTOWN,Town,,36.9599,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2018,2018,SEMBAWANG,Town,,-49.6608,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2018,2018,SENGKANG,Town,,-64.5314,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2018,2018,SERANGOON,Town,,-3.4898,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2018,2018,TAMPINES,Town,,-0.2711,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2018,2018,TOA PAYOH,Town,,9.7393,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2018,2018,WOODLANDS,Town,,-50.5293,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2018,2018,YISHUN,Town,,-26.0629,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2018,2018,1 ROOM,Flat type,,-92.1082,vs a 4-room flat,1 ROOM
+Trained to 2018,2018,2 ROOM,Flat type,,-70.0817,vs a 4-room flat,2 ROOM
+Trained to 2018,2018,3 ROOM,Flat type,,-24.5465,vs a 4-room flat,3 ROOM
+Trained to 2018,2018,5 ROOM,Flat type,,37.6477,vs a 4-room flat,5 ROOM
+Trained to 2018,2018,EXECUTIVE,Flat type,,58.2479,vs a 4-room flat,EXECUTIVE
+Trained to 2018,2018,MULTI-GENERATION,Flat type,,24.6967,vs a 4-room flat,MULTI-GENERATION
+Trained to 2018,2018,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2018,2018,APARTMENT,Flat model,,15.1197,vs Model A,APARTMENT
+Trained to 2018,2018,DBSS,Flat model,,171.8084,vs Model A,DBSS
+Trained to 2018,2018,IMPROVED,Flat model,,-11.2732,vs Model A,IMPROVED
+Trained to 2018,2018,MAISONETTE,Flat model,,26.5835,vs Model A,MAISONETTE
+Trained to 2018,2018,MODEL A2,Flat model,,-0.29,vs Model A,MODEL A2
+Trained to 2018,2018,NEW GENERATION,Flat model,,-2.146,vs Model A,NEW GENERATION
+Trained to 2018,2018,OTHER,Flat model,,84.2303,vs Model A,OTHER
+Trained to 2018,2018,PREMIUM APARTMENT,Flat model,,1.2839,vs Model A,PREMIUM APARTMENT
+Trained to 2018,2018,SIMPLIFIED,Flat model,,-10.7143,vs Model A,SIMPLIFIED
+Trained to 2018,2018,STANDARD,Flat model,,-2.3049,vs Model A,STANDARD
+Trained to 2018,2018,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2018,2018,dist_to_cbd_km,Location,,-6.6549,per km from the CBD,
+Trained to 2018,2018,dist_to_mall_km,Location,,-6.2672,per km to the nearest mall,
+Trained to 2018,2018,dist_to_nearest_high_demand_primary_school_km,Location,,6.7179,per km to the nearest popular primary school,
+Trained to 2018,2018,within_1km_high_demand_primary_school_flag,Location,,4.974,if a popular primary school is within 1 km,
+Trained to 2018,2018,mrt_open_km,MRT,,-32.7256,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2018,2018,mrt_new_gain,MRT,,33.3379,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2018,2018,stage_early,MRT,,-28.8595,if an announced station is closer and in the first half of its build,
+Trained to 2018,2018,stage_late,MRT,,-22.091,if an announced station is closer and in the second half of its build,
+Trained to 2018,2018,income_k,Driver,,53.0827,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2018,2018,avl4_k,Driver,,-1.4524,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2018,2018,sold4_k,Driver,,-2.2126,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2018,2018,tight36,Policy stance,,5.3353,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2019,2019,intercept,Intercept,,61.071,starting value,
+Trained to 2019,2019,floor_area_sqm,Floor area,,2.0631,per m2 of floor area,
+Trained to 2019,2019,flat_age,Flat age (straight line),,-4.4953,per year of flat age,
+Trained to 2019,2019,storey,Storey,,3.3416,per floor (middle of the 3-floor range),
+Trained to 2019,2019,age_bend_10,Lease-decay bend,10,-0.6785,extra per year of age beyond 10,
+Trained to 2019,2019,age_bend_15,Lease-decay bend,15,2.7413,extra per year of age beyond 15,
+Trained to 2019,2019,age_bend_20,Lease-decay bend,20,0.7991,extra per year of age beyond 20,
+Trained to 2019,2019,age_bend_25,Lease-decay bend,25,-1.5895,extra per year of age beyond 25,
+Trained to 2019,2019,age_bend_30,Lease-decay bend,30,1.0973,extra per year of age beyond 30,
+Trained to 2019,2019,age_bend_35,Lease-decay bend,35,-3.0607,extra per year of age beyond 35,
+Trained to 2019,2019,age_bend_40,Lease-decay bend,40,-2.3374,extra per year of age beyond 40,
+Trained to 2019,2019,age_bend_45,Lease-decay bend,45,-3.3805,extra per year of age beyond 45,
+Trained to 2019,2019,age_bend_50,Lease-decay bend,50,5.2855,extra per year of age beyond 50,
+Trained to 2019,2019,age_bend_55,Lease-decay bend,55,0.0,extra per year of age beyond 55,
+Trained to 2019,2019,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2019,2019,BEDOK,Town,,3.6102,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2019,2019,BISHAN,Town,,34.4256,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2019,2019,BUKIT BATOK,Town,,-21.1077,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2019,2019,BUKIT MERAH,Town,,18.7071,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2019,2019,BUKIT PANJANG,Town,,-28.3169,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2019,2019,BUKIT TIMAH,Town,,116.5028,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2019,2019,CENTRAL AREA,Town,,9.0703,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2019,2019,CHOA CHU KANG,Town,,-57.8173,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2019,2019,CLEMENTI,Town,,32.3083,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2019,2019,GEYLANG,Town,,-4.9263,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2019,2019,HOUGANG,Town,,-38.9791,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2019,2019,JURONG EAST,Town,,-14.3446,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2019,2019,JURONG WEST,Town,,-24.9734,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2019,2019,KALLANG/WHAMPOA,Town,,-9.5318,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2019,2019,MARINE PARADE,Town,,115.7724,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2019,2019,PASIR RIS,Town,,-10.8093,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2019,2019,PUNGGOL,Town,,-40.4544,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2019,2019,QUEENSTOWN,Town,,38.6819,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2019,2019,SEMBAWANG,Town,,-48.4937,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2019,2019,SENGKANG,Town,,-65.1639,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2019,2019,SERANGOON,Town,,-3.5037,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2019,2019,TAMPINES,Town,,-0.0478,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2019,2019,TOA PAYOH,Town,,9.8094,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2019,2019,WOODLANDS,Town,,-49.2773,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2019,2019,YISHUN,Town,,-26.3564,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2019,2019,1 ROOM,Flat type,,-92.5104,vs a 4-room flat,1 ROOM
+Trained to 2019,2019,2 ROOM,Flat type,,-72.7839,vs a 4-room flat,2 ROOM
+Trained to 2019,2019,3 ROOM,Flat type,,-25.0019,vs a 4-room flat,3 ROOM
+Trained to 2019,2019,5 ROOM,Flat type,,37.2077,vs a 4-room flat,5 ROOM
+Trained to 2019,2019,EXECUTIVE,Flat type,,57.1744,vs a 4-room flat,EXECUTIVE
+Trained to 2019,2019,MULTI-GENERATION,Flat type,,27.3467,vs a 4-room flat,MULTI-GENERATION
+Trained to 2019,2019,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2019,2019,APARTMENT,Flat model,,16.757,vs Model A,APARTMENT
+Trained to 2019,2019,DBSS,Flat model,,169.7535,vs Model A,DBSS
+Trained to 2019,2019,IMPROVED,Flat model,,-10.409,vs Model A,IMPROVED
+Trained to 2019,2019,MAISONETTE,Flat model,,29.7959,vs Model A,MAISONETTE
+Trained to 2019,2019,MODEL A2,Flat model,,0.4283,vs Model A,MODEL A2
+Trained to 2019,2019,NEW GENERATION,Flat model,,-1.5765,vs Model A,NEW GENERATION
+Trained to 2019,2019,OTHER,Flat model,,90.908,vs Model A,OTHER
+Trained to 2019,2019,PREMIUM APARTMENT,Flat model,,2.2752,vs Model A,PREMIUM APARTMENT
+Trained to 2019,2019,SIMPLIFIED,Flat model,,-10.2992,vs Model A,SIMPLIFIED
+Trained to 2019,2019,STANDARD,Flat model,,0.3811,vs Model A,STANDARD
+Trained to 2019,2019,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2019,2019,dist_to_cbd_km,Location,,-7.1389,per km from the CBD,
+Trained to 2019,2019,dist_to_mall_km,Location,,-6.9603,per km to the nearest mall,
+Trained to 2019,2019,dist_to_nearest_high_demand_primary_school_km,Location,,6.9876,per km to the nearest popular primary school,
+Trained to 2019,2019,within_1km_high_demand_primary_school_flag,Location,,5.0949,if a popular primary school is within 1 km,
+Trained to 2019,2019,mrt_open_km,MRT,,-33.8423,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2019,2019,mrt_new_gain,MRT,,34.0202,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2019,2019,stage_early,MRT,,-30.0079,if an announced station is closer and in the first half of its build,
+Trained to 2019,2019,stage_late,MRT,,-21.7009,if an announced station is closer and in the second half of its build,
+Trained to 2019,2019,income_k,Driver,,47.2153,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2019,2019,avl4_k,Driver,,-0.618,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2019,2019,sold4_k,Driver,,-2.6624,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2019,2019,tight36,Policy stance,,5.5051,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2020,2020,intercept,Intercept,,71.355,starting value,
+Trained to 2020,2020,floor_area_sqm,Floor area,,2.0925,per m2 of floor area,
+Trained to 2020,2020,flat_age,Flat age (straight line),,-4.5493,per year of flat age,
+Trained to 2020,2020,storey,Storey,,3.4419,per floor (middle of the 3-floor range),
+Trained to 2020,2020,age_bend_10,Lease-decay bend,10,-0.4876,extra per year of age beyond 10,
+Trained to 2020,2020,age_bend_15,Lease-decay bend,15,2.4223,extra per year of age beyond 15,
+Trained to 2020,2020,age_bend_20,Lease-decay bend,20,1.0327,extra per year of age beyond 20,
+Trained to 2020,2020,age_bend_25,Lease-decay bend,25,-1.6596,extra per year of age beyond 25,
+Trained to 2020,2020,age_bend_30,Lease-decay bend,30,0.4957,extra per year of age beyond 30,
+Trained to 2020,2020,age_bend_35,Lease-decay bend,35,-2.9166,extra per year of age beyond 35,
+Trained to 2020,2020,age_bend_40,Lease-decay bend,40,-1.8311,extra per year of age beyond 40,
+Trained to 2020,2020,age_bend_45,Lease-decay bend,45,-3.7316,extra per year of age beyond 45,
+Trained to 2020,2020,age_bend_50,Lease-decay bend,50,1.9854,extra per year of age beyond 50,
+Trained to 2020,2020,age_bend_55,Lease-decay bend,55,-0.0,extra per year of age beyond 55,
+Trained to 2020,2020,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2020,2020,BEDOK,Town,,2.7209,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2020,2020,BISHAN,Town,,34.4634,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2020,2020,BUKIT BATOK,Town,,-20.9049,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2020,2020,BUKIT MERAH,Town,,18.0664,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2020,2020,BUKIT PANJANG,Town,,-28.5133,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2020,2020,BUKIT TIMAH,Town,,119.6528,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2020,2020,CENTRAL AREA,Town,,6.986,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2020,2020,CHOA CHU KANG,Town,,-57.9933,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2020,2020,CLEMENTI,Town,,33.3015,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2020,2020,GEYLANG,Town,,-5.3584,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2020,2020,HOUGANG,Town,,-40.0012,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2020,2020,JURONG EAST,Town,,-13.8679,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2020,2020,JURONG WEST,Town,,-23.6284,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2020,2020,KALLANG/WHAMPOA,Town,,-10.9728,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2020,2020,MARINE PARADE,Town,,115.5214,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2020,2020,PASIR RIS,Town,,-10.2101,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2020,2020,PUNGGOL,Town,,-40.218,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2020,2020,QUEENSTOWN,Town,,40.9216,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2020,2020,SEMBAWANG,Town,,-46.9944,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2020,2020,SENGKANG,Town,,-66.2145,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2020,2020,SERANGOON,Town,,-4.292,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2020,2020,TAMPINES,Town,,-0.4659,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2020,2020,TOA PAYOH,Town,,9.4702,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2020,2020,WOODLANDS,Town,,-47.7289,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2020,2020,YISHUN,Town,,-26.2603,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2020,2020,1 ROOM,Flat type,,-92.4991,vs a 4-room flat,1 ROOM
+Trained to 2020,2020,2 ROOM,Flat type,,-74.9062,vs a 4-room flat,2 ROOM
+Trained to 2020,2020,3 ROOM,Flat type,,-25.4656,vs a 4-room flat,3 ROOM
+Trained to 2020,2020,5 ROOM,Flat type,,36.8737,vs a 4-room flat,5 ROOM
+Trained to 2020,2020,EXECUTIVE,Flat type,,55.3694,vs a 4-room flat,EXECUTIVE
+Trained to 2020,2020,MULTI-GENERATION,Flat type,,23.8826,vs a 4-room flat,MULTI-GENERATION
+Trained to 2020,2020,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2020,2020,APARTMENT,Flat model,,19.6086,vs Model A,APARTMENT
+Trained to 2020,2020,DBSS,Flat model,,161.3231,vs Model A,DBSS
+Trained to 2020,2020,IMPROVED,Flat model,,-9.4763,vs Model A,IMPROVED
+Trained to 2020,2020,MAISONETTE,Flat model,,33.9712,vs Model A,MAISONETTE
+Trained to 2020,2020,MODEL A2,Flat model,,1.2361,vs Model A,MODEL A2
+Trained to 2020,2020,NEW GENERATION,Flat model,,-0.8395,vs Model A,NEW GENERATION
+Trained to 2020,2020,OTHER,Flat model,,97.5495,vs Model A,OTHER
+Trained to 2020,2020,PREMIUM APARTMENT,Flat model,,4.355,vs Model A,PREMIUM APARTMENT
+Trained to 2020,2020,SIMPLIFIED,Flat model,,-9.8388,vs Model A,SIMPLIFIED
+Trained to 2020,2020,STANDARD,Flat model,,2.5056,vs Model A,STANDARD
+Trained to 2020,2020,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2020,2020,dist_to_cbd_km,Location,,-7.5856,per km from the CBD,
+Trained to 2020,2020,dist_to_mall_km,Location,,-7.4224,per km to the nearest mall,
+Trained to 2020,2020,dist_to_nearest_high_demand_primary_school_km,Location,,7.1239,per km to the nearest popular primary school,
+Trained to 2020,2020,within_1km_high_demand_primary_school_flag,Location,,5.3719,if a popular primary school is within 1 km,
+Trained to 2020,2020,mrt_open_km,MRT,,-34.6624,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2020,2020,mrt_new_gain,MRT,,34.3238,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2020,2020,stage_early,MRT,,-29.7751,if an announced station is closer and in the first half of its build,
+Trained to 2020,2020,stage_late,MRT,,-20.7689,if an announced station is closer and in the second half of its build,
+Trained to 2020,2020,income_k,Driver,,46.0185,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2020,2020,avl4_k,Driver,,-0.4524,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2020,2020,sold4_k,Driver,,-2.751,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2020,2020,tight36,Policy stance,,5.5536,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2021,2021,intercept,Intercept,,30.519,starting value,
+Trained to 2021,2021,floor_area_sqm,Floor area,,2.0731,per m2 of floor area,
+Trained to 2021,2021,flat_age,Flat age (straight line),,-4.3382,per year of flat age,
+Trained to 2021,2021,storey,Storey,,3.6013,per floor (middle of the 3-floor range),
+Trained to 2021,2021,age_bend_10,Lease-decay bend,10,-1.1074,extra per year of age beyond 10,
+Trained to 2021,2021,age_bend_15,Lease-decay bend,15,2.8645,extra per year of age beyond 15,
+Trained to 2021,2021,age_bend_20,Lease-decay bend,20,1.6504,extra per year of age beyond 20,
+Trained to 2021,2021,age_bend_25,Lease-decay bend,25,-2.9202,extra per year of age beyond 25,
+Trained to 2021,2021,age_bend_30,Lease-decay bend,30,1.114,extra per year of age beyond 30,
+Trained to 2021,2021,age_bend_35,Lease-decay bend,35,-3.6486,extra per year of age beyond 35,
+Trained to 2021,2021,age_bend_40,Lease-decay bend,40,-0.3105,extra per year of age beyond 40,
+Trained to 2021,2021,age_bend_45,Lease-decay bend,45,-5.5045,extra per year of age beyond 45,
+Trained to 2021,2021,age_bend_50,Lease-decay bend,50,9.0836,extra per year of age beyond 50,
+Trained to 2021,2021,age_bend_55,Lease-decay bend,55,0.0,extra per year of age beyond 55,
+Trained to 2021,2021,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2021,2021,BEDOK,Town,,2.0869,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2021,2021,BISHAN,Town,,34.8661,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2021,2021,BUKIT BATOK,Town,,-20.0728,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2021,2021,BUKIT MERAH,Town,,17.671,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2021,2021,BUKIT PANJANG,Town,,-26.8155,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2021,2021,BUKIT TIMAH,Town,,125.8119,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2021,2021,CENTRAL AREA,Town,,5.9637,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2021,2021,CHOA CHU KANG,Town,,-56.3185,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2021,2021,CLEMENTI,Town,,34.7039,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2021,2021,GEYLANG,Town,,-5.9981,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2021,2021,HOUGANG,Town,,-40.3799,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2021,2021,JURONG EAST,Town,,-13.0792,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2021,2021,JURONG WEST,Town,,-22.2214,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2021,2021,KALLANG/WHAMPOA,Town,,-11.9052,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2021,2021,MARINE PARADE,Town,,117.6446,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2021,2021,PASIR RIS,Town,,-8.3426,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2021,2021,PUNGGOL,Town,,-38.3946,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2021,2021,QUEENSTOWN,Town,,43.5595,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2021,2021,SEMBAWANG,Town,,-45.1134,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2021,2021,SENGKANG,Town,,-66.3092,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2021,2021,SERANGOON,Town,,-4.4678,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2021,2021,TAMPINES,Town,,-0.8046,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2021,2021,TOA PAYOH,Town,,9.2305,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2021,2021,WOODLANDS,Town,,-45.2304,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2021,2021,YISHUN,Town,,-24.621,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2021,2021,1 ROOM,Flat type,,-96.6351,vs a 4-room flat,1 ROOM
+Trained to 2021,2021,2 ROOM,Flat type,,-80.7625,vs a 4-room flat,2 ROOM
+Trained to 2021,2021,3 ROOM,Flat type,,-27.7616,vs a 4-room flat,3 ROOM
+Trained to 2021,2021,5 ROOM,Flat type,,39.6903,vs a 4-room flat,5 ROOM
+Trained to 2021,2021,EXECUTIVE,Flat type,,55.9185,vs a 4-room flat,EXECUTIVE
+Trained to 2021,2021,MULTI-GENERATION,Flat type,,22.6086,vs a 4-room flat,MULTI-GENERATION
+Trained to 2021,2021,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2021,2021,APARTMENT,Flat model,,23.1083,vs Model A,APARTMENT
+Trained to 2021,2021,DBSS,Flat model,,153.9239,vs Model A,DBSS
+Trained to 2021,2021,IMPROVED,Flat model,,-10.4865,vs Model A,IMPROVED
+Trained to 2021,2021,MAISONETTE,Flat model,,39.7906,vs Model A,MAISONETTE
+Trained to 2021,2021,MODEL A2,Flat model,,1.3614,vs Model A,MODEL A2
+Trained to 2021,2021,NEW GENERATION,Flat model,,-1.1222,vs Model A,NEW GENERATION
+Trained to 2021,2021,OTHER,Flat model,,108.3051,vs Model A,OTHER
+Trained to 2021,2021,PREMIUM APARTMENT,Flat model,,7.0498,vs Model A,PREMIUM APARTMENT
+Trained to 2021,2021,SIMPLIFIED,Flat model,,-10.3881,vs Model A,SIMPLIFIED
+Trained to 2021,2021,STANDARD,Flat model,,1.9125,vs Model A,STANDARD
+Trained to 2021,2021,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2021,2021,dist_to_cbd_km,Location,,-8.1122,per km from the CBD,
+Trained to 2021,2021,dist_to_mall_km,Location,,-7.8183,per km to the nearest mall,
+Trained to 2021,2021,dist_to_nearest_high_demand_primary_school_km,Location,,7.208,per km to the nearest popular primary school,
+Trained to 2021,2021,within_1km_high_demand_primary_school_flag,Location,,5.751,if a popular primary school is within 1 km,
+Trained to 2021,2021,mrt_open_km,MRT,,-36.3538,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2021,2021,mrt_new_gain,MRT,,33.612,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2021,2021,stage_early,MRT,,-29.1031,if an announced station is closer and in the first half of its build,
+Trained to 2021,2021,stage_late,MRT,,-16.2459,if an announced station is closer and in the second half of its build,
+Trained to 2021,2021,income_k,Driver,,52.1552,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2021,2021,avl4_k,Driver,,-1.319,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2021,2021,sold4_k,Driver,,-1.4844,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2021,2021,tight36,Policy stance,,5.6036,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2022,2022,intercept,Intercept,,-2.841,starting value,
+Trained to 2022,2022,floor_area_sqm,Floor area,,2.1209,per m2 of floor area,
+Trained to 2022,2022,flat_age,Flat age (straight line),,-4.5156,per year of flat age,
+Trained to 2022,2022,storey,Storey,,3.7632,per floor (middle of the 3-floor range),
+Trained to 2022,2022,age_bend_10,Lease-decay bend,10,-1.2095,extra per year of age beyond 10,
+Trained to 2022,2022,age_bend_15,Lease-decay bend,15,3.3335,extra per year of age beyond 15,
+Trained to 2022,2022,age_bend_20,Lease-decay bend,20,1.6017,extra per year of age beyond 20,
+Trained to 2022,2022,age_bend_25,Lease-decay bend,25,-3.2161,extra per year of age beyond 25,
+Trained to 2022,2022,age_bend_30,Lease-decay bend,30,0.9441,extra per year of age beyond 30,
+Trained to 2022,2022,age_bend_35,Lease-decay bend,35,-3.6773,extra per year of age beyond 35,
+Trained to 2022,2022,age_bend_40,Lease-decay bend,40,-0.3306,extra per year of age beyond 40,
+Trained to 2022,2022,age_bend_45,Lease-decay bend,45,-4.6094,extra per year of age beyond 45,
+Trained to 2022,2022,age_bend_50,Lease-decay bend,50,5.7816,extra per year of age beyond 50,
+Trained to 2022,2022,age_bend_55,Lease-decay bend,55,-0.0,extra per year of age beyond 55,
+Trained to 2022,2022,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2022,2022,BEDOK,Town,,-0.0341,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2022,2022,BISHAN,Town,,34.3356,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2022,2022,BUKIT BATOK,Town,,-20.2915,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2022,2022,BUKIT MERAH,Town,,15.557,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2022,2022,BUKIT PANJANG,Town,,-28.5651,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2022,2022,BUKIT TIMAH,Town,,126.4612,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2022,2022,CENTRAL AREA,Town,,3.587,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2022,2022,CHOA CHU KANG,Town,,-57.2778,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2022,2022,CLEMENTI,Town,,34.7838,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2022,2022,GEYLANG,Town,,-8.0652,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2022,2022,HOUGANG,Town,,-41.6472,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2022,2022,JURONG EAST,Town,,-14.6273,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2022,2022,JURONG WEST,Town,,-22.8667,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2022,2022,KALLANG/WHAMPOA,Town,,-11.9438,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2022,2022,MARINE PARADE,Town,,117.2536,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2022,2022,PASIR RIS,Town,,-8.8234,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2022,2022,PUNGGOL,Town,,-40.7293,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2022,2022,QUEENSTOWN,Town,,43.3184,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2022,2022,SEMBAWANG,Town,,-43.7655,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2022,2022,SENGKANG,Town,,-68.3209,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2022,2022,SERANGOON,Town,,-5.8597,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2022,2022,TAMPINES,Town,,-2.3693,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2022,2022,TOA PAYOH,Town,,9.081,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2022,2022,WOODLANDS,Town,,-44.7985,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2022,2022,YISHUN,Town,,-24.3567,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2022,2022,1 ROOM,Flat type,,-94.1331,vs a 4-room flat,1 ROOM
+Trained to 2022,2022,2 ROOM,Flat type,,-83.6201,vs a 4-room flat,2 ROOM
+Trained to 2022,2022,3 ROOM,Flat type,,-28.2397,vs a 4-room flat,3 ROOM
+Trained to 2022,2022,5 ROOM,Flat type,,39.7032,vs a 4-room flat,5 ROOM
+Trained to 2022,2022,EXECUTIVE,Flat type,,54.267,vs a 4-room flat,EXECUTIVE
+Trained to 2022,2022,MULTI-GENERATION,Flat type,,20.7872,vs a 4-room flat,MULTI-GENERATION
+Trained to 2022,2022,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2022,2022,APARTMENT,Flat model,,26.0586,vs Model A,APARTMENT
+Trained to 2022,2022,DBSS,Flat model,,147.2975,vs Model A,DBSS
+Trained to 2022,2022,IMPROVED,Flat model,,-9.9996,vs Model A,IMPROVED
+Trained to 2022,2022,MAISONETTE,Flat model,,44.7172,vs Model A,MAISONETTE
+Trained to 2022,2022,MODEL A2,Flat model,,1.9036,vs Model A,MODEL A2
+Trained to 2022,2022,NEW GENERATION,Flat model,,-0.778,vs Model A,NEW GENERATION
+Trained to 2022,2022,OTHER,Flat model,,112.5624,vs Model A,OTHER
+Trained to 2022,2022,PREMIUM APARTMENT,Flat model,,8.6372,vs Model A,PREMIUM APARTMENT
+Trained to 2022,2022,SIMPLIFIED,Flat model,,-9.8677,vs Model A,SIMPLIFIED
+Trained to 2022,2022,STANDARD,Flat model,,4.2152,vs Model A,STANDARD
+Trained to 2022,2022,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2022,2022,dist_to_cbd_km,Location,,-8.4649,per km from the CBD,
+Trained to 2022,2022,dist_to_mall_km,Location,,-7.9456,per km to the nearest mall,
+Trained to 2022,2022,dist_to_nearest_high_demand_primary_school_km,Location,,7.4846,per km to the nearest popular primary school,
+Trained to 2022,2022,within_1km_high_demand_primary_school_flag,Location,,6.2184,if a popular primary school is within 1 km,
+Trained to 2022,2022,mrt_open_km,MRT,,-37.5623,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2022,2022,mrt_new_gain,MRT,,34.0137,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2022,2022,stage_early,MRT,,-27.3155,if an announced station is closer and in the first half of its build,
+Trained to 2022,2022,stage_late,MRT,,-15.3105,if an announced station is closer and in the second half of its build,
+Trained to 2022,2022,income_k,Driver,,58.4225,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2022,2022,avl4_k,Driver,,-2.1762,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2022,2022,sold4_k,Driver,,-1.2639,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2022,2022,tight36,Policy stance,,5.5349,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2023,2023,intercept,Intercept,,-9.311,starting value,
+Trained to 2023,2023,floor_area_sqm,Floor area,,2.1872,per m2 of floor area,
+Trained to 2023,2023,flat_age,Flat age (straight line),,-4.6369,per year of flat age,
+Trained to 2023,2023,storey,Storey,,3.8571,per floor (middle of the 3-floor range),
+Trained to 2023,2023,age_bend_10,Lease-decay bend,10,-0.9772,extra per year of age beyond 10,
+Trained to 2023,2023,age_bend_15,Lease-decay bend,15,3.0993,extra per year of age beyond 15,
+Trained to 2023,2023,age_bend_20,Lease-decay bend,20,1.7377,extra per year of age beyond 20,
+Trained to 2023,2023,age_bend_25,Lease-decay bend,25,-3.0856,extra per year of age beyond 25,
+Trained to 2023,2023,age_bend_30,Lease-decay bend,30,0.4709,extra per year of age beyond 30,
+Trained to 2023,2023,age_bend_35,Lease-decay bend,35,-3.8284,extra per year of age beyond 35,
+Trained to 2023,2023,age_bend_40,Lease-decay bend,40,-0.8909,extra per year of age beyond 40,
+Trained to 2023,2023,age_bend_45,Lease-decay bend,45,-2.9142,extra per year of age beyond 45,
+Trained to 2023,2023,age_bend_50,Lease-decay bend,50,1.3321,extra per year of age beyond 50,
+Trained to 2023,2023,age_bend_55,Lease-decay bend,55,-19.1979,extra per year of age beyond 55,
+Trained to 2023,2023,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2023,2023,BEDOK,Town,,-1.0492,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2023,2023,BISHAN,Town,,34.1967,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2023,2023,BUKIT BATOK,Town,,-21.8212,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2023,2023,BUKIT MERAH,Town,,16.072,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2023,2023,BUKIT PANJANG,Town,,-30.5341,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2023,2023,BUKIT TIMAH,Town,,128.6712,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2023,2023,CENTRAL AREA,Town,,3.7515,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2023,2023,CHOA CHU KANG,Town,,-60.2464,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2023,2023,CLEMENTI,Town,,35.347,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2023,2023,GEYLANG,Town,,-8.2845,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2023,2023,HOUGANG,Town,,-43.2357,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2023,2023,JURONG EAST,Town,,-16.7523,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2023,2023,JURONG WEST,Town,,-24.963,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2023,2023,KALLANG/WHAMPOA,Town,,-11.8376,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2023,2023,MARINE PARADE,Town,,116.648,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2023,2023,PASIR RIS,Town,,-10.6753,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2023,2023,PUNGGOL,Town,,-42.7317,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2023,2023,QUEENSTOWN,Town,,44.2371,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2023,2023,SEMBAWANG,Town,,-45.1341,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2023,2023,SENGKANG,Town,,-70.2321,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2023,2023,SERANGOON,Town,,-6.8145,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2023,2023,TAMPINES,Town,,-4.1881,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2023,2023,TOA PAYOH,Town,,10.1167,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2023,2023,WOODLANDS,Town,,-46.659,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2023,2023,YISHUN,Town,,-26.2815,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2023,2023,1 ROOM,Flat type,,-92.4693,vs a 4-room flat,1 ROOM
+Trained to 2023,2023,2 ROOM,Flat type,,-89.2231,vs a 4-room flat,2 ROOM
+Trained to 2023,2023,3 ROOM,Flat type,,-28.9052,vs a 4-room flat,3 ROOM
+Trained to 2023,2023,5 ROOM,Flat type,,38.2033,vs a 4-room flat,5 ROOM
+Trained to 2023,2023,EXECUTIVE,Flat type,,53.0067,vs a 4-room flat,EXECUTIVE
+Trained to 2023,2023,MULTI-GENERATION,Flat type,,16.1359,vs a 4-room flat,MULTI-GENERATION
+Trained to 2023,2023,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2023,2023,APARTMENT,Flat model,,27.6477,vs Model A,APARTMENT
+Trained to 2023,2023,DBSS,Flat model,,147.402,vs Model A,DBSS
+Trained to 2023,2023,IMPROVED,Flat model,,-8.3575,vs Model A,IMPROVED
+Trained to 2023,2023,MAISONETTE,Flat model,,47.4154,vs Model A,MAISONETTE
+Trained to 2023,2023,MODEL A2,Flat model,,2.4803,vs Model A,MODEL A2
+Trained to 2023,2023,NEW GENERATION,Flat model,,0.1904,vs Model A,NEW GENERATION
+Trained to 2023,2023,OTHER,Flat model,,115.9275,vs Model A,OTHER
+Trained to 2023,2023,PREMIUM APARTMENT,Flat model,,10.2418,vs Model A,PREMIUM APARTMENT
+Trained to 2023,2023,SIMPLIFIED,Flat model,,-8.9794,vs Model A,SIMPLIFIED
+Trained to 2023,2023,STANDARD,Flat model,,8.3246,vs Model A,STANDARD
+Trained to 2023,2023,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2023,2023,dist_to_cbd_km,Location,,-8.5641,per km from the CBD,
+Trained to 2023,2023,dist_to_mall_km,Location,,-8.3148,per km to the nearest mall,
+Trained to 2023,2023,dist_to_nearest_high_demand_primary_school_km,Location,,7.7905,per km to the nearest popular primary school,
+Trained to 2023,2023,within_1km_high_demand_primary_school_flag,Location,,6.3992,if a popular primary school is within 1 km,
+Trained to 2023,2023,mrt_open_km,MRT,,-38.2648,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2023,2023,mrt_new_gain,MRT,,34.6105,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2023,2023,stage_early,MRT,,-26.4565,if an announced station is closer and in the first half of its build,
+Trained to 2023,2023,stage_late,MRT,,-16.2402,if an announced station is closer and in the second half of its build,
+Trained to 2023,2023,income_k,Driver,,59.067,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2023,2023,avl4_k,Driver,,-2.2467,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2023,2023,sold4_k,Driver,,-1.2737,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2023,2023,tight36,Policy stance,,5.5349,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2024,2024,intercept,Intercept,,-10.85,starting value,
+Trained to 2024,2024,floor_area_sqm,Floor area,,2.2789,per m2 of floor area,
+Trained to 2024,2024,flat_age,Flat age (straight line),,-4.8359,per year of flat age,
+Trained to 2024,2024,storey,Storey,,3.9732,per floor (middle of the 3-floor range),
+Trained to 2024,2024,age_bend_10,Lease-decay bend,10,-0.4668,extra per year of age beyond 10,
+Trained to 2024,2024,age_bend_15,Lease-decay bend,15,2.5179,extra per year of age beyond 15,
+Trained to 2024,2024,age_bend_20,Lease-decay bend,20,1.9721,extra per year of age beyond 20,
+Trained to 2024,2024,age_bend_25,Lease-decay bend,25,-2.8274,extra per year of age beyond 25,
+Trained to 2024,2024,age_bend_30,Lease-decay bend,30,0.0732,extra per year of age beyond 30,
+Trained to 2024,2024,age_bend_35,Lease-decay bend,35,-4.3807,extra per year of age beyond 35,
+Trained to 2024,2024,age_bend_40,Lease-decay bend,40,-1.239,extra per year of age beyond 40,
+Trained to 2024,2024,age_bend_45,Lease-decay bend,45,-1.9337,extra per year of age beyond 45,
+Trained to 2024,2024,age_bend_50,Lease-decay bend,50,-1.7966,extra per year of age beyond 50,
+Trained to 2024,2024,age_bend_55,Lease-decay bend,55,-5.4523,extra per year of age beyond 55,
+Trained to 2024,2024,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2024,2024,BEDOK,Town,,-1.2411,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2024,2024,BISHAN,Town,,33.5994,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2024,2024,BUKIT BATOK,Town,,-23.9804,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2024,2024,BUKIT MERAH,Town,,15.0394,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2024,2024,BUKIT PANJANG,Town,,-30.8074,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2024,2024,BUKIT TIMAH,Town,,132.2162,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2024,2024,CENTRAL AREA,Town,,3.0436,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2024,2024,CHOA CHU KANG,Town,,-62.1665,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2024,2024,CLEMENTI,Town,,36.2582,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2024,2024,GEYLANG,Town,,-7.5091,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2024,2024,HOUGANG,Town,,-44.5131,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2024,2024,JURONG EAST,Town,,-18.5793,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2024,2024,JURONG WEST,Town,,-25.969,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2024,2024,KALLANG/WHAMPOA,Town,,-11.7422,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2024,2024,MARINE PARADE,Town,,115.0399,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2024,2024,PASIR RIS,Town,,-11.2931,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2024,2024,PUNGGOL,Town,,-43.2592,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2024,2024,QUEENSTOWN,Town,,44.6512,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2024,2024,SEMBAWANG,Town,,-44.0762,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2024,2024,SENGKANG,Town,,-71.2329,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2024,2024,SERANGOON,Town,,-7.3317,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2024,2024,TAMPINES,Town,,-4.8659,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2024,2024,TOA PAYOH,Town,,11.7086,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2024,2024,WOODLANDS,Town,,-46.5268,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2024,2024,YISHUN,Town,,-26.7716,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2024,2024,1 ROOM,Flat type,,-90.2394,vs a 4-room flat,1 ROOM
+Trained to 2024,2024,2 ROOM,Flat type,,-96.3678,vs a 4-room flat,2 ROOM
+Trained to 2024,2024,3 ROOM,Flat type,,-29.1575,vs a 4-room flat,3 ROOM
+Trained to 2024,2024,5 ROOM,Flat type,,36.3371,vs a 4-room flat,5 ROOM
+Trained to 2024,2024,EXECUTIVE,Flat type,,51.2122,vs a 4-room flat,EXECUTIVE
+Trained to 2024,2024,MULTI-GENERATION,Flat type,,14.5346,vs a 4-room flat,MULTI-GENERATION
+Trained to 2024,2024,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2024,2024,APARTMENT,Flat model,,29.0047,vs Model A,APARTMENT
+Trained to 2024,2024,DBSS,Flat model,,148.9982,vs Model A,DBSS
+Trained to 2024,2024,IMPROVED,Flat model,,-6.8743,vs Model A,IMPROVED
+Trained to 2024,2024,MAISONETTE,Flat model,,50.3449,vs Model A,MAISONETTE
+Trained to 2024,2024,MODEL A2,Flat model,,3.0634,vs Model A,MODEL A2
+Trained to 2024,2024,NEW GENERATION,Flat model,,1.3041,vs Model A,NEW GENERATION
+Trained to 2024,2024,OTHER,Flat model,,116.4096,vs Model A,OTHER
+Trained to 2024,2024,PREMIUM APARTMENT,Flat model,,11.6145,vs Model A,PREMIUM APARTMENT
+Trained to 2024,2024,SIMPLIFIED,Flat model,,-7.9678,vs Model A,SIMPLIFIED
+Trained to 2024,2024,STANDARD,Flat model,,12.9832,vs Model A,STANDARD
+Trained to 2024,2024,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2024,2024,dist_to_cbd_km,Location,,-8.9271,per km from the CBD,
+Trained to 2024,2024,dist_to_mall_km,Location,,-9.0153,per km to the nearest mall,
+Trained to 2024,2024,dist_to_nearest_high_demand_primary_school_km,Location,,8.0488,per km to the nearest popular primary school,
+Trained to 2024,2024,within_1km_high_demand_primary_school_flag,Location,,6.5894,if a popular primary school is within 1 km,
+Trained to 2024,2024,mrt_open_km,MRT,,-39.1007,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2024,2024,mrt_new_gain,MRT,,35.5075,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2024,2024,stage_early,MRT,,-25.976,if an announced station is closer and in the first half of its build,
+Trained to 2024,2024,stage_late,MRT,,-18.7312,if an announced station is closer and in the second half of its build,
+Trained to 2024,2024,income_k,Driver,,58.6811,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2024,2024,avl4_k,Driver,,-2.2107,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2024,2024,sold4_k,Driver,,-1.165,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2024,2024,tight36,Policy stance,,5.6386,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance
+Trained to 2025,2025,intercept,Intercept,,-28.622,starting value,
+Trained to 2025,2025,floor_area_sqm,Floor area,,2.3794,per m2 of floor area,
+Trained to 2025,2025,flat_age,Flat age (straight line),,-4.8541,per year of flat age,
+Trained to 2025,2025,storey,Storey,,4.0705,per floor (middle of the 3-floor range),
+Trained to 2025,2025,age_bend_10,Lease-decay bend,10,-0.3956,extra per year of age beyond 10,
+Trained to 2025,2025,age_bend_15,Lease-decay bend,15,2.1981,extra per year of age beyond 15,
+Trained to 2025,2025,age_bend_20,Lease-decay bend,20,1.98,extra per year of age beyond 20,
+Trained to 2025,2025,age_bend_25,Lease-decay bend,25,-2.2679,extra per year of age beyond 25,
+Trained to 2025,2025,age_bend_30,Lease-decay bend,30,-0.8023,extra per year of age beyond 30,
+Trained to 2025,2025,age_bend_35,Lease-decay bend,35,-3.918,extra per year of age beyond 35,
+Trained to 2025,2025,age_bend_40,Lease-decay bend,40,-2.556,extra per year of age beyond 40,
+Trained to 2025,2025,age_bend_45,Lease-decay bend,45,-0.3254,extra per year of age beyond 45,
+Trained to 2025,2025,age_bend_50,Lease-decay bend,50,-3.4694,extra per year of age beyond 50,
+Trained to 2025,2025,age_bend_55,Lease-decay bend,55,0.5822,extra per year of age beyond 55,
+Trained to 2025,2025,ANG MO KIO,Town,,0.0,base town,ANG MO KIO
+Trained to 2025,2025,BEDOK,Town,,-1.5534,vs the same flat in Ang Mo Kio,BEDOK
+Trained to 2025,2025,BISHAN,Town,,32.6691,vs the same flat in Ang Mo Kio,BISHAN
+Trained to 2025,2025,BUKIT BATOK,Town,,-25.1607,vs the same flat in Ang Mo Kio,BUKIT BATOK
+Trained to 2025,2025,BUKIT MERAH,Town,,12.8004,vs the same flat in Ang Mo Kio,BUKIT MERAH
+Trained to 2025,2025,BUKIT PANJANG,Town,,-31.3075,vs the same flat in Ang Mo Kio,BUKIT PANJANG
+Trained to 2025,2025,BUKIT TIMAH,Town,,135.6854,vs the same flat in Ang Mo Kio,BUKIT TIMAH
+Trained to 2025,2025,CENTRAL AREA,Town,,2.6109,vs the same flat in Ang Mo Kio,CENTRAL AREA
+Trained to 2025,2025,CHOA CHU KANG,Town,,-63.7318,vs the same flat in Ang Mo Kio,CHOA CHU KANG
+Trained to 2025,2025,CLEMENTI,Town,,37.7514,vs the same flat in Ang Mo Kio,CLEMENTI
+Trained to 2025,2025,GEYLANG,Town,,-8.0376,vs the same flat in Ang Mo Kio,GEYLANG
+Trained to 2025,2025,HOUGANG,Town,,-46.4224,vs the same flat in Ang Mo Kio,HOUGANG
+Trained to 2025,2025,JURONG EAST,Town,,-19.4896,vs the same flat in Ang Mo Kio,JURONG EAST
+Trained to 2025,2025,JURONG WEST,Town,,-25.8894,vs the same flat in Ang Mo Kio,JURONG WEST
+Trained to 2025,2025,KALLANG/WHAMPOA,Town,,-12.9865,vs the same flat in Ang Mo Kio,KALLANG/WHAMPOA
+Trained to 2025,2025,MARINE PARADE,Town,,114.2213,vs the same flat in Ang Mo Kio,MARINE PARADE
+Trained to 2025,2025,PASIR RIS,Town,,-11.7267,vs the same flat in Ang Mo Kio,PASIR RIS
+Trained to 2025,2025,PUNGGOL,Town,,-44.8062,vs the same flat in Ang Mo Kio,PUNGGOL
+Trained to 2025,2025,QUEENSTOWN,Town,,45.1781,vs the same flat in Ang Mo Kio,QUEENSTOWN
+Trained to 2025,2025,SEMBAWANG,Town,,-42.6973,vs the same flat in Ang Mo Kio,SEMBAWANG
+Trained to 2025,2025,SENGKANG,Town,,-72.8213,vs the same flat in Ang Mo Kio,SENGKANG
+Trained to 2025,2025,SERANGOON,Town,,-8.3365,vs the same flat in Ang Mo Kio,SERANGOON
+Trained to 2025,2025,TAMPINES,Town,,-4.8448,vs the same flat in Ang Mo Kio,TAMPINES
+Trained to 2025,2025,TOA PAYOH,Town,,14.429,vs the same flat in Ang Mo Kio,TOA PAYOH
+Trained to 2025,2025,WOODLANDS,Town,,-46.0528,vs the same flat in Ang Mo Kio,WOODLANDS
+Trained to 2025,2025,YISHUN,Town,,-26.8952,vs the same flat in Ang Mo Kio,YISHUN
+Trained to 2025,2025,1 ROOM,Flat type,,-85.0444,vs a 4-room flat,1 ROOM
+Trained to 2025,2025,2 ROOM,Flat type,,-103.187,vs a 4-room flat,2 ROOM
+Trained to 2025,2025,3 ROOM,Flat type,,-28.7379,vs a 4-room flat,3 ROOM
+Trained to 2025,2025,5 ROOM,Flat type,,34.1041,vs a 4-room flat,5 ROOM
+Trained to 2025,2025,EXECUTIVE,Flat type,,49.3035,vs a 4-room flat,EXECUTIVE
+Trained to 2025,2025,MULTI-GENERATION,Flat type,,15.3201,vs a 4-room flat,MULTI-GENERATION
+Trained to 2025,2025,4 ROOM,Flat type,,0.0,base type,4 ROOM
+Trained to 2025,2025,APARTMENT,Flat model,,29.2449,vs Model A,APARTMENT
+Trained to 2025,2025,DBSS,Flat model,,149.4966,vs Model A,DBSS
+Trained to 2025,2025,IMPROVED,Flat model,,-5.0523,vs Model A,IMPROVED
+Trained to 2025,2025,MAISONETTE,Flat model,,52.441,vs Model A,MAISONETTE
+Trained to 2025,2025,MODEL A2,Flat model,,3.96,vs Model A,MODEL A2
+Trained to 2025,2025,NEW GENERATION,Flat model,,3.0294,vs Model A,NEW GENERATION
+Trained to 2025,2025,OTHER,Flat model,,113.1923,vs Model A,OTHER
+Trained to 2025,2025,PREMIUM APARTMENT,Flat model,,12.1115,vs Model A,PREMIUM APARTMENT
+Trained to 2025,2025,SIMPLIFIED,Flat model,,-6.3631,vs Model A,SIMPLIFIED
+Trained to 2025,2025,STANDARD,Flat model,,18.0443,vs Model A,STANDARD
+Trained to 2025,2025,MODEL A,Flat model,,0.0,base model,MODEL A
+Trained to 2025,2025,dist_to_cbd_km,Location,,-9.3975,per km from the CBD,
+Trained to 2025,2025,dist_to_mall_km,Location,,-9.4843,per km to the nearest mall,
+Trained to 2025,2025,dist_to_nearest_high_demand_primary_school_km,Location,,8.5776,per km to the nearest popular primary school,
+Trained to 2025,2025,within_1km_high_demand_primary_school_flag,Location,,7.1286,if a popular primary school is within 1 km,
+Trained to 2025,2025,mrt_open_km,MRT,,-40.2438,per km to the nearest open MRT station (capped at 3 km),
+Trained to 2025,2025,mrt_new_gain,MRT,,36.7285,"per km closer an announced, not yet open station will bring the block (capped at 3 km)",
+Trained to 2025,2025,stage_early,MRT,,-26.3708,if an announced station is closer and in the first half of its build,
+Trained to 2025,2025,stage_late,MRT,,-19.2316,if an announced station is closer and in the second half of its build,
+Trained to 2025,2025,income_k,Driver,,61.7905,"per $1,000 of monthly household income, the year before the sale",income
+Trained to 2025,2025,avl4_k,Driver,,-2.5884,"per 1,000 flats offered 4 years before (RFS to 2000, BTO launched from 2001)",rfs_bto
+Trained to 2025,2025,sold4_k,Driver,,-1.2657,"per 1,000 HDB flats sold 4 years before (SingStat)",hdb_sold
+Trained to 2025,2025,tight36,Policy stance,,5.48,per point of policy stance: direction x intensity of rounds announced in the 36 months before the sale,stance

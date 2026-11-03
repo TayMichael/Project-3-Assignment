@@ -1,0 +1,31 @@
+event_id,announce_date,direction,intensity,points,segment,instruments,group,description,decimal_date
+P01,1996-05-14,1,3,3,private,LTV;SSD;deemed_income_tax;foreigner_loans,SSD,First anti-speculation package: bank LTV cap 80%; SSD on sales within 3 years; deemed income tax on gains within 3 years; no SGD housing loans for non-PR foreigners and foreign companies; BSD payable at option exercise,1996.3669
+P02,1997-09-01,1,1,1,hdb,MOP,Loan limits & HDB rules,HDB owners subject to 5-year minimum occupation before buying private property,1997.6653
+P03,1997-11-18,-1,2,-2,private,SSD,Easing (incl. grants),SSD suspended to improve market liquidity during Asian Financial Crisis,1997.8789
+P04,1998-06-01,-1,1,-1,private,BSD,Easing (incl. grants),BSD payment deferred to TOP/completion for uncompleted properties,1998.4134
+P05,2001-10-12,-1,2,-2,private,deemed_income_tax;foreigner_loans,Easing (incl. grants),Deemed income tax on 3-year gains removed; non-PR foreigners and foreign companies allowed SGD housing loans (post dot-com and 9/11 support),2001.7775
+P06,2005-07-19,-1,2,-2,all,LTV;min_cash,Easing (incl. grants),Bank LTV raised 80% to 90%; minimum cash down payment cut 10% to 5% (HDB bank-loan buyers aligned at 5%),2005.5448
+P07,2007-10-26,1,2,2,private,DPS,Loan limits & HDB rules,Deferred Payment Scheme for uncompleted private homes abolished,2007.8159
+P08,2009-09-14,1,2,2,private,IAS;IOL,Loan limits & HDB rules,Interest Absorption Scheme and interest-only housing loans disallowed,2009.7009
+P09,2010-02-19,1,2,2,all,SSD;LTV,SSD,SSD re-introduced for sales within 1 year; bank LTV cut 90% to 80%,2010.1342
+P10,2010-08-30,1,2,2,all,SSD;LTV;min_cash,SSD,SSD holding period 1 to 3 years; LTV for buyers with existing loan 80% to 70%; minimum cash 5% to 10% for them,2010.6598
+P11,2011-01-13,1,3,3,all,SSD;LTV,SSD,SSD 4 years at 16/12/8/4%; LTV 60% for individuals with existing loan; 50% for non-individuals,2011.0329
+P12,2011-12-07,1,3,3,private,ABSD,ABSD,ABSD introduced: foreigners and entities 10%; PR 2nd+ 3%; SC 3rd+ 3%,2011.9309
+P13,2012-10-05,1,1,1,all,tenure;LTV,Loan limits & HDB rules,Loan tenure capped at 35 years; tighter LTV for tenure >30 years or beyond age 65,2012.7611
+P14,2013-01-11,1,3,3,all,ABSD;LTV;min_cash;MSR,ABSD,ABSD raised (SC 2nd 7% / 3rd 10%; PR 1st 5% / 2nd+ 10%; foreigners and entities 15%); tighter LTV for 2nd+ loans; min cash 25% for 2nd+ loans; MSR 30% for FI loans on HDB/EC,2013.0274
+P15,2013-06-28,1,3,3,all,TDSR,Loan limits & HDB rules,Total Debt Servicing Ratio framework introduced at 60%,2013.4873
+P16,2013-08-27,1,2,2,hdb,HDB_tenure;HDB_MSR;PR_wait,Loan limits & HDB rules,HDB loan tenure 30 to 25 years; HDB MSR 35% to 30%; PR households must wait 3 years before buying resale HDB,2013.6516
+P17,2013-12-09,1,1,1,ec,MSR;resale_levy,Loan limits & HDB rules,30% MSR for EC bought from developers; resale levy for second-timer EC buyers,2013.9363
+P18,2017-03-10,-1,2,-2,private,SSD;TDSR,Easing (incl. grants),SSD cut to 3 years at 12/8/4%; TDSR disapplied to mortgage equity withdrawal loans at LTV <=50%,2017.1862
+P19,2018-02-19,1,1,1,all,BSD,BSD / tax,Top marginal BSD rate 4% on portion above $1m (Budget 2018),2018.1342
+P20,2018-07-05,1,3,3,private,ABSD;LTV,ABSD,ABSD +5pp individuals / +10pp entities (SC 2nd 12% / 3rd 15%; foreigners 20%; entities 25%); bank LTV cut 5pp (1st loan 75%),2018.5065
+P21,2019-09-11,-1,1,-1,hdb,grant,Easing (incl. grants),"Enhanced CPF Housing Grant (EHG) introduced for first-timer buyers (up to $80,000); HDB income ceilings raised to $14,000 for families and $7,000 for singles",2019.6927
+P22,2021-12-15,1,3,3,all,ABSD;TDSR;HDB_LTV,ABSD,ABSD raised (SC 2nd 17% / 3rd 25%; PR 2nd 25% / 3rd 30%; foreigners 30%; entities 35%); TDSR 60% to 55%; HDB loan LTV 90% to 85%,2021.9528
+P30,2022-05-09,1,1,1,private,ABSD,ABSD,Residential property transferred into a living trust charged ABSD at the entity rate (ABSD Trust),2022.3504
+P23,2022-09-29,1,3,3,all,stress_rate;HDB_LTV;waitout,Loan limits & HDB rules,TDSR/MSR interest floor +0.5pp; 3% floor for HDB loans; HDB LTV 85% to 80%; 15-month wait-out for private owners buying non-subsidised HDB resale,2022.742
+P24,2023-02-14,1,1,1,all,BSD,BSD / tax,BSD 5% on portion $1.5m-$3m and 6% above $3m (Budget 2023),2023.1205
+P25,2023-02-14,-1,1,-1,hdb,grant,Easing (incl. grants),CPF Housing Grant for first-timer resale buyers increased (Budget 2023),2023.1205
+P26,2023-04-26,1,3,3,private,ABSD,ABSD,ABSD raised (SC 2nd 20% / 3rd 30%; PR 2nd 30% / 3rd 35%; foreigners 60%; entities 65%),2023.3149
+P27,2024-08-19,1,2,2,hdb,HDB_LTV;grant,Loan limits & HDB rules,"HDB loan LTV 80% to 75%; Enhanced CPF Housing Grant raised to up to $120,000 for first-timer families and $60,000 for singles",2024.6324
+P28,2025-07-03,1,2,2,private,SSD,SSD,SSD holding period 3 to 4 years; rates +4pp (16/12/8/4%) for purchases from 4 Jul 2025,2025.501
+P29,2026-07-28,-1,2,-2,hdb,waitout,Easing (incl. grants),15-month wait-out for private owners buying non-subsidised HDB resale removed (after RPI fell in 1Q and 2Q 2026),2026.5695

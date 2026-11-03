@@ -1,0 +1,185 @@
+station,lines,first_line,announcement_date,opening_date,opening_source,latitude,longitude,coord_source
+Ang Mo Kio MRT,NSL,NSL,1982-05-22,1987-11-07,Wikipedia station list,1.36993285,103.8495581,your OneMap geocode
+Toa Payoh MRT,NSL,NSL,1982-05-22,1987-11-07,Wikipedia station list,1.332629281,103.8475022,your OneMap geocode
+Yio Chu Kang MRT,NSL,NSL,1982-05-22,1987-11-07,Wikipedia station list,1.381755871,103.8449473,your OneMap geocode
+Braddell MRT,NSL,NSL,1982-05-22,1987-11-07,Wikipedia station list,1.340105207,103.8467559,your OneMap geocode
+Bishan MRT,NSL,NSL,1982-05-22,1987-11-07,Wikipedia station list,1.351018898,103.8500572,your OneMap geocode
+Newton MRT,DTL/NSL,NSL,1982-05-22,1987-12-12,Wikipedia station list,1.312570317,103.8380316,your OneMap geocode
+Orchard MRT,NSL/TEL,NSL,1982-05-22,1987-12-12,Wikipedia station list,1.30306,103.83139,https://en.wikipedia.org/wiki/Orchard_MRT_station
+Dhoby Ghaut MRT,NSL,NSL,1996-03-01,1987-12-12,Wikipedia station list,1.298911644,103.8462925,your OneMap geocode
+Outram Park MRT,EWL/TEL,EWL,1996-03-01,1987-12-12,Wikipedia station list,1.280241533,103.8400521,your OneMap geocode
+Tanjong Pagar MRT,EWL,EWL,1982-05-22,1987-12-12,Wikipedia station list,1.276561317,103.8457252,your OneMap geocode
+Somerset MRT,NSL,NSL,1982-05-22,1987-12-12,Wikipedia station list,1.300252877,103.8391583,your OneMap geocode
+City Hall MRT,NSL,NSL,1982-05-22,1987-12-12,Wikipedia station list,1.292989907,103.8525426,your OneMap geocode
+Raffles Place MRT,NSL,NSL,1982-05-22,1987-12-12,Wikipedia station list,1.283933262,103.8514631,your OneMap geocode
+Novena MRT,NSL,NSL,1982-05-22,1987-12-12,Wikipedia station list,1.320440791,103.8438256,your OneMap geocode
+Redhill MRT,EWL,EWL,1982-05-22,1988-03-12,Wikipedia station list,1.289634534,103.816741,your OneMap geocode
+Queenstown MRT,EWL,EWL,1982-05-22,1988-03-12,Wikipedia station list,1.294550852,103.8060772,your OneMap geocode
+Buona Vista MRT,EWL,EWL,1982-05-22,1988-03-12,Wikipedia station list,1.306275348,103.7903632,your OneMap geocode
+Clementi MRT,CRL/EWL,EWL,1982-05-22,1988-03-12,Wikipedia station list,1.315116253,103.7651915,your OneMap geocode
+Commonwealth MRT,EWL,EWL,1982-05-22,1988-03-12,Wikipedia station list,1.302501999,103.7982285,your OneMap geocode
+Tiong Bahru MRT,EWL,EWL,1982-05-22,1988-03-12,Wikipedia station list,1.286194579,103.8269989,your OneMap geocode
+Lakeside MRT,EWL,EWL,1982-05-22,1988-11-05,Wikipedia station list,1.344259115,103.7209491,your OneMap geocode
+Jurong East MRT,JRL/NSL,NSL,1982-05-22,1988-11-05,Wikipedia station list,1.333027515,103.7423705,your OneMap geocode
+Chinese Garden MRT,EWL,EWL,1982-05-22,1988-11-05,Wikipedia station list,1.342352821,103.7325967,your OneMap geocode
+Khatib MRT,NSL,NSL,1982-05-22,1988-12-20,Wikipedia station list,1.41738337,103.8329799,your OneMap geocode
+Yishun MRT,NSL,NSL,1982-05-22,1988-12-20,Wikipedia station list,1.429443085,103.835005,your OneMap geocode
+Lavender MRT,EWL,EWL,1982-05-22,1989-11-04,Wikipedia station list,1.307391879,103.8627846,your OneMap geocode
+Kembangan MRT,EWL,EWL,1982-05-22,1989-11-04,Wikipedia station list,1.321038134,103.9129479,your OneMap geocode
+Marina Bay MRT,NSL/TEL,NSL,1982-05-22,1989-11-04,Wikipedia station list,1.276311144,103.854605,your OneMap geocode
+Kallang MRT,EWL,EWL,1982-05-22,1989-11-04,Wikipedia station list,1.31148891,103.8713865,your OneMap geocode
+Bugis MRT,DTL/EWL,EWL,1982-05-22,1989-11-04,Wikipedia station list,1.300465085,103.8557067,your OneMap geocode
+Eunos MRT,EWL,EWL,1982-05-22,1989-11-04,Wikipedia station list,1.319783549,103.9032258,your OneMap geocode
+Aljunied MRT,EWL,EWL,1982-05-22,1989-11-04,Wikipedia station list,1.316432612,103.882906,your OneMap geocode
+Tanah Merah MRT,EWL,EWL,1982-05-22,1989-11-04,Wikipedia station list,1.327187291,103.9463486,your OneMap geocode
+Paya Lebar MRT,EWL,EWL,1982-05-22,1989-11-04,Wikipedia station list,1.317247385,103.8922608,your OneMap geocode
+Bedok MRT,EWL,EWL,1982-05-22,1989-11-04,Wikipedia station list,1.323979969,103.9299845,your OneMap geocode
+Tampines MRT,DTL/EWL,EWL,1982-05-22,1989-12-16,Wikipedia station list,1.355,103.94389,https://en.wikipedia.org/wiki/Tampines_MRT_station
+Simei MRT,EWL,EWL,1982-05-22,1989-12-16,Wikipedia station list,1.343197079,103.9533772,your OneMap geocode
+Pasir Ris MRT,CRL/EWL,EWL,1982-05-22,1989-12-16,Wikipedia station list,1.373043316,103.9492845,your OneMap geocode
+Bukit Gombak MRT,NSL,NSL,1982-05-22,1990-03-10,Wikipedia station list,1.358611591,103.7517909,your OneMap geocode
+Bukit Batok MRT,NSL,NSL,1982-05-22,1990-03-10,Wikipedia station list,1.349033312,103.7495665,your OneMap geocode
+Choa Chu Kang MRT,NSL,NSL,1982-05-22,1990-03-10,Wikipedia station list,1.38536847,103.7440849,your OneMap geocode
+Boon Lay MRT,EWL,EWL,1982-05-22,1990-07-06,Wikipedia station list,1.338604055,103.7060646,your OneMap geocode
+Kranji MRT,NSL,NSL,1982-05-22,1996-02-10,Wikipedia station list,1.425086981,103.7621375,your OneMap geocode
+Sembawang MRT,NSL,NSL,1982-05-22,1996-02-10,Wikipedia station list,1.449050822,103.8200461,your OneMap geocode
+Woodlands MRT,NSL/TEL,NSL,1982-05-22,1996-02-10,Wikipedia station list,1.43681963,103.7860668,your OneMap geocode
+Yew Tee MRT,NSL,NSL,1982-05-22,1996-02-10,Wikipedia station list,1.397535069,103.7474052,your OneMap geocode
+Marsiling MRT,NSL,NSL,1982-05-22,1996-02-10,Wikipedia station list,1.432521149,103.7740746,your OneMap geocode
+Admiralty MRT,NSL,NSL,1982-05-22,1996-02-10,Wikipedia station list,1.440588562,103.8009905,your OneMap geocode
+Expo MRT,DTL/EWL,EWL,1996-01-01,2001-01-10,Wikipedia station list,1.334549778,103.9615482,your OneMap geocode
+Dover MRT,EWL,EWL,1997-01-01,2001-10-18,Wikipedia station list,1.311405293,103.7786378,your OneMap geocode
+Changi Airport MRT,EWL,EWL,1996-01-01,2002-02-08,Wikipedia station list,1.357478974,103.9878836,your OneMap geocode
+Serangoon MRT,NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.350633615,103.8727717,your OneMap geocode
+Boon Keng MRT,NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.319939577,103.8620527,your OneMap geocode
+Little India MRT,DTL/NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.307243816,103.8498416,your OneMap geocode
+Farrer Park MRT,NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.3131403,103.8547547,your OneMap geocode
+Sengkang MRT,NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.391694626,103.8954847,your OneMap geocode
+Potong Pasir MRT,NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.331378085,103.8693635,your OneMap geocode
+Chinatown MRT,DTL/NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.283964052,103.8431419,your OneMap geocode
+Kovan MRT,NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.35990192,103.8844947,your OneMap geocode
+Hougang MRT,NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.370334724,103.8922618,your OneMap geocode
+Punggol MRT,CRL/NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.40528,103.9025,https://en.wikipedia.org/wiki/Punggol_MRT/LRT_station
+HarbourFront MRT,NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.265311399,103.8205573,your OneMap geocode
+Clarke Quay MRT,NEL,NEL,1996-03-01,2003-06-20,Wikipedia station list,1.287452114,103.8461192,your OneMap geocode
+Buangkok MRT,NEL,NEL,1996-03-01,2006-01-15,Wikipedia station list,1.383694172,103.89305,your OneMap geocode
+Joo Koon MRT,EWL,EWL,2005-01-01,2009-02-28,Wikipedia station list,1.327717041,103.678375,your OneMap geocode
+Pioneer MRT,EWL,EWL,2005-01-01,2009-02-28,Wikipedia station list,1.337587011,103.6973216,your OneMap geocode
+Marymount MRT,CCL,CCL,2001-01-01,2009-05-28,Wikipedia station list,1.348707263,103.8394231,your OneMap geocode
+Lorong Chuan MRT,CCL,CCL,2001-01-01,2009-05-28,Wikipedia station list,1.351531286,103.8648122,your OneMap geocode
+Bartley MRT,CCL,CCL,2001-01-01,2009-05-28,Wikipedia station list,1.342445438,103.8801971,your OneMap geocode
+Bras Basah MRT,CCL,CCL,2001-01-01,2010-04-17,Wikipedia station list,1.296861686,103.8506674,your OneMap geocode
+Dakota MRT,CCL,CCL,2001-01-01,2010-04-17,Wikipedia station list,1.308431443,103.8892682,your OneMap geocode
+Mountbatten MRT,CCL,CCL,2001-01-01,2010-04-17,Wikipedia station list,1.306154061,103.8830451,your OneMap geocode
+Stadium MRT,CCL,CCL,2001-01-01,2010-04-17,Wikipedia station list,1.302812468,103.8753377,your OneMap geocode
+Tai Seng MRT,CCL,CCL,2001-01-01,2010-04-17,Wikipedia station list,1.335141501,103.8883893,your OneMap geocode
+Esplanade MRT,CCL,CCL,2001-01-01,2010-04-17,Wikipedia station list,1.291339907,103.8546095,your OneMap geocode
+Promenade MRT,CCL/DTL,CCL,2001-01-01,2010-04-17,Wikipedia station list,1.293997986,103.86035,your OneMap geocode
+MacPherson MRT,CCL/DTL,CCL,2001-01-01,2010-04-17,Wikipedia station list,1.326839632,103.8900079,your OneMap geocode
+Nicoll Highway MRT,CCL,CCL,2001-01-01,2010-04-17,Wikipedia station list,1.299766847,103.863637,your OneMap geocode
+Woodleigh MRT,NEL,NEL,1996-03-01,2011-06-20,Wikipedia station list,1.339828246,103.8709609,your OneMap geocode
+Botanic Gardens MRT,CCL/DTL,CCL,2001-01-01,2011-10-08,Wikipedia station list,1.322386995,103.8153855,your OneMap geocode
+one-north MRT,CCL,CCL,2001-01-01,2011-10-08,Wikipedia station list,1.299759875,103.7874575,your OneMap geocode
+Holland Village MRT,CCL,CCL,2001-01-01,2011-10-08,Wikipedia station list,1.312240296,103.7963991,your OneMap geocode
+Haw Par Villa MRT,CCL,CCL,2001-01-01,2011-10-08,Wikipedia station list,1.281956887,103.781989,your OneMap geocode
+Kent Ridge MRT,CCL,CCL,2001-01-01,2011-10-08,Wikipedia station list,1.293533499,103.7845727,your OneMap geocode
+Telok Blangah MRT,CCL,CCL,2001-01-01,2011-10-08,Wikipedia station list,1.270706477,103.8097616,your OneMap geocode
+Caldecott MRT,CCL/TEL,CCL,2001-01-01,2011-10-08,Wikipedia station list,1.337347223,103.8395441,your OneMap geocode
+Farrer Road MRT,CCL,CCL,2001-01-01,2011-10-08,Wikipedia station list,1.317439152,103.8073792,your OneMap geocode
+Labrador Park MRT,CCL,CCL,2001-01-01,2011-10-08,Wikipedia station list,1.272368386,103.8034162,your OneMap geocode
+Pasir Panjang MRT,CCL,CCL,2001-01-01,2011-10-08,Wikipedia station list,1.276213522,103.7913503,your OneMap geocode
+Bayfront MRT,CCL/DTL,CCL,2001-01-01,2012-01-14,Wikipedia station list,1.281873789,103.8590798,your OneMap geocode
+Telok Ayer MRT,DTL,DTL,2001-10-23,2013-12-22,your timeline,1.282068948,103.8486488,your OneMap geocode
+Downtown MRT,DTL,DTL,2001-10-23,2013-12-22,your timeline,1.279446382,103.8528408,your OneMap geocode
+Marina South Pier MRT,NSL,NSL,2008-01-01,2014-11-23,Wikipedia station list,1.271027036,103.8624475,your OneMap geocode
+Tan Kah Kee MRT,DTL,DTL,2001-10-23,2015-12-27,your timeline,1.326392241,103.8065482,your OneMap geocode
+Bukit Panjang MRT,DTL,DTL,2001-10-23,2015-12-27,your timeline,1.379561212,103.7611889,your OneMap geocode
+Rochor MRT,DTL,DTL,2001-10-23,2015-12-27,your timeline,1.303852185,103.8527694,your OneMap geocode
+King Albert Park MRT,CRL/DTL,DTL,2001-10-23,2015-12-27,your timeline,1.335893496,103.7832359,your OneMap geocode
+Cashew MRT,DTL,DTL,2001-10-23,2015-12-27,your timeline,1.369846014,103.7643151,your OneMap geocode
+Sixth Avenue MRT,DTL,DTL,2001-10-23,2015-12-27,your timeline,1.330857645,103.7969068,your OneMap geocode
+Hillview MRT,DTL,DTL,2001-10-23,2015-12-27,your timeline,1.362888457,103.7677809,your OneMap geocode
+Stevens MRT,DTL/TEL,DTL,2001-10-23,2015-12-27,your timeline,1.320065558,103.8260244,your OneMap geocode
+Beauty World MRT,DTL,DTL,2001-10-23,2015-12-27,your timeline,1.34090149,103.7757467,your OneMap geocode
+Gul Circle MRT,EWL,EWL,2011-01-01,2017-06-18,Wikipedia station list,1.319470901,103.6605305,your OneMap geocode
+Tuas Crescent MRT,EWL,EWL,2011-01-01,2017-06-18,Wikipedia station list,1.321026956,103.6490782,your OneMap geocode
+Tuas Link MRT,EWL,EWL,2011-01-01,2017-06-18,Wikipedia station list,1.340882425,103.6369914,your OneMap geocode
+Tuas West Road MRT,EWL,EWL,2011-01-01,2017-06-18,Wikipedia station list,1.329985047,103.6396166,your OneMap geocode
+Fort Canning MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.292481948,103.8443314,your OneMap geocode
+Bedok North MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.334742117,103.9179783,your OneMap geocode
+Geylang Bahru MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.321301102,103.8716226,your OneMap geocode
+Tampines East MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.35639,103.95472,https://en.wikipedia.org/wiki/Tampines_East_MRT_station
+Jalan Besar MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.305171388,103.8552957,your OneMap geocode
+Upper Changi MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.341739774,103.9614728,your OneMap geocode
+Ubi MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.32997426,103.8992267,your OneMap geocode
+Bendemeer MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.313672528,103.8629776,your OneMap geocode
+Mattar MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.326876715,103.8832475,your OneMap geocode
+Kaki Bukit MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.33496736,103.9084593,your OneMap geocode
+Bencoolen MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.298918434,103.8503538,your OneMap geocode
+Bedok Reservoir MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.33660783,103.9322346,your OneMap geocode
+Tampines West MRT,DTL,DTL,2001-10-23,2017-10-21,your timeline,1.345515306,103.938437,your OneMap geocode
+Canberra MRT,NSL,NSL,2014-08-01,2019-11-02,Wikipedia station list,1.443076641,103.8297026,your OneMap geocode
+Woodlands North MRT,TEL,TEL,2014-08-15,2020-01-31,your timeline,1.448292453,103.7856927,your OneMap geocode
+Woodlands South MRT,TEL,TEL,2014-08-15,2020-01-31,your timeline,1.427396053,103.7932643,your OneMap geocode
+Springleaf MRT,TEL,TEL,2014-08-15,2021-08-28,your timeline,1.397581061,103.8178569,your OneMap geocode
+Lentor MRT,TEL,TEL,2014-08-15,2021-08-28,your timeline,1.38550658,103.8357438,your OneMap geocode
+Bright Hill MRT,CRL/TEL,TEL,2014-08-15,2021-08-28,your timeline,1.363283185,103.8328936,your OneMap geocode
+Upper Thomson MRT,TEL,TEL,2014-08-15,2021-08-28,your timeline,1.354416434,103.8328985,your OneMap geocode
+Mayflower MRT,TEL,TEL,2014-08-15,2021-08-28,your timeline,1.371463188,103.8365678,your OneMap geocode
+Gardens By The Bay MRT,TEL,TEL,2014-08-15,2022-11-13,your timeline,1.278487259,103.8674547,your OneMap geocode
+Great World MRT,TEL,TEL,2014-08-15,2022-11-13,your timeline,1.293948162,103.8337208,your OneMap geocode
+Havelock MRT,TEL,TEL,2014-08-15,2022-11-13,your timeline,1.28850524,103.8335858,your OneMap geocode
+Orchard Boulevard MRT,TEL,TEL,2014-08-15,2022-11-13,your timeline,1.3024223,103.8238686,https://en.wikipedia.org/wiki/Orchard_Boulevard_MRT_station
+Napier MRT,TEL,TEL,2014-08-15,2022-11-13,your timeline,1.306782234,103.8189568,your OneMap geocode
+Maxwell MRT,TEL,TEL,2014-08-15,2022-11-13,your timeline,1.280533298,103.8438837,your OneMap geocode
+Shenton Way MRT,TEL,TEL,2014-08-15,2022-11-13,your timeline,1.277716828,103.8503676,your OneMap geocode
+Katong Park MRT,TEL,TEL,2014-08-15,2024-06-23,your timeline,1.297831478,103.8861789,your OneMap geocode
+Siglap MRT,TEL,TEL,2014-08-15,2024-06-23,your timeline,1.310008694,103.9300258,your OneMap geocode
+Bayshore MRT,TEL,TEL,2014-08-15,2024-06-23,your timeline,1.313122483,103.9423098,your OneMap geocode
+Marine Parade MRT,TEL,TEL,2014-08-15,2024-06-23,your timeline,1.302611635,103.9049831,your OneMap geocode
+Marine Terrace MRT,TEL,TEL,2014-08-15,2024-06-23,your timeline,1.306665103,103.9151067,your OneMap geocode
+Tanjong Katong MRT,TEL,TEL,2014-08-15,2024-06-23,your timeline,1.299319258,103.8973687,your OneMap geocode
+Tanjong Rhu MRT,TEL,TEL,2014-08-15,2024-06-23,your timeline,1.297265079,103.8734533,your OneMap geocode
+Punggol Coast MRT,NEL,NEL,2019-05-25,2024-12-10,Wikipedia station list,1.41528,103.91111,https://en.wikipedia.org/wiki/Punggol_Coast_MRT_station
+Hume MRT,DTL,DTL,2021-01-14,2025-02-28,your timeline,1.35444,103.76917,https://en.wikipedia.org/wiki/Hume_MRT_station
+Cantonment MRT,CCL,CCL,2013-01-17,2026-07-12,Wikipedia station list,1.27278,103.83667,https://en.wikipedia.org/wiki/Cantonment_MRT_station
+Keppel MRT,CCL,CCL,2013-01-17,2026-07-12,Wikipedia station list,1.27,103.83111,https://en.wikipedia.org/wiki/Keppel_MRT_station
+Prince Edward Road MRT,CCL,CCL,2013-01-17,2026-07-12,Wikipedia station list,1.27333,103.84722,https://en.wikipedia.org/wiki/Prince_Edward_Road_MRT_station
+Bedok South MRT,TEL,TEL,2014-08-15,2026-12-31,your timeline,1.316684007,103.9493112,your OneMap geocode
+Sungei Bedok MRT,TEL,TEL,2014-08-15,2026-12-31,your timeline,1.320401487,103.9571838,your OneMap geocode
+Tengah MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.366346891,103.7300631,your OneMap geocode
+Bahar Junction MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.3454222,103.7025417,https://en.wikipedia.org/wiki/Bahar_Junction_MRT_station
+Tengah Park MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.35244452,103.7367478,your OneMap geocode
+Tengah Plantation MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.357328911,103.7334677,your OneMap geocode
+Bukit Batok West MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.345629833,103.739573,your OneMap geocode
+Jurong West MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.349185001,103.7082858,your OneMap geocode
+Jurong Spur MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,,,
+Enterprise MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.33273167,103.7085798,your OneMap geocode
+Gek Poh MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.348340354,103.6980674,your OneMap geocode
+Hong Kah MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.358122008,103.726153,your OneMap geocode
+Jurong Lake District MRT,CRL/JRL,JRL,2013-01-17,2028-06-30,your timeline,1.32722,103.73917,https://en.wikipedia.org/wiki/Jurong_Lake_District_MRT_station
+Choa Chu Kang West MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.379227558,103.7400223,your OneMap geocode
+Corporation MRT,JRL,JRL,2013-01-17,2028-06-30,your timeline,1.353064681,103.7139432,your OneMap geocode
+Jurong Town Hall MRT,JRL,JRL,2013-01-17,2028-12-31,your timeline,1.326,103.746,https://en.wikipedia.org/wiki/Jurong_Town_Hall_MRT_station
+Pandan Reservoir MRT,JRL,JRL,2013-01-17,2028-12-31,your timeline,1.320458223,103.7448008,your OneMap geocode
+Toh Guan MRT,JRL,JRL,2013-01-17,2028-12-31,your timeline,1.339909057,103.7424948,your OneMap geocode
+West Coast MRT,CRL/JRL,JRL,2013-01-17,2028-12-31,your timeline,1.31079,103.757828,https://en.wikipedia.org/wiki/West_Coast_MRT_station
+Tukang MRT,JRL,JRL,2013-01-17,2029-12-31,your timeline,1.32541029,103.7092452,your OneMap geocode
+Jurong Hill MRT,JRL,JRL,2013-01-17,2029-12-31,your timeline,1.31862465,103.7101347,your OneMap geocode
+Jurong Pier MRT,JRL,JRL,2013-01-17,2029-12-31,your timeline,1.313110685,103.7103969,your OneMap geocode
+Nanyang Gateway MRT,JRL,JRL,2013-01-17,2029-12-31,your timeline,1.35369,103.68661,https://en.wikipedia.org/wiki/Nanyang_Gateway_MRT_station
+Tawas MRT,JRL,JRL,2013-01-17,2029-12-31,your timeline,1.350561224,103.69202,your OneMap geocode
+Peng Kang Hill MRT,JRL,JRL,2013-01-17,2029-12-31,your timeline,1.343205492,103.6785643,your OneMap geocode
+Nanyang Crescent MRT,JRL,JRL,2013-01-17,2029-12-31,your timeline,1.34836,103.68085,https://en.wikipedia.org/wiki/Nanyang_Crescent_MRT_station
+Aviation Park MRT,CRL,CRL,2019-01-01,2030-12-31,your timeline,1.37,104.00306,https://en.wikipedia.org/wiki/Aviation_Park_MRT_station
+Defu MRT,CRL,CRL,2019-01-01,2030-12-31,your timeline,1.362556148,103.8981954,your OneMap geocode
+Serangoon North MRT,CRL,CRL,2019-01-01,2030-12-31,your timeline,1.37056,103.87361,https://en.wikipedia.org/wiki/Serangoon_North_MRT_station
+Tampines North MRT,CRL,CRL,2019-01-01,2030-12-31,your timeline,1.36919,103.93786,https://en.wikipedia.org/wiki/Tampines_North_MRT_station
+Loyang MRT,CRL,CRL,2019-01-01,2030-12-31,your timeline,1.37194,103.97194,https://en.wikipedia.org/wiki/Loyang_MRT_station
+Teck Ghee MRT,CRL,CRL,2019-01-01,2030-12-31,your timeline,1.36556,103.84361,https://en.wikipedia.org/wiki/Teck_Ghee_MRT_station
+Tavistock MRT,CRL,CRL,2019-01-01,2030-12-31,your timeline,1.37,103.86333,https://en.wikipedia.org/wiki/Tavistock_MRT_station
+Pasir Ris East MRT,CRL,CRL,2019-01-01,2030-12-31,your timeline,1.367129283,103.9605573,your OneMap geocode
+Maju MRT,CRL,CRL,2022-09-20,2032-12-31,your timeline,1.328462,103.776993,https://en.wikipedia.org/wiki/Maju_MRT_station
+Riviera MRT,CRL,CRL,2020-03-10,2032-12-31,your timeline,1.39444,103.91611,https://en.wikipedia.org/wiki/Riviera_MRT/LRT_station
+Turf City MRT,CRL,CRL,2022-09-20,2032-12-31,your timeline,1.340775,103.794332,https://en.wikipedia.org/wiki/Turf_City_MRT_station
+Elias MRT,CRL,CRL,2020-03-10,2032-12-31,your timeline,1.384,103.938,https://en.wikipedia.org/wiki/Elias_MRT_station

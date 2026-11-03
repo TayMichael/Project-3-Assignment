@@ -1,0 +1,218 @@
+model,age,price_change_k_vs_new
+Plane S,0,0.0
+Plane S,2,-9.8
+Plane S,4,-19.7
+Plane S,6,-29.5
+Plane S,8,-39.3
+Plane S,10,-49.2
+Plane S,12,-59.5
+Plane S,14,-69.9
+Plane S,16,-78.5
+Plane S,18,-85.3
+Plane S,20,-92.2
+Plane S,22,-94.9
+Plane S,24,-97.6
+Plane S,26,-102.1
+Plane S,28,-108.5
+Plane S,30,-114.8
+Plane S,32,-123.8
+Plane S,34,-132.7
+Plane S,36,-145.6
+Plane S,38,-162.4
+Plane S,40,-179.2
+Plane S,42,-202.3
+Plane S,44,-225.3
+Plane S,46,-248.0
+Plane S,48,-270.4
+Plane S,50,-292.8
+Plane S,52,-322.6
+Plane S,54,-352.4
+Plane S,56,-383.4
+Plane S,58,-415.8
+Plane S,60,-448.1
+Random forest,0,0.0
+Random forest,2,0.0
+Random forest,4,0.0
+Random forest,6,-4.2
+Random forest,8,-9.0
+Random forest,10,-10.3
+Random forest,12,-11.2
+Random forest,14,-18.6
+Random forest,16,-36.9
+Random forest,18,-66.8
+Random forest,20,-101.0
+Random forest,22,-112.2
+Random forest,24,-119.2
+Random forest,26,-126.0
+Random forest,28,-131.6
+Random forest,30,-137.3
+Random forest,32,-143.0
+Random forest,34,-148.4
+Random forest,36,-157.0
+Random forest,38,-159.9
+Random forest,40,-164.3
+Random forest,42,-167.4
+Random forest,44,-172.8
+Random forest,46,-175.3
+Random forest,48,-176.9
+Random forest,50,-177.9
+Random forest,52,-179.9
+Random forest,54,-182.9
+Random forest,56,-183.4
+Random forest,58,-183.5
+Random forest,60,-183.6
+Gradient boosting,0,0.0
+Gradient boosting,2,-4.1
+Gradient boosting,4,-13.6
+Gradient boosting,6,-44.9
+Gradient boosting,8,-58.3
+Gradient boosting,10,-67.1
+Gradient boosting,12,-73.2
+Gradient boosting,14,-82.9
+Gradient boosting,16,-103.3
+Gradient boosting,18,-126.6
+Gradient boosting,20,-139.6
+Gradient boosting,22,-156.5
+Gradient boosting,24,-162.1
+Gradient boosting,26,-174.2
+Gradient boosting,28,-174.9
+Gradient boosting,30,-182.0
+Gradient boosting,32,-183.2
+Gradient boosting,34,-186.3
+Gradient boosting,36,-196.8
+Gradient boosting,38,-203.0
+Gradient boosting,40,-223.0
+Gradient boosting,42,-231.2
+Gradient boosting,44,-240.3
+Gradient boosting,46,-254.1
+Gradient boosting,48,-261.6
+Gradient boosting,50,-271.4
+Gradient boosting,52,-274.5
+Gradient boosting,54,-276.5
+Gradient boosting,56,-280.1
+Gradient boosting,58,-279.1
+Gradient boosting,60,-284.3
+XGBoost,0,0.0
+XGBoost,2,-2.1
+XGBoost,4,-9.6
+XGBoost,6,-40.5
+XGBoost,8,-53.5
+XGBoost,10,-58.6
+XGBoost,12,-70.8
+XGBoost,14,-79.1
+XGBoost,16,-102.4
+XGBoost,18,-122.8
+XGBoost,20,-139.1
+XGBoost,22,-153.1
+XGBoost,24,-158.7
+XGBoost,26,-170.2
+XGBoost,28,-168.6
+XGBoost,30,-176.2
+XGBoost,32,-178.7
+XGBoost,34,-187.7
+XGBoost,36,-199.8
+XGBoost,38,-208.0
+XGBoost,40,-220.0
+XGBoost,42,-227.6
+XGBoost,44,-238.0
+XGBoost,46,-245.0
+XGBoost,48,-249.9
+XGBoost,50,-255.9
+XGBoost,52,-260.7
+XGBoost,54,-258.5
+XGBoost,56,-259.1
+XGBoost,58,-260.2
+XGBoost,60,-263.9
+LightGBM,0,0.0
+LightGBM,2,-2.6
+LightGBM,4,-15.9
+LightGBM,6,-47.8
+LightGBM,8,-64.0
+LightGBM,10,-69.5
+LightGBM,12,-74.0
+LightGBM,14,-84.6
+LightGBM,16,-110.6
+LightGBM,18,-130.4
+LightGBM,20,-150.8
+LightGBM,22,-168.6
+LightGBM,24,-176.6
+LightGBM,26,-187.9
+LightGBM,28,-187.9
+LightGBM,30,-193.9
+LightGBM,32,-195.9
+LightGBM,34,-200.7
+LightGBM,36,-212.3
+LightGBM,38,-218.1
+LightGBM,40,-235.8
+LightGBM,42,-242.7
+LightGBM,44,-253.6
+LightGBM,46,-264.0
+LightGBM,48,-269.8
+LightGBM,50,-280.5
+LightGBM,52,-290.9
+LightGBM,54,-294.1
+LightGBM,56,-298.9
+LightGBM,58,-298.2
+LightGBM,60,-303.5
+Hybrid $,0,0.0
+Hybrid $,2,1.4
+Hybrid $,4,-4.9
+Hybrid $,6,-16.1
+Hybrid $,8,-23.0
+Hybrid $,10,-28.1
+Hybrid $,12,-41.4
+Hybrid $,14,-47.9
+Hybrid $,16,-57.8
+Hybrid $,18,-61.1
+Hybrid $,20,-68.2
+Hybrid $,22,-74.5
+Hybrid $,24,-75.3
+Hybrid $,26,-80.4
+Hybrid $,28,-85.2
+Hybrid $,30,-95.3
+Hybrid $,32,-99.0
+Hybrid $,34,-107.2
+Hybrid $,36,-114.4
+Hybrid $,38,-118.7
+Hybrid $,40,-142.3
+Hybrid $,42,-158.8
+Hybrid $,44,-177.8
+Hybrid $,46,-202.8
+Hybrid $,48,-224.6
+Hybrid $,50,-256.4
+Hybrid $,52,-273.9
+Hybrid $,54,-300.6
+Hybrid $,56,-333.1
+Hybrid $,58,-360.0
+Hybrid $,60,-399.3
+Hybrid %,0,0.0
+Hybrid %,2,11.6
+Hybrid %,4,5.8
+Hybrid %,6,-2.2
+Hybrid %,8,-7.1
+Hybrid %,10,-10.6
+Hybrid %,12,-29.4
+Hybrid %,14,-31.5
+Hybrid %,16,-36.1
+Hybrid %,18,-29.4
+Hybrid %,20,-34.8
+Hybrid %,22,-47.8
+Hybrid %,24,-53.6
+Hybrid %,26,-59.2
+Hybrid %,28,-63.5
+Hybrid %,30,-75.2
+Hybrid %,32,-76.5
+Hybrid %,34,-84.8
+Hybrid %,36,-85.4
+Hybrid %,38,-87.0
+Hybrid %,40,-114.2
+Hybrid %,42,-133.3
+Hybrid %,44,-155.2
+Hybrid %,46,-180.4
+Hybrid %,48,-205.7
+Hybrid %,50,-229.3
+Hybrid %,52,-253.6
+Hybrid %,54,-289.2
+Hybrid %,56,-335.2
+Hybrid %,58,-367.6
+Hybrid %,60,-407.7
